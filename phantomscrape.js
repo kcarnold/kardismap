@@ -27,8 +27,6 @@ page.open('http://www.guidestar.org/AdvancedSearch.aspx', function (status) {
 });
 };
 
-console.log(getDetailUrlforEin(ein));
-
 server.listen(12345, function(request, response) {
     var ein = request.post.request;
     getDetailUrlforEin(ein, function(url) {
