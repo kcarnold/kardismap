@@ -5,7 +5,7 @@ ghost = Ghost(download_images=False)
 print 'initial'
 page, resources = ghost.open('http://www.guidestar.org/AdvancedSearch.aspx')
 
-selectors = dict(name='h1.org-name')
+selectors = dict(name='h1.org-name', missionStatement='#mission .html-snippet')
 
 
 def getDetailUrlForEIN(ein):
