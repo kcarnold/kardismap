@@ -15,7 +15,7 @@
   </head>
   <body>
     <div style="position: absolute; left: 0; top:0; width: 15%; height: 100%; padding: 3px;">
-      <input type="text" id="search" placeholder="Search">
+      <input type="text" id="search" placeholder="Search"><button class="btn btn-success" id="searchBtn" type="submit">Search</button>
       <p><b>Nonprofits</b></p>
       <ul id="nonprofits">
       </ul>
@@ -71,7 +71,12 @@ function setNonprofitMode(where) {
   opt.styles[1].where = where;
   layer.setOptions(opt);
 }
+
+$('#searchBtn').click(function() {
+  setNonprofitMode(nonprofitCats[1][1]);
+});
     </script>
+
 
   </body>
 </html>
