@@ -10,28 +10,38 @@
     <script type="text/javascript"
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBWsYwxODcZAYgn_mY-_z0tLpHzJNpaqeQ&sensor=false">
     </script>
-    <script type="text/javascript">
-      function initialize() {
-        var mapOptions = {
-          center: new google.maps.LatLng(42.346365,-71.037598),
-          zoom: 8,
-          mapTypeId: google.maps.MapTypeId.ROADMAP
-        };
-        var map = new google.maps.Map(document.getElementById("map_canvas"),
-            mapOptions);
 
-	var layer = new google.maps.FusionTablesLayer({
-          query: {
-            select: 'Location',
-	    from: '1vVAnONu4g3nan9cVrW633MEfN0i_aabyPE1pGaA',
-          }
-        });
-        layer.setMap(map);
-
-      }
-    </script>
   </head>
-  <body onload="initialize()">
+  <body>
     <div id="map_canvas" style="width:100%; height:100%"></div>
+
+  <script type="text/javascript">
+var mapOptions = {
+  center: new google.maps.LatLng(42.346365,-71.037598),
+  zoom: 8,
+  mapTypeId: google.maps.MapTypeId.ROADMAP
+};
+var map = new google.maps.Map(document.getElementById("map_canvas"),
+    mapOptions);
+
+var opt = {
+  query: {
+    select: 'Location',
+    from: '1vVAnONu4g3nan9cVrW633MEfN0i_aabyPE1pGaA',
+  },
+  styles: [{
+    markerOptions: {
+      iconName: 'measle_white'
+    }
+  }, {
+    where: 'Name STARTS WITH \'A\'',
+    markerOptions: {
+      iconName: 'small_green'
+    }
+  }]
+};
+var layer = new google.maps.FusionTablesLayer(opt);
+layer.setMap(map);
+    </script>
   </body>
 </html>
