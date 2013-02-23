@@ -26,7 +26,8 @@ def doBatch(filename):
         parts = line.split('|')
         ein = parts[0]
         url = getDetailUrlForEIN(ein)
-        open('urls/{}.txt'.format(ein), 'w').write(url)
+        with open('urls/{}.txt'.format(ein), 'w') as f:
+            f.write(url)
 
 if __name__ == '__main__':
     import sys
