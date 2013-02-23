@@ -22,3 +22,14 @@ def scrape(href):
     for name, selector in selectors.iteritems():
         res[name] = root.cssselect(selector)[0].text
     return res
+
+def doBatch(filename):
+    for line in open(filename):
+        parts = line.split('|')
+        ein = parts[0]
+        url = getDetailUrlForEIN(ein)
+        open('urls/{}.txt'.format(ein), 'w').write(url)
+
+if __name__ == '__main__':
+    import sys
+    doBatch(sys.argv[1])
