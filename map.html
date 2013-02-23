@@ -56,6 +56,20 @@ var opt = {
 var layer = new google.maps.FusionTablesLayer(opt);
 layer.setMap(map);
 
+var heatmapOpts = {
+  query: {
+    select: 'location',
+    from: '1YJtQ03__FCXtUNG7_JUelKoK-DFksz1DXqQW9i0',
+
+  },
+  heatmap: {
+    enabled: true
+  }
+};
+
+var heatmapLayer = new google.maps.FusionTablesLayer(heatmapOpts);
+heatmapLayer.setMap(map);
+
 var nonprofitCats = [
   ['A', 'Arts, Culture & Humanities'],
   ['B', 'Education'],
