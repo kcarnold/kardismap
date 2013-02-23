@@ -30,7 +30,7 @@ def doBatch(filename):
             with open('urls/{}.txt'.format(ein), 'w') as f:
                 f.write(url)
         except:
-            print '!!!', url
+            print '!!!', ein
 
 if __name__ == '__main__':
     import sys
