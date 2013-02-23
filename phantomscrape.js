@@ -1,13 +1,14 @@
+var server = require('webserver').create()
 var fs = require('fs');
 
-function getDetailUrlforEin(ein) {
+function getDetailUrlforEin(ein, callback) {
 var page = require('webpage').create();
 page.open('http://www.guidestar.org/AdvancedSearch.aspx', function (status) {
     console.log("before document call " + ein);
     var pass;
     var fn = '(function(){ein="'+ein+'";})()';
     page.evaluate(new Function(fn));
-    
+
     var tmp = page.evaluate(function(){
         document.getElementById("ctl00_phMainBody_orgSearchConfiguration_keywords_txtValue").value = ein;
         document.querySelector('form#aspnetForm div#ctl00_divPageContainer.page-container div.page-content div#ctl00_phMainBody_advSearches.adv-searches div#ctl00_phMainBody_2.tab-contents fieldset.one-col input.form-button').click();
@@ -20,13 +21,19 @@ page.open('http://www.guidestar.org/AdvancedSearch.aspx', function (status) {
             return document.querySelector('#ctl00_phMainBody_rptSearchResults_ctl00_aOrganizationName').getAttribute('href');
         });
         //console.log("After load, I got: " + url);
-        fs.write('urls/'+ein+'.txt', url, 'w');
-        //page.render('info.png');
-        return url;
+        callback(url);
     };
     return foundUrl;
 });
 };
 
-var ein = "95-3757540";
 console.log(getDetailUrlforEin(ein));
+
+server.listen(12345, function(request, response) {
+    var ein = request.post.request;
+    getDetailUrlforEin(ein, function(url) {
+        response.statusCode = 200;
+        response.write(url);
+        response.close();
+    });
+});
