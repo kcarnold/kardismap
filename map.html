@@ -15,7 +15,7 @@
   </head>
   <body>
     <div style="position: absolute; left: 0; top:0; width: 15%; height: 100%; padding: 3px;">
-      <input type="text" id="search" placeholder="Search"><button class="btn btn-success" id="searchBtn" type="submit">Search</button>
+      <input type="text" id="search" class="input-medium search-query" placeholder="Search"><button class="btn btn-success" id="searchBtn" type="submit">Go!</button>
       <p><b>Nonprofits</b></p>
       <ul id="nonprofits">
       </ul>
@@ -38,8 +38,8 @@ var map = new google.maps.Map(document.getElementById("map_canvas"),
 
 var opt = {
   query: {
-    select: 'Location',
-    from: '1vVAnONu4g3nan9cVrW633MEfN0i_aabyPE1pGaA',
+    select: 'location',
+    from: '1YJtQ03__FCXtUNG7_JUelKoK-DFksz1DXqQW9i0',
   },
   styles: [{
     markerOptions: {
