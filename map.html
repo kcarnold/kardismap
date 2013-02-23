@@ -56,24 +56,45 @@ var layer = new google.maps.FusionTablesLayer(opt);
 layer.setMap(map);
 
 var nonprofitCats = [
-  ['Environment', "Name STARTS WITH 'A'"],
-  ['Homeless', "Name STARTS WITH 'B'"],
-  ['Animals', "Name STARTS WITH 'C'"],
-  ['Health', "Name STARTS WITH 'D'"],
+  ['A', 'ARTS, CULTURE & HUMANITIES'],
+  ['B', 'EDUCATION'],
+  ['C', 'ENVIRONMENT'],
+  ['D', 'ANIMAL-RELATED'],
+  ['E', 'HEALTH CARE'],
+  ['F', 'MENTAL HEALTH & CRISIS INTERVENTION'],
+  ['G', 'DISEASES, DISORDERS & MEDICAL DISCIPLINES'],
+  ['H', 'MEDICAL RESEARCH'],
+  ['I', 'CRIME & LEGAL-RELATED '],
+  ['J', 'EMPLOYMENT'],
+  ['K', 'FOOD, AGRICULTURE & NUTRITION '],
+  ['L', 'HOUSING & SHELTER'],
+  ['M', 'PUBLIC SAFETY, DISASTER PREPAREDNESS & RELIEF'],
+  ['N', 'RECREATION & SPORTS '],
+  ['O', 'YOUTH DEVELOPMENT'],
+  ['P', 'HUMAN SERVICES'],
+  ['Q', 'INTERNATIONAL, FOREIGN AFFAIRS & NATIONAL SECURITY '],
+  ['R', 'CIVIL RIGHTS, SOCIAL ACTION & ADVOCACY'],
+  ['S', 'COMMUNITY IMPROVEMENT & CAPACITY BUILDING '],
+  ['T', 'PHILANTHROPY, VOLUNTARISM & GRANTMAKING FOUNDATIONS'],
+  ['U', 'SCIENCE & TECHNOLOGY'],
+  ['V', 'SOCIAL SCIENCE'],
+  ['W', 'PUBLIC & SOCIETAL BENEFIT'],
+  ['X', 'RELIGION-RELATED '],
+  ['Y', 'MUTUAL & MEMBERSHIP BENEFIT '],
   ];
 
 $.each(nonprofitCats, function(i, x) {
-  var lbl = x[0], where = x[1];
-  $('<li>').append($('<a>').text(lbl).click(function(){setNonprofitMode(where);})).appendTo('#nonprofits');
+  var lbl = x[1], code = x[0];
+  $('<li>').append($('<a>').text(lbl).click(function(){setNonprofitCategory(code);})).appendTo('#nonprofits');
 });
 
-function setNonprofitMode(where) {
-  opt.styles[1].where = where;
+function setNonprofitCategory(cat) {
+  opt.styles[1].where = "nteeCode STARTS WITH '"+cat+"'";
   layer.setOptions(opt);
 }
 
 $('#searchBtn').click(function() {
-  setNonprofitMode(nonprofitCats[1][1]);
+  setNonprofitCategory('L');
 });
 
 navigator.geolocation.getCurrentPosition(function(position) {
