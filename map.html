@@ -21,9 +21,7 @@
       <div id="nonprofits">
       </div>
       <p><b>Needs</b></p>
-      <ul>
-        <li><a href="#">Homelessness</a></li>
-        <li><a href="#">Environment</a></li>
+      <ul id="needs">
       </ul>
     </div>
     <div id="map_canvas" style="position: absolute; right: 0; width:85%; height:100%"></div>
@@ -72,7 +70,10 @@ var heatmapOpts = {
 };
 
 var heatmapLayer = new google.maps.FusionTablesLayer(heatmapOpts);
-heatmapLayer.setMap(map);
+
+function heatmapOn() {
+  heatmapLayer.setMap(map);
+}
 
 var nonprofitCats = [
   ['A', 'Arts, Culture & Humanities'],
@@ -107,6 +108,13 @@ $.each(nonprofitCats, function(i, x) {
   $('#nonprofits').append($('<a>').text(lbl).click(function(){setNonprofitCategory(code);})).append(' | ');
 });
 
+$.each(['Homelessness', 'Environment'], function(i, x) {
+  var lbl = x;
+  console.log(lbl);
+  $('<li>').append($('<a>').text(lbl).click(function(){heatmapOn();})).appendTo('#needs');
+
+})
+
 function setNonprofitCategory(cat) {
   opt.styles[1].where = "nteeCode STARTS WITH '"+cat+"'";
   layer.setOptions(opt);
@@ -126,7 +134,7 @@ $(document).keydown(function(evt) {
       title: myProblem
     });
   }
-})
+});
 // navigator.geolocation.getCurrentPosition(function(position) {
 //   console.log(position.coords.latitude, position.coords.longitude);
 // });
