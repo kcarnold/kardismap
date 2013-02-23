@@ -75,6 +75,15 @@ function setNonprofitMode(where) {
 $('#searchBtn').click(function() {
   setNonprofitMode(nonprofitCats[1][1]);
 });
+
+navigator.geolocation.getCurrentPosition(function(position) {
+  console.log(position.coords.latitude, position.coords.longitude);
+  new google.maps.Marker({
+    position: new google.maps.LatLng(position.coords.latitude, position.coords.longitude),
+    map: map,
+    title: "I Am Here!"
+  });
+});
     </script>
 
 
