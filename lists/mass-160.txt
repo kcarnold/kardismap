@@ -1,0 +1,111 @@
+010845094|Roxbury Crossroads Theatre Inc.|Roxbury|MA|United States|PC
+026117755|Alden N Young Trust Fund|Framingham|MA|United States|PF
+041988530|Worcester Art Museum|Worcester|MA|United States|PC
+042103995|Christ Church Cambridge|Cambridge|MA|United States|PC
+042104852|Proprietors of the Boston Athenaeum|Boston|MA|United States|PC
+042131404|Stanley Park of Westfield Inc.|Westfield|MA|United States|POF
+042232412|Randolph Hebrew Center Inc.|Randolph|MA|United States|PC
+042374513|College Year in Athens Inc.|Cambridge|MA|United States|GROUP
+042470788|Autism Services Association Inc.|Wellesley Hills|MA|United States|PC
+042531865|Career Resources Corp|Haverhill|MA|United States|PC
+042586725|Haymarket Peoples Fund Inc.|Jamaica Plain|MA|United States|PC
+042616751|Lorraines Soup Kitchen & Pantry Inc.|Chicopee|MA|United States|PC
+042639987|The Stephen Phillips Memorial Preserve Trust|Boston|MA|United States|POF
+042666594|Communications for Learning Inc.|Arlington|MA|United States|PC
+042690508|Natick Little League Inc.|Natick|MA|United States|PC
+042711935|Friends of the Hudson Senior Center Inc.|Hudson|MA|United States|PC
+042735410|J C R T Foundation Inc.|Melrose|MA|United States|SOUNK
+042753459|Pinecroft School Inc.|Norton|MA|United States|PC
+042773389|T L C Trust Inc.|Fitchburg|MA|United States|PC
+042792005|Upper Room Christian Assembly|W Springfield|MA|United States|PC
+042868067|Bay State Village Association|Florence|MA|United States|PC
+042921522|Dartmouth Police Athletic League Inc.|South Darmouth|MA|United States|PC
+042964723|Southeastern Adoption Services I Inc.|Marion|MA|United States|PC
+043007191|Peer Servants|Lynn|MA|United States|PC
+043049546|North East Essex District Alliance for Mentally Inc.|Haverhill|MA|United States|PC
+043082358|Jccgb Service Corp|Newton|MA|United States|PC
+043108190|The Umass Memorial Foundation Inc.|Shrewsbury|MA|United States|PC
+043134046|Center for Technology Commercialization Inc.|Westborough|MA|United States|PC
+043158730|Fishermans Feast of Boston Inc.|Boston|MA|United States|PC
+043177615|Southampton Youth Athletic Assn Inc.|Southampton|MA|United States|PC
+043202727|Kehilat Aryeh Yehudah|Worcester|MA|United States|PC
+043226118|Greyhound Options Inc.|Ware|MA|United States|PC
+043245123|Gems of Hope USA Inc. C/O Leah Taylor Roy|Cohasset|MA|United States|PC
+043264261|Beacon Hill Circle for Charity Inc.|Boston|MA|United States|PC
+043282191|Colrain Vol Amb Assoc Inc.|Colrain|MA|United States|PC
+043296648|Anne-Marie Cancer Fund Inc.|Barre|MA|United States|PC
+043318911|Weymouth Educational Telecommunicators Corporation Inc.|East Weymouth|MA|United States|PC
+043337197|Big Hearts for Lil Angels Inc.|Leominster|MA|United States|PC
+043364089|Farr Foundation Inc.|Cambridge|MA|United States|PC
+043389338|D S D Scholarship Fund|Eastham|MA|United States|PC
+043405270|Society of Arts for Seniors|Foxboro|MA|United States|PC
+043425591|Day by Day Adult Care Inc.|Gloucester|MA|United States|PC
+043443031|Value Mortgage Foundation|Chelmsford|MA|United States|PF
+043466219|Susan E Simpson Charitable Foundation|Lexington|MA|United States|PF
+043484770|Charlestown Lacrosse Inc.|Charlestown|MA|United States|PC
+043499854|Keystone Montessouri Parent Organization|N Chelmsford|MA|United States|PC
+043519293|Wil-Dae Charitable Foundation Inc.|North Hatfield|MA|United States|PF
+043533320|Assembly of God Shalom Community Corp|Marlboro|MA|United States|PC
+043546730|Families for Depression Awareness|Waltham|MA|United States|PC
+043562885|Hope for the Hopeless Inc.|Boston|MA|United States|PC
+043578181|Westford Land Preservation Foundation Inc.|Westford|MA|United States|PC
+043809051|High Spirit Community Farm Inc.|Cambridge|MA|United States|PC
+046038331|Joseph M & Thelma Linsey Foundation|Newton|MA|United States|PF
+046055298|North Attleborough Historical Society Inc.|N Attleboro|MA|United States|PC
+046108949|William H Reisner Foundation|Clinton|MA|United States|PF
+046130159|Hovey Players Inc.|Waltham|MA|United States|PC
+046191408|Holy Tabernacle Church of God in Christ Apostolic Inc.|Dorchester|MA|United States|PC
+046659945|Danvers Rotary Club Charitable Endowment Trust|Saugus|MA|United States|PC
+046866932|Boston Art Dealers Association Tr|Boston|MA|United States|PC
+050548309|Brookline Community Center for the Arts Inc.|Brookline|MA|United States|PC
+111190035|Southeastern Massachusetts Veterans Housing Program Inc.|New Bedford|MA|United States|PC
+134251184|Igreja Evangelica Nova Vida|Clinton|MA|United States|PC
+161711588|Friends of the Mary O Malley Park Inc.|Chelsea|MA|United States|PC
+200683403|West Springfield Rotary Foundation Inc.|W Springfield|MA|United States|PC
+201440761|Cappella Clausura Inc.|Newtonville|MA|United States|PC
+202126638|Oak Hill Middle School Parent Teacher Organization|Newton Centre|MA|United States|PC
+203034710|United We Stand for Jason Inc.|Milton|MA|United States|PC
+203909536|Noble & Cooley Center for Historic Preservation Corp|Granville|MA|United States|PC
+204751696|Shedrub Development Fund Inc.|Northampton|MA|United States|PC
+205543905|Sandwich Schools Band Boosters Inc.|East Sandwich|MA|United States|PC
+207203353|Alexander Aronson Finning & Co Charitable Foundation|Westborough|MA|United States|PF
+208805806|Chelsea Youth and Families Partnership Inc.|Chelsea|MA|United States|PC
+222511961|Friends of the Dracut Elderly Inc.|Dracut|MA|United States|PC
+222563147|Berean Fellowship|New Bedford|MA|United States|PC
+222647045|Greater Boston Council on Alcoholism Inc.|Framington|MA|United States|PF
+222789372|Cambridge-Yerevan Sister City Association Inc.|Cambridge|MA|United States|PC
+222958508|Celebrity Series of Boston|Boston|MA|United States|PC
+223064323|Mary Ann Morse Healthcare Corp|Framingham|MA|United States|PC
+223191450|Lower Cape Cod Community Development Corporation|Eastham|MA|United States|PC
+223432160|Public Conversations Project Inc.|Watertown|MA|United States|PC
+237055674|Nashua River Watershed Association Inc.|Groton|MA|United States|PC
+237177659|Bromley Heath Tenant Management Corp Inc.|Jamaica Plain|MA|United States|PC
+237330112|Literacy Volunteers of Massachusetts Inc.|Boston|MA|United States|PC
+256498015|Fresh Pond Tr|Cambridge|MA|United States|PF
+260783134|Learn to Love Inc.|Westwood|MA|United States|PC
+261635378|Herman F Becker Family Charitable Foundation Inc.|Webster|MA|United States|PF
+262437362|I-Care America Inc.|Boston|MA|United States|PC
+263143284|National Forum on Information Literacy Inc.|Cambridge|MA|United States|PC
+263773234|Inner City Academic Achievers|Boston|MA|United States|PC
+264456559|Blue Star Equiculture Incorporated|Bondsville|MA|United States|PC
+270267939|Christopher James Burnham Memorial Fund|Wilbraham|MA|United States|PC
+270983929|Frederic & Agnes Maloof Foundation Inc.|Dedham|MA|United States|PF
+271564225|African Great Youth Education Initiative Inc.|Cambridge|MA|United States|PC
+272204294|Dream Big Inc.|Auburndale|MA|United States|PC
+272921951|Vulvodynia Matters Inc.|Waltham|MA|United States|PC
+273618453|Organic Change Inc.|Feeding Hills|MA|United States|PC
+274670630|Building A Better Beverly Inc.|Beverly|MA|United States|PC
+300145886|The Chamber Orchestra of Boston Inc.|Boston|MA|United States|PC
+300651878|Cambridge Carnival International Inc.|Cambridge|MA|United States|PC
+311809539|World Youth Mission Inc.|Waltham|MA|United States|PC
+342063639|All for the Animals Inc.|Sagamore Bch|MA|United States|PC
+371536791|The Milton Community Food Pantry Incorporated|Milton|MA|United States|PC
+421640665|Latin Balle Pee the Child is Innocent|Boston|MA|United States|PC
+451810873|Community Leadership Institution of Cape Cod and the Islands Inc.|Hyannis|MA|United States|PC
+453064098|Foundation for Global Health Service|Boston|MA|United States|PC
+454357347|Friends of Forbes Library Inc.|Northampton|MA|United States|PC
+510141633|Congregation Ahavaf Achim|Westfield|MA|United States|PC
+510653450|Ministerio La Palabra Uncion Y Fuego|Everett|MA|United States|PC
+550824431|Sports Save Souls Inc.|Dover|MA|United States|PC
+571174217|Brush Hill Development Corp|South Yarmouth|MA|United States|PC
+65126745

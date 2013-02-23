@@ -1,0 +1,112 @@
+010805808|Scream USA|Whitinsville|MA|United States|PC
+020813212|Bright Spirit Childrens Foundation Inc.|Needham|MA|United States|PC
+041833930|Signet Society|Cambridge|MA|United States|PC
+042103925|Boys & Girls Club of Pittsfield|Pittsfield|MA|United States|PC
+042104807|South Boston Neighborhood House Inc.|South Boston|MA|United States|PC
+042127024|Monson Home for Aged People Inc.|Monson|MA|United States|POF
+042218928|Berkshire County Arc Inc.|Pittsfield|MA|United States|PC
+042348804|Temple Sinai of Sharon Inc.|Sharon|MA|United States|PC
+042462788|Association for the Preservation of Cape Cod Inc.|Barnstable|MA|United States|PC
+042525066|Lynn Community Health Inc.|Lynn|MA|United States|PC
+042582808|Counseling Center in the Berkshires Inc.|Pittsfield|MA|United States|PC
+042614458|Massachusetts Coalition for Occupational Safety & Health Inc.|Dorchester|MA|United States|PC
+042636823|Church of Christ Consciousness|Gt Barrington|MA|United States|PC
+042664623|Lower Cape Communications Inc.|Provincetown|MA|United States|PC
+042688724|Robbins Foundation the|Fall River|MA|United States|PF
+042710112|First Church of Deerfield|Deerfield|MA|United States|PC
+042734006|Church of Christ of Pittsfield|Pittsfield|MA|United States|PC
+042751387|Womens Action for New Directions Education Fund Inc.|Arlington|MA|United States|PC
+042770980|Emerson Health Care Foundation Inc.|Concord|MA|United States|SOUNK
+042790951|Unity of Cape Cod Inc.|W Hyannisport|MA|United States|PC
+042864070|Friends of Thayer Public Library Inc.|Braintree|MA|United States|PC
+042917154|Southborough Extended Day Program Inc.|Southborough|MA|United States|PC
+042956375|Caribbean Heritage Assoc Inc.|Boston|MA|United States|PC
+043001787|Small Friends on Nantucket Inc.|Nantucket|MA|United States|PC
+043044136|Concord Open Land Foundation Inc.|Concord|MA|United States|SOUNK
+043079185|Parent Teachers Organization|Acton|MA|United States|PC
+043105737|Rising Star Quilters Guild|Belmont|MA|United States|PC
+043132500|Womens Institute for Leadership Development Inc.|Boston|MA|United States|PC
+043156452|Lawrence Partners in Education Inc.|Lawrence|MA|United States|PC
+043175325|Shriver Clinical Services Corporation|Wakefield|MA|United States|PC
+043201225|Kids Are People Elementary School Inc.|Boston|MA|United States|PC
+043223871|Boston Employment Service Inc.|Dorchester|MA|United States|PC
+043243770|Ruths House Inc.|Haverhill|MA|United States|PC
+043262136|The Charis Institute Inc.|Lexington|MA|United States|PF
+043280353|Community Foundation of Southeastern Massachusetts Inc.|New Bedford|MA|United States|PC
+043295230|Gay Mens Domestic Violence Project|Cambridge|MA|United States|PC
+043316737|Cranberry Research Foundation Inc.|Carver|MA|United States|PC
+043335268|Iglesia Pentecostal De Fe Nacido De Nuevo|Fitchburg|MA|United States|PC
+043361525|Noreaster Soccer Club Inc.|Swansea|MA|United States|PC
+043386445|Harbus Foundation|Boston|MA|United States|SOUNK
+043403157|Lunenburg Youth Soccer Association|Lunenburg|MA|United States|PC
+043424501|Victory Girl Productions|Stockbridge|MA|United States|PC
+043440257|Community School Pto|N Attleboro|MA|United States|PC
+043464339|Altshuller Institute for Triz Studies|Worcester|MA|United States|PC
+043483627|Eye of the Storm Equine Rescue Inc.|Stow|MA|United States|PC
+043496944|Morse Hill Outdoor Education Center Incorporated|Leverett|MA|United States|PC
+043517737|Coghlin Services Fund|Worcester|MA|United States|PF
+043532348|Projectile Arts|Sheffield|MA|United States|PC
+043545090|The Katherine Bradford Foundation|Boston|MA|United States|PF
+043561610|Adopt-A-Patient Foundation Inc.|Methuen|MA|United States|PC
+043576457|Revelations Baptist Church|Roxbury|MA|United States|PC
+043757139|Friends of the Sandwich Council on Aging Inc.|Sandwich|MA|United States|PC
+046036514|Annie F Ober Tr FBO of Young Mens Christian Association Beverly Reg|Beverly|MA|United States|SOUNK
+046053994|Arlington Historical Society|Arlington|MA|United States|POF
+046088114|Justin & Genevieve Wyner Trust|Boston|MA|United States|PF
+046126888|Medway Veterans Building Association Inc.|Medway|MA|United States|EO
+046185862|Boston Cement Masons and Asphalt Layers No 534 Apprentice and Train|Boston|MA|United States|PC
+046628772|Baker Family Trust|Wellesley|MA|United States|PF
+046861363|Brendan Bubencik Research Tr|Franklin|MA|United States|PC
+050445211|Generations Alumni Drum & Bugle Corps|Seekonk|MA|United States|PC
+100004882|Marthas Vineyard Community Television Inc.|Vineyard Hvn|MA|United States|PC
+134204181|Liberians for Peace and Reconstruction Inc.|Worcester|MA|United States|PC
+161666343|Omicron Educational Foundation Inc.|Boston|MA|United States|PC
+200588190|Center for Information and Study on Clinical Research Participation In|Boston|MA|United States|PC
+201358418|Jewish Aid Worldwide America Israel and Beyond Inc.|Salem|MA|United States|PC
+202045452|Bourne Youth Baseball Inc.|Buzzards Bay|MA|United States|PC
+202950011|Saugus Lions Club Charities Inc.|Saugus|MA|United States|PC
+203848260|Allison Family Charitable Foundation|Belmont|MA|United States|PF
+204661646|Bridgewater Girls Softball League|Bridgewater|MA|United States|PC
+205467750|Reunion Christian Church|Boston|MA|United States|PC
+206798439|Sarah W Rollins Charitable Tr|Cambridge|MA|United States|PF
+208734231|Armenia 2020 Inc.|Cambridge|MA|United States|PC
+222506560|Friends of the Swampscott Public Library Inc.|Swampscott|MA|United States|PC
+222558454|East Street Dance Center Inc.|Hadley|MA|United States|PC
+222624536|Hamilton Hall Inc.|Salem|MA|United States|POF
+222779696|Boston Bluegrass Union Inc.|West Newton|MA|United States|PC
+222946812|Chester Foundation Inc.|Chester|MA|United States|PC
+223058493|Barre Center for Buddhist Studies Inc.|Barre|MA|United States|SOUNK
+223181028|Technical Assistance Collaborative Inc.|Boston|MA|United States|PC
+223363222|Mansfield Choral Society|Attleboro|MA|United States|PC
+237037159|Divine Grace Church of Faith Inc.|Boston|MA|United States|PC
+237168031|Olde Holyoke Development Corporation|Holyoke|MA|United States|PC
+237314326|North Reading Athletic Boosters Association|North Reading|MA|United States|PC
+250514770|The Unidos Parents Organization Inc.|Somerville|MA|United States|PC
+260704711|National Association for Community College Entrepreneurship Inc.|Springfield|MA|United States|PC
+261596148|Honeyman Inc.|Springfield|MA|United States|PC
+262351718|Tri-County Hockey Association|Franklin|MA|United States|PC
+263078703|Cape Cod Disaster Animal Response Team Inc.|Barnstable|MA|United States|PC
+263717110|Stop & Shop Giant Helping Hands Inc.|Quincy|MA|United States|PC
+264396122|Our Space Inc.|Belmont|MA|United States|PC
+270192834|Center for Gospel Culture|Boston|MA|United States|PC
+270914291|Boston Share Network|Acton|MA|United States|PC
+271521499|Cdio Foundation of America Inc.|Cambridge|MA|United States|PC
+272135783|World Royal City Ministries|Newton|MA|United States|PC
+272861817|Masonic Foundation for Haitians Inc.|Randolph|MA|United States|PC
+273539121|Berlin Family Food Pantry|Berlin|MA|United States|PC
+274514262|Northeast Accessible Golf Association Inc.|Wellesley|MA|United States|PC
+300120776|Mmta Scholarship Fund|Boston|MA|United States|PC
+300584230|Namirembe Church of Uganda Boston|Waltham|MA|United States|PC
+311760030|Uma Foundation Inc.|Dorchester|MA|United States|PF
+341978835|Lawrence Rotary Foundation Inc.|Andover|MA|United States|PC
+371438271|Dedham Highschool Alumni Association Inc.|Dedham|MA|United States|PC
+421549127|Elise Gilbert Foundation Ltd.|Middleton|MA|United States|PC
+451585594|Dedham Library Innovation Team Inc.|Dedham|MA|United States|PC
+452988963|Sisha USA|Boston|MA|United States|PC
+454171207|Sand Springs Recreation Center Inc.|Williamstown|MA|United States|PC
+470889813|Glass Town Gala Inc.|Sandwich|MA|United States|PC
+510586965|The Silver New-Tones Inc.|Newton|MA|United States|PC
+542195079|Kasiisi Project Inc.|Weston|MA|United States|PC
+570774576|Feeling Good About Yourself Inc.|Springfield|MA|United States|PC
+651192263|Colonial Pipers Bagpipe Band Inc.|Attleboro Fls|MA|United States|PC
+75

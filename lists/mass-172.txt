@@ -1,0 +1,112 @@
+010873923|Jdr Jr Memorial Foundation|Scituate|MA|United States|PC
+030353555|Burlington Church of Christ Inc.|Framingham|MA|United States|PC
+042013908|Boston Medical Library|Boston|MA|United States|PC
+042104026|United Way of Greater Fall River Inc.|Fall River|MA|United States|PC
+042104937|Society for the Preservation of New England Antiquities Inc.|Boston|MA|United States|PC
+042133246|Boys and Girls Club of Taunton Incorporated|Taunton|MA|United States|PC
+042237789|Beverly Historical Society Inc.|Beverly|MA|United States|PC
+042381340|Boston Childrens School Inc.|Boston|MA|United States|PC
+042474531|Cloverdale Cooperative Nursery School|Florence|MA|United States|PC
+042536140|Holden Chapel|Holden|MA|United States|PC
+042589677|St. Francis of Assisi Residences at Braintree Inc.|Braintree|MA|United States|PC
+042618629|Gospel Reach-Out Inc.|Arlington|MA|United States|PC
+042642553|M I T Womens Independent Living Group Corp|Cambridge|MA|United States|EO
+042667831|Christian Mission to Churchless Communities|Lanesville|MA|United States|PC
+042691633|Friends of Upton Elders Inc.|Medway|MA|United States|PC
+042713479|Friends of the Eastham Public Library Inc.|Eastham|MA|United States|PC
+042737010|Massachusetts Health Education and Research Fdn Inc.|Jamaica Plain|MA|United States|PC
+042754606|New England Golf Association Inc.|Norton|MA|United States|PF
+042774017|Stepping Stones Child Care Inc.|Hanover|MA|United States|PC
+042794517|Abbington Academy Inc.|E Falmouth|MA|United States|PC
+042874587|Amesbury Youth Funding Inc.|Amesbury|MA|United States|PF
+042923589|Association of the Harvard Class of 1960|Weston|MA|United States|SOUNK
+042967514|Sheffield Kiwanis Club Inc.|Sheffield|MA|United States|PC
+043010542|Orthodox Congregation of the North Shore|Marblehead|MA|United States|PC
+043051023|Village Club|Needham|MA|United States|PF
+043084901|Abington Green Wave Boosters Inc.|Abington|MA|United States|PC
+043109800|Rockport Rotary Club Scholarship Fund|Rockport|MA|United States|PC
+043135139|Somerville High School Track Parent S and Alumni Club Inc.|Somerville|MA|United States|PC
+043160060|Onset Bay Association Inc.|Onset|MA|United States|PC
+043179009|Northeast Hawkwatch Inc.|Southwick|MA|United States|PC
+043204112|Hospitality Homes Inc.|Boston|MA|United States|PC
+043227857|Friends of the Farm Inc.|Northampton|MA|United States|PC
+043246256|Jilmar Foundation Inc.|Billerica|MA|United States|PF
+043265387|Robin Blecher Celtic Arts Inc.|Cambridge|MA|United States|PC
+043283106|Bud Herzog Theatre Arts Scholarship Fund|Canton|MA|United States|PC
+043298114|Constable Foundation|Sherborn|MA|United States|PF
+043319914|Commonwealth Housing Inc.|Wellesley|MA|United States|PC
+043338308|Three Bays Preservation Inc.|Osterville|MA|United States|PC
+043366134|Friends of the Wilmington Memorial Library|Wilmington|MA|United States|PC
+043390855|Freedom Worship Center Inc.|West Boylston|MA|United States|PC
+043406364|Skills Bank Corporation|Worcester|MA|United States|PC
+043426208|Tanks Kids Inc.|Worcester|MA|United States|PC
+043444377|Food Addicts in Recovery Anonymous Inc.|Woburn|MA|United States|PC
+043467040|Bardeen-Greytak Family Foundation|Chestnut Hill|MA|United States|PF
+043485934|Colonial Theatre Association Inc.|Pittsfield|MA|United States|PC
+043500938|Geneva Avenue Elderly Housing Inc.|Wellesley|MA|United States|PC
+043520022|Woodside School and Community Resource Center|Plymouth|MA|United States|PC
+043534508|Concord-Carlisle Patrons of Performing Students Inc.|Concord|MA|United States|SOUNK
+043547343|Topsfield Main Street Foundation|Topsfield|MA|United States|PC
+043563283|National Jewish Coalition for Literacy Inc.|Boston|MA|United States|PC
+043579298|Next Step Fund Inc.|Cambridge|MA|United States|PC
+043848393|Friends of the Wendell Free Library Inc.|Wendell|MA|United States|PC
+046039281|Worcester District Medical Society|Worcester|MA|United States|PC
+046056824|Norman Knight Charitable Foundation|Boston|MA|United States|PF
+046110040|First Congregational Church of Yarmouth|Yarmouth Port|MA|United States|PC
+046130440|Scituate Historical Society|Scituate|MA|United States|PC
+046193029|The Yesley Charitable Trust|Newton Hlds|MA|United States|PF
+046668886|Metanoia Fund Tr|Boston|MA|United States|PF
+046874584|Alison Rollins Scholarship Foundation Trust|Mashpee|MA|United States|PF
+050588064|Youth and Family Enrichment Services|Hyde Park|MA|United States|PC
+112836564|The Janey Fund Charitable Trust|Chestnut Hill|MA|United States|PF
+134324477|New England Christian Media Inc.|Seekonk|MA|United States|PC
+161757000|Jericho Road Lawrence Inc.|N Andover|MA|United States|PC
+200748435|Give to Remember Foundation Inc.|South Easton|MA|United States|PC
+201492152|Praise Tabernacle Worship Church|Lowell|MA|United States|PC
+202166463|Amesbury Girls Youth Softball League Inc.|Amesbury|MA|United States|PC
+203095515|Falmouth Military Support Group|Teaticket|MA|United States|PC
+203946440|Kahn Family Charitable Foundation|Wellesley|MA|United States|PF
+204783935|Chelmsford Police Athletic League Inc.|Chelmsford|MA|United States|PC
+205603602|Pepperell Ashby Townsend Youth Hockey Association Inc.|West Townsend|MA|United States|PC
+207418520|Foley Family Scholarship|Plymouth|MA|United States|PF
+208861308|Streilein Foundation for Ocular Immunology Inc.|Boston|MA|United States|PC
+222514148|Womens Lunch Place Inc.|Boston|MA|United States|PC
+222565287|Widows Friend Inc.|Forestdale|MA|United States|PC
+222659529|The 300 Committee Inc.|Falmouth|MA|United States|PC
+222803659|Temple Shalom Inc.|Bourne Station|MA|United States|PC
+222967513|Matthew 25 Inc.|Worcester|MA|United States|PC
+223072106|Coolidge Association of Parents and Educators|Shrewsbury|MA|United States|PC
+223195631|West Newbury Pto|West Newbury|MA|United States|PC
+223457384|Americas Less Fortunate Incorporated|Medford|MA|United States|PC
+237066018|Nashoba Conservation Trust|Pepperell|MA|United States|PC
+237182586|Westboro Amateur Hockey Association Inc.|Westborough|MA|United States|PC
+237346419|Three Rivers Center for the Arts Inc.|Groton|MA|United States|PC
+260024075|Crehan Odonnell Diomede|Walpole|MA|United States|PC
+260847220|Progressive Business Leaders Network Inc.|Boston|MA|United States|PC
+261670104|Society for Classical Reform Judaism Inc.|Boston|MA|United States|PC
+262471693|Tender Beauty Foundation Inc.|Holden|MA|United States|PC
+263183139|Green Valley Montessori School|Southbridge|MA|United States|PC
+263791607|Play 2 Dream Charitable Foundation|Boston|MA|United States|PF
+264512104|Manjushri Dharma Center Inc.|Abington|MA|United States|PC
+270301965|Oxbow Schoolhouse|Devens|MA|United States|PC
+271022428|Meadow Brook School Parent Teacher Organization Inc.|E Longmeadow|MA|United States|PC
+271612293|Bill Petravage Memorial Foundation Inc.|Greenfield|MA|United States|PC
+272249040|Metrowest Nonprofit Network Inc.|Framingham|MA|United States|PC
+272964722|Gateway Community Support Services|Lowell|MA|United States|PC
+273675513|Sanskar Culture Society|Fitchburg|MA|United States|PC
+274705366|Westfield Dog Bark Friends|Westfield|MA|United States|PC
+300160294|Docomomo Us-New England Incorporated|Cambridge|MA|United States|PC
+300686126|The Family Circle Inc.|Canton|MA|United States|PC
+316651454|Riggs Cove Foundation|Boston|MA|United States|PF
+352197562|Pierce School Parent Teacher|Brookline|MA|United States|PC
+371604292|Freedom to Humanity Inc.|Swampscott|MA|United States|PC
+421705506|Innovation Israel Inc.|Lexington|MA|United States|PC
+452015342|Rock Mission Center Inc.|Andover|MA|United States|PC
+453133068|Fred and Judy Schmid Foundation|Marblehead|MA|United States|PF
+454484887|Food Pantry Foundation of Stoughton Inc.|Stoughton|MA|United States|PC
+510153284|Thomas Anthony Pappas Charitable Foundation Inc.|Belmont|MA|United States|PF
+521168405|Marine Chemists Assn Inc.|Grafton|MA|United States|PF
+550843263|Groton-Dunstable Youth Basketball League Inc.|Groton|MA|United States|PC
+571193333|Waldorf High School of Massachusetts Bay Inc.|Belmont|MA|United States|PC
+651320520|The Lions Club of Easton Foundation Inc.|Easton|MA|United States|PC
+753197031|

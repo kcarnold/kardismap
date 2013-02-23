@@ -1,0 +1,109 @@
+010532101|Nergg Inc.|Needham|MA|United States|PC
+020361816|New England Section of the Ninety-Nines Inc.|Lynn|MA|United States|GROUP
+030504010|Helen Keller Elementary Parent Communication Council|Franklin|MA|United States|PC
+042103581|Henry Heywood Memorial Hospital|Gardner|MA|United States|PC
+042104304|Hills & Falls Community Nursery School Incorporated|Newton L F|MA|United States|PC
+042105888|Haverhill Young Womens Christian Association Inc.|Haverhill|MA|United States|PC
+042152680|Community United Way of Pioneer Valley Inc.|Springfield|MA|United States|PC
+042278062|Massachusetts Lions Eye Research Fund Inc.|New Bedford|MA|United States|PC
+042418109|Adcare Educational Institute Inc.|Worcester|MA|United States|PC
+042491657|Hull Medical Center Incorporated|Hingham|MA|United States|PC
+042554822|Actors Workshop Theatre Training Institute Inc.|Allston|MA|United States|PC
+042599846|New Jerusalem Church of God in Christ Inc.|Springfield|MA|United States|PC
+042623711|Creative Arts for Kids Inc.|Reading|MA|United States|PC
+042650263|Sandwich Health Association Inc.|Sandwich|MA|United States|SOUNK
+042676136|Falmouth Road Race Inc.|Falmouth|MA|United States|PC
+042699399|Savoy Parent Teacher Group Inc.|Savoy|MA|United States|PC
+042720843|Boxford Police Relief Association|Boxford|MA|United States|PC
+042741645|Discovery Museums Inc.|Acton|MA|United States|PC
+042761754|White Fund Inc.|Lawrence|MA|United States|PF
+042776797|Pediatric Development Center Inc.|Pittsfield|MA|United States|PC
+042803567|Palmer Ambulance Service Inc.|Palmer|MA|United States|PC
+042887815|Bigelow Cooperative Day Care Center|Somerville|MA|United States|PC
+042936197|Greater Quincy Child Care Center Inc.|Quincy|MA|United States|PC
+042978701|Medfield Coalition for Public Education Inc.|Medfield|MA|United States|PC
+043023706|Association for Women in Slavic Studies|Brookline|MA|United States|PC
+043062180|Winchendon Youth Hockey|Winchendon|MA|United States|PC
+043094402|Holliston Elementary Parents Organization|Holliston|MA|United States|PC
+043117177|Greater Lowell Good Friday Walk Inc.|Westford|MA|United States|PC
+043138954|Abodes Inc.|Amherst|MA|United States|PC
+043166698|Keel Foundation|Boston|MA|United States|PF
+043185876|Harry Agganis Team Fund|Winthrop|MA|United States|PC
+043211211|Hingham Community Center Corp|Hingham|MA|United States|PC
+043234724|Wild Care Inc.|Eastham|MA|United States|PC
+043251784|Metropolitan Waterworks Museum Inc.|Chestnut Hill|MA|United States|PC
+043270369|Kitty Angels Inc.|Tyngsborough|MA|United States|PC
+043287450|Massachusetts Bird of Prey Rehabilitation Facility|Conway|MA|United States|PC
+043304489|The Performing Artists at Lincoln School|Brookline|MA|United States|PC
+043325611|Patriarkado De Ia Sakra Iglesia Tao Kristiana Universal Movimiento Sos|E Boston|MA|United States|PC
+043344681|Mazar Charitable Foundation Fund|Boston|MA|United States|PF
+043371516|Avidia Charitable Foundation Inc.|Hudson|MA|United States|PF
+043395877|Cambridge Licensee Advisory Board|Cambridge|MA|United States|PC
+043411828|Uab of New Life Christian Center|Worcester|MA|United States|PC
+043430294|Refugee and Immigrant Assistance Center Inc.|Jamaica Plain|MA|United States|PC
+043451920|Single Parent Family Outreach Inc.|Brookline|MA|United States|PC
+043473310|Crawford Idema Fam Foundation Inc.|Concord|MA|United States|PF
+043490404|Scituate Basketball Association Inc.|Marshfield|MA|United States|PC
+043505925|Massachusetts Organization for Addiction Recovery|Boston|MA|United States|PC
+043524028|New England Music Festival Association Inc.|Chicopee|MA|United States|PC
+043538097|The Fall River Public Library Foundation Inc.|Fall River|MA|United States|SOUNK
+043552719|Tripp Memorial Foundation Inc.|Greenfield|MA|United States|PC
+043567871|Marinella Famly Foundation|Wellesley|MA|United States|PF
+043582486|Limbe Association Boston|Boston|MA|United States|PC
+046006527|Nantucket Civic League|Nantucket|MA|United States|PC
+046044855|Mac Dougall Student Loan Fund|Hanover|MA|United States|PF
+046064571|Eldredge Public Library|Chatham|MA|United States|PC
+046112571|Wrentham Assn for Retarded Citizens Inc.|Norwell|MA|United States|PC
+046139356|Jessie Gordon Sherman Trust UW Fiduciary Trust Co Trustee|Boston|MA|United States|PF
+046360057|Cheryl Spencer Memorial Foundation|West Roxbury|MA|United States|PF
+046745184|John and Barbara Guiuggio Foundation|Boston|MA|United States|PF
+046907024|Thomas M & Nancy Oneill Foundation|Duxbury|MA|United States|PF
+061427317|Credit Counseling Solutions Inc.|Peabody|MA|United States|PC
+113801574|Douglas Elementary School Parent Teacher Organization|Douglas|MA|United States|PC
+136887815|Fair Share Foundation|Pelham|MA|United States|PF
+200172439|Boston Bruins Charitable Foundation Inc.|Boston|MA|United States|PC
+200995298|Boston Bhangra Inc.|Brookline|MA|United States|PC
+201734080|Outdoor Church of Cambridge|Lexington|MA|United States|PC
+202425196|Gama Publishing Incorporated|Boston|MA|United States|UNKWN
+203361694|Gifts for Kids Inc.|Sharon|MA|United States|PC
+204118165|Uganda Rural Fund USA Inc.|Duxbury|MA|United States|PC
+205048270|Leo Almeida Memorial Fund Inc.|Cambridge|MA|United States|PC
+205817793|Wolf & Company Charitable Foundation Inc.|Boston|MA|United States|PF
+208180181|Environmental Massachusetts Research and Policy Center|Boston|MA|United States|PC
+222474823|Jeanne Geiger Crisis Center Inc.|Newburyport|MA|United States|PC
+222528377|International Fisheries Research and Museum Inc.|West Brewster|MA|United States|PC
+222581214|Church of Christ at Plymouth Incorporated|Plymouth|MA|United States|PC
+222703314|Southcoast Physicians Group Inc.|Fairhaven|MA|United States|PC
+222852977|New England Ophthalmological Society Inc. 85 Central St.|Boston|MA|United States|PC
+222999430|The Jebediah Foundation|Boston|MA|United States|PF
+223102199|Aviv Foundation Inc.|Swampscott|MA|United States|PC
+223223310|Fairhaven Land Preservation Trust Inc.|Fairhaven|MA|United States|PC
+223874558|Barnabas Ministries Inc.|Hopkinton|MA|United States|PC
+237097091|Lunenburg Parent Teachers Organization|Lunenburg|MA|United States|PC
+237225358|American Society for Legal History|Cambridge|MA|United States|PC
+237378148|Sterling Ems Inc.|Sterling|MA|United States|PC
+260289157|Bryan T Rossik Memorial Golf Tournament Scholarship Fund|Leicester|MA|United States|PC
+261224683|Alumni and Friends of Belmont High School|Marstons Mls|MA|United States|PC
+261933107|Assyrian American Association of Massachusetts Inc.|Milton|MA|United States|PC
+262736099|Whole Child Foundation for Complimentary Health Inc.|Florence|MA|United States|PC
+263354190|Mountaineer Foundation Inc.|Boston|MA|United States|PC
+263958604|North Shore Flag Football League Inc.|Beverly|MA|United States|PC
+264737943|Revival Church for the Nations|Everett|MA|United States|PC
+270479634|Friends of Herring River Wellfleet-Truro|Wellfleet|MA|United States|PC
+271215371|Friends for Matty Foundation Inc.|Bedford|MA|United States|PC
+271768870|Ahoto Partnership for Ghana Inc.|Cambridge|MA|United States|PC
+272438543|Northeast Coonhound Rescue Inc.|Lexington|MA|United States|PC
+273148081|Great Danes Around New England Rescue Inc.|Adams|MA|United States|PC
+273901680|Princes and Dolls Foundation Inc.|Burlington|MA|United States|PC
+275379626|Mansfield High School Boosters Club Inc.|Mansfield|MA|United States|PC
+300262455|College Application Education Project Inc.|Lynn|MA|United States|PC
+311591239|Mental Health Programs Inc-Xi|Netwon|MA|United States|PC
+320249174|Coaches Across Continents Inc.|Watertown|MA|United States|PC
+352441650|Sandwich Legacy Foundation Inc.|Sandwich|MA|United States|PC
+383835769|Ellens Heart & Soul Inc.|Somerville|MA|United States|PC
+432026934|Alice M Barrows Parent-Teachers Organization|Reading|MA|United States|PC
+452492205|Stem Garden Institute Inc.|Milton|MA|United States|PC
+453534924|Flyleaf Theater Company|Westborough|MA|United States|PC
+455007706|Operation Hammond First Response Inc.|Somerville|MA|United States|PC
+510189348|Easthampton Little League Inc.|Easthampton|MA|United States|PC
+522069951|Mirowsky Family Foundation In

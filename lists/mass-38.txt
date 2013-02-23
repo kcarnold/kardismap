@@ -1,0 +1,111 @@
+010561393|Robert Haywood Morrison Foundation|Waltham|MA|United States|PF
+020482125|New Bedford Museum of Glass Inc.|New Bedford|MA|United States|PC
+030528853|Bear Spot Foundation for Equine Facilitated Psychotherapy Inc.|Concord|MA|United States|PC
+042103591|Massachusetts Eye and Ear Infirmary|Boston|MA|United States|PC
+042104323|Hospital Cottages for Children Inc.|Baldwinville|MA|United States|PC
+042105921|Dedham Community Association Inc.|Dedham|MA|United States|PC
+042157061|Trustees of the Ayer Home|Lowell|MA|United States|PF
+042281954|Worldboston|Boston|MA|United States|PC
+042428995|Common School Inc.|Amherst|MA|United States|PC
+042494881|The Boston Church of Christ|Framingham|MA|United States|PC
+042556183|ABC Longmeadow Inc.|Longmeadow|MA|United States|PC
+042600860|Barnstable Historical Society|Barnstable|MA|United States|PC
+042625181|Church of the Spiritual Life Inc.|Auburn|MA|United States|PC
+042650809|Center for Information Policy Research Inc.|Cambridge|MA|United States|PC
+042677185|South Shore Mental Health Center Inc.|Quincy|MA|United States|PC
+042700725|Alliance for Substance Abuse Prevention Inc.|Nantucket|MA|United States|PC
+042721963|Friends of Needham Elderly Inc.|Needham|MA|United States|PC
+042742253|Fiske Extended Day Program Inc.|Lexington|MA|United States|PC
+042761960|Central Massachusetts Dialysis Group Incorporated|Worcester|MA|United States|PC
+042777290|Massachusetts Association of Minority Law Enforcement Officers|Dorchester|MA|United States|PC
+042809777|Greater Lynn Photographic Association Inc.|Lynn|MA|United States|PC
+042888703|The Friends of the Joseph H Plumb Memorial Library Inc.|Rochester|MA|United States|PC
+042937255|Lynn Business-Education Foundation Inc.|Lynn|MA|United States|PC
+042980014|Shelburne Community School Council Incorporated|Roxbury|MA|United States|PC
+043026416|Nauset Youth Hockey Association|East Orleans|MA|United States|PC
+043063382|Irish International Immigrant Center Inc.|Boston|MA|United States|PC
+043095757|Goal Foundation Inc.|Northborough|MA|United States|PC
+043119224|Collicot School P T O|Milton|MA|United States|PC
+043140015|New Hope Christian Church Inc.|Springfield|MA|United States|PC
+043167349|Massachusetts Sports Partnership Inc.|Boston|MA|United States|PC
+043187075|Healthy Directions Inc.|Lynn|MA|United States|PC
+043211683|Bay Cove Hamilton Group Home Inc.|Boston|MA|United States|PC
+043235379|Poduska Family Foundation Inc.|Weston|MA|United States|PF
+043252419|Islamic Association of Massachusetts Incorporated|Chelsea|MA|United States|PC
+043271118|Scandinavian Library Inc.|Newton|MA|United States|PC
+043287920|Outdoor Explorations Inc.|Medford|MA|United States|PC
+043305376|Temple Beth Elohim Endowment Fund Inc.|Wellesley|MA|United States|SOUNK
+043326519|200 Foundation|Framingham|MA|United States|PC
+043345783|Community Resources Technology Inc.|Lexington|MA|United States|PC
+043372134|Longfellow Non-Profit Housing Inc.|Boston|MA|United States|PC
+043396270|Gloucester Celebration Corporation|Gloucester|MA|United States|PF
+043412318|Ipswich Shellfish Foundation Inc.|Ipswich|MA|United States|PF
+043431537|Trinity Catholic Academy Endowment Fund Inc.|Southbridge|MA|United States|SOUNK
+043452444|Elizabeth and George L Sanborn Foundation for the Treatment and|Arlington|MA|United States|PF
+043473631|Spencer Cable Access Corporation|Spencer|MA|United States|PC
+043490827|Residential Support Services Inc.|Newton|MA|United States|PC
+043506648|Roxbury Presbyterian Church Social Impact Center Inc.|Roxbury|MA|United States|PC
+043524529|Caro Research Institute Inc.|Lincoln|MA|United States|PF
+043538634|Btl Music Inc.|Boston|MA|United States|SOUNK
+043553402|Neponset Valley River Rats Inc.|Mansfield|MA|United States|PC
+043568362|Friends of New Falmouth Senior Center|Falmouth|MA|United States|PC
+043583085|Word Up Ministries International Inc.|Brockton|MA|United States|PC
+046012766|American Memorial Hospital Inc.|Boston|MA|United States|PF
+046045227|Dartmouth Educational Association|Sharon|MA|United States|PC
+046065467|Middleton Historical Society|Middleton|MA|United States|PC
+046112825|Carlisle Conservation Foundation Inc.|Carlisle|MA|United States|PC
+046140811|Sterling Historical Society Inc.|Sterling|MA|United States|PC
+046374405|Asbestos Workers Education & Training Fund|Boston|MA|United States|PC
+046756976|Jonathan H Poorvu Foundation|Cambridge|MA|United States|PF
+046911403|The Sdsc Global Foundation|Andover|MA|United States|PF
+061519057|Franklin W Olin College of Engineering Inc.|Needham|MA|United States|PC
+113839578|Parenting Resource Directory Corp|Northampton|MA|United States|PC
+137131926|Herman and Frieda L Miller Foundation|Boston|MA|United States|PF
+200217550|Peri Support Fund Inc.|Amherst|MA|United States|SOUNK
+201050296|Prajnopaya Foundation|Carlisle|MA|United States|PC
+201745447|Warren-Prescott Foundation Inc.|Charlestown|MA|United States|PC
+202482452|Newton Community Farm Inc.|Newton|MA|United States|PC
+203393428|The Association of Independent Technological Universities Inc.|Worcester|MA|United States|SO
+204164124|Gouchberg Charitable Foundation|Swampscott|MA|United States|PF
+205095412|Wingaway Charitable Trust|Duxbury|MA|United States|PF
+205853396|Explore Historic Plymouth Inc.|Plymouth|MA|United States|PC
+208249712|Ecova Mali|Swampscott|MA|United States|PC
+222475551|Boston Womens Fund Inc.|Boston|MA|United States|PC
+222531186|Berkshire Scenic Railway Museum Inc.|Lenox|MA|United States|PC
+222582060|New England Life Flight Inc.|Bedford|MA|United States|SOUNK
+222708049|Faith Bible Church of Shrewsbury|Grafton|MA|United States|PC
+222858816|Cape Cod Dressage Association Inc.|Osterville|MA|United States|PC
+223003811|Orthodox Christian Association of Medicine Psycholagy and Religion I|Brookline|MA|United States|PC
+223109701|The Scituate Rotary Foundation|Scituate|MA|United States|PF
+223232815|Massachusetts Early Intervention Consortium Inc.|Concord|MA|United States|PC
+223892261|Massachusetts Coalition for Healthy Communities|Lexington|MA|United States|PC
+237100537|Massasoit Community College Foundation Inc.|Brockton|MA|United States|PC
+237233033|H H Gagnon Housing Inc.|Fitchburg|MA|United States|PC
+237383965|Fish of Lexington Inc.|Lexington|MA|United States|PC
+260306964|Sandra Forziati Family Foundation Dated June 5 2007|Marblehead|MA|United States|PF
+261272876|Emmons-Bradlee Foundation|Cambridge|MA|United States|PF
+261969309|Steven Grinspoon Medical Foundation|W Springfield|MA|United States|PF
+262755832|Music Access Group Inc.|Dedham|MA|United States|PC
+263371336|Ace Mv Inc.|Edgartown|MA|United States|PC
+263987455|Tern Foundation Inc.|Eastham|MA|United States|PF
+264784817|Bresky Foundation|Newton Centre|MA|United States|PF
+270513709|Stow Youth Basketball Association|Stow|MA|United States|PC
+271237978|Essex North Shore Agricultural Technical Foundation Inc.|Middleton|MA|United States|PC
+271803066|Fletcher Maynard Academy Parent Teacher Organization|Cambridge|MA|United States|PC
+272460359|Democracy Works Inc.|Cambridge|MA|United States|PC
+273172223|Rockland Hanson Rotary Foundation|Hanson|MA|United States|PC
+273932476|Crowe Family Foundation|Boston|MA|United States|PF
+275447596|One Penny|Wrentham|MA|United States|PC
+300280509|Fourah Bay Community Foundation Inc.|Roslindale|MA|United States|PC
+311608489|Immunoasis Inc.|Feeding Hills|MA|United States|PC
+320269885|Friends of Hrant Dink Inc.|Watertown|MA|United States|PC
+356867332|James H & Irene M Hunter Charitable Tr|Boston|MA|United States|PF
+383865977|The Learning Center at Bromley- heath Qalicb Inc.|Boston|MA|United States|SO
+432059083|Tisbury Firefighters Association Inc.|Vineyard Hvn|MA|United States|PC
+452514148|Spectrum of Hope Charitable Foundation|Kingston|MA|United States|PC
+453580292|Love Life Now Foundation Inc.|Brockton|MA|United States|PC
+455163085|Bridges Together Inc.|Maynard|MA|United States|PC
+510192436|Institute for Foreign Policy|Cambridge|MA|United States|PC
+522129689|Hubbart Youth Bowling Program|Dorchester|MA|United States|PF
+562341579|Nbt II Foundation|Boston|MA|United States|PF
+611419486|Life Quest Community Churc

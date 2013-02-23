@@ -1,0 +1,108 @@
+010814383|Somerville Open Studios Inc.|Somerville|MA|United States|PC
+026007642|South Hampton Baptist Church|Amesbury|MA|United States|PC
+041858710|Proprietors of the Springfield Cemetery|Springfield|MA|United States|EO
+042103938|Brockton Day Nursery Inc.|Brockton|MA|United States|PC
+042104820|Paul Revere Memorial Assoc Corp|Boston|MA|United States|PC
+042128457|Pilgrim John Howland Society Inc.|Chelmsford|MA|United States|PC
+042221700|Centerville Public Library Assoc Inc.|Centerville|MA|United States|PC
+042349499|The Arc of South Norfolk Inc.|Westwood|MA|United States|PC
+042464259|Boys & Girls Club of Greater|Westfield|MA|United States|PC
+042526194|Servicenet Inc.|Northampton|MA|United States|PC
+042583027|Kaji Aso Studio Inc.|Boston|MA|United States|PC
+042615125|Ipswich River Watershed Association Inc.|Ipswich|MA|United States|PC
+042637667|Weymouth Youth Hockey Inc.|South Weymouth|MA|United States|PC
+042664784|Merrimack Repertory Theatre|Lowell|MA|United States|PC
+042689151|Stow Counselling Services Inc.|Stow|MA|United States|PC
+042711494|Mission Main Tenants Task Force Incorporated|Boston|MA|United States|PC
+042734173|Pioneer Valley Waldorf School Association Inc.|Hadley|MA|United States|PC
+042752507|Codman Square Neighborhood Development Corporation|Dorchester|MA|United States|PC
+042770997|Norman D Cohen Family Foundation|Boston|MA|United States|PF
+042791245|Wistariahurst Museum Association Inc.|Holyoke|MA|United States|PC
+042864255|Lower Cape Outreach Council Inc.|Orleans|MA|United States|PC
+042921313|The Jewish Home for Aged Foundation Inc.|Worcester|MA|United States|PC
+042958082|Veterans Benefits Clearinghouse Development Corporation|Dorchester|MA|United States|PC
+043002994|Assembly of Christian Churches Arch of Refuge of Lowell Inc.|Lowell|MA|United States|PC
+043044722|Little Flower Daycare Inc.|Marlboro|MA|United States|PC
+043080418|Clark Tournament Committee Inc.|Westborough|MA|United States|PC
+043106683|Big Pond Association Inc.|Ware|MA|United States|PC
+043132922|Childrens Discovery Museum of Cape Cod Inc.|Mashpee|MA|United States|PC
+043157173|Friends of the Harwich Early Childhood Advisory Council Inc.|Harwich|MA|United States|PC
+043176212|Salem Access Tv|Salem|MA|United States|PC
+043201702|Cambridgeport Afterschool Program Inc.|Cambridge|MA|United States|PC
+043224394|Multi-Service Eating Disorders Association Inc.|Newton|MA|United States|PC
+043244039|Bethleen Haitian Baptist Church|Dorchester|MA|United States|PC
+043262641|Ashmont Hill Association Inc.|Dorchester|MA|United States|PC
+043280846|Tewksbury Community Pantry Inc.|Tewksbury|MA|United States|PC
+043295447|Association for the Advancement of Psychosynthesis|Cheshire|MA|United States|PC
+043316917|Hearthstone Alzheimers Foundation Inc.|Woburn|MA|United States|PC
+043335811|Studio for the Promotion of Arts Culture and Excellence an Artistic|Dorchestr Ctr|MA|United States|PC
+043361828|Friends of the Dennis Public Library Inc.|Dennisport|MA|United States|PC
+043387252|Prescott Conservancy Inc.|Boston|MA|United States|POF
+043404007|Friends of the Children Foundation Inc.|Saugus|MA|United States|PF
+043424802|Commercial and Industrial Photographers of New England Inc.|Tewksbury|MA|United States|PC
+043440846|Norton Cable Access Inc.|Norton|MA|United States|POF
+043464820|Friends of Lawrence Heritage State Park|Lawrence|MA|United States|PC
+043484055|Michael A Molloy Trust Fund|Lynn|MA|United States|PF
+043497609|Employment Links Inc.|Leominster|MA|United States|PC
+043517955|Open Fields Inc.|Dover|MA|United States|PC
+043532648|Sandwich Area Community Access Television Inc.|Sandwich|MA|United States|PC
+043545530|Rebuilding Together Worcester|Worcester|MA|United States|PC
+043562024|Barbara Santaniello Research Fund Inc.|Springfield|MA|United States|PC
+043577297|Sackcloth Ministries Inc.|Framingham|MA|United States|PC
+043765665|Jones River Landing Enviromental Heritage Center Inc.|Kingston|MA|United States|SOUNK
+046036697|Stearns Charitable Trust|Boston|MA|United States|PF
+046054237|Scots Charitable Society Boston Mass Womans Auxiliary Board|Natick|MA|United States|PF
+046089219|Hanover Visiting Nurse Association Inc.|Hanover|MA|United States|PC
+046128116|The American Legion Govoni Post 387 Inc.|Kingston|MA|United States|EO
+046188789|Amesbury High School Alumni Assn|Amesbury|MA|United States|PC
+046636905|Leona Karp Family Foundation|Framingham|MA|United States|PF
+046864742|Nathalie and Theodore Jones Char Tr FBO Unitarian Univ Assc Award Fund|Boston|MA|United States|SOUNK
+050493226|Campus Compact|Boston|MA|United States|PC
+100008514|Norton Community Theatre Inc.|Norton|MA|United States|PC
+134218435|African Health Foundation Inc.|Framingham|MA|United States|PC
+161687005|Exercices Matinales Missionary Group|Boston|MA|United States|PC
+200604421|Fitchburg Riverfront Park Foundation Inc.|Fitchburg|MA|United States|PC
+201363186|Islamic Society of Greater Worcester|Worcester|MA|United States|PC
+202057814|Cameron Kids Inc.|Marion|MA|United States|PC
+202974574|Friends of Eleanor Sonsini Animal Shelter Inc.|Pittsfield|MA|United States|PC
+203864725|Sullivan Family Foundation|Boston|MA|United States|POF
+204694877|Rogers Elementary School Educational & Recreational Foundati|Fairhaven|MA|United States|PC
+205483701|Mustard Seed Missions Inc.|West Hatfield|MA|United States|PC
+206954999|Teach Green Charitable Foundation|Boston|MA|United States|POF
+208745166|Lafayette Rehabilitation and Skilled Nursing Facility Inc.|Haverhill|MA|United States|PC
+222507964|Church in the Pines|W Wareham|MA|United States|PC
+222559211|Watertown Art Associaton Inc.|Watertown|MA|United States|PC
+222627130|Massachusetts Senior Care Foundation Inc.|Newton Lower Falls|MA|United States|PC
+222781175|S Melvin Rines Foundation|Weston|MA|United States|PF
+222948715|Hyde Park Municipal Building Community Center Inc.|Hyde Park|MA|United States|PC
+223059278|Boston Chinese Buddhist Society Inc.|Boston|MA|United States|PC
+223184415|Mits Inc.|Quincy|MA|United States|PC
+223382427|Ipswich Junior Sailing Inc.|Ipswich|MA|United States|PC
+237039551|Massachusetts Association of Older Americans Inc. Vista Program No 3|Boston|MA|United States|PC
+237168825|Hingham Land Conservation Trust|Hingham|MA|United States|PC
+237320614|Boston Jazz Society Inc.|Dorchester|MA|United States|PC
+251607838|Wood Foundation of Chambersburg Pa|Cambridge|MA|United States|PF
+260738711|Newton Tree Conservancy Inc.|Newton|MA|United States|PC
+261610802|Parkman Family Foundation|Haverhill|MA|United States|PF
+262367620|Journey Forward Inc.|Canton|MA|United States|PC
+263090953|Ic-Haiti|Newburyport|MA|United States|PC
+263731176|Wise Counsel Research Inc.|Jamaica Plain|MA|United States|PC
+264411760|Sharon M Cerny Foundation Inc.|Dedham|MA|United States|PF
+270202973|Animal Protection Center of Southeastern Massachusetts Inc.|Brockton|MA|United States|PC
+270932155|Enlightened Leadership and Beyond Inc.|New Bedford|MA|United States|PC
+271536238|New England Farmers Union Education Foundation|Shelburne Fls|MA|United States|PC
+272151456|Ma Otis S Pantry Inc.|East Falmouth|MA|United States|PC
+272883899|Commonwealth Second Amendment Inc.|Jamaica Plain|MA|United States|PC
+273545047|Youth for Peace|Gardner|MA|United States|PC
+274565214|Middleton Council on Aging Fri|Middleton|MA|United States|PC
+300131383|Dance Center Booster Club|Chicopee|MA|United States|PC
+300591383|Milford High School Booster Club Inc.|Milford|MA|United States|PC
+311771358|International Bridges to Justice|Boston|MA|United States|PC
+342000947|Struckbylightning Org Inc.|West Yarmouth|MA|United States|PF
+371461910|Teachers Loft Inc.|Holyoke|MA|United States|PC
+421564184|Massachusetts Coalition for the Prevention of Medical Errors Inc.|Burlington|MA|United States|PC
+451628581|Inclusion Body Myositis Foundation Inc.|Newton|MA|United States|POF
+452999612|Attleboro Youth Basketball Association Inc.|Attleboro|MA|United States|PC
+454214497|Evet Arts Incorporated|East Boston|MA|United States|PC
+481265347|Ann and Neil Ferguson Supporting Organization|S Hamilton|MA|United States|SOUNK
+510608954|Mildred H Aitken School Pto|Seekon

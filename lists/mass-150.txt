@@ -1,0 +1,110 @@
+010824277|Billerica Cat Care Coalition|N Billerica|MA|United States|PC
+026012486|Youth Tennis Foundation of New England|Westborough|MA|United States|PC
+041887680|Swedish Cemetery Corporation|Worcester|MA|United States|EO
+042103947|Nashoba Brooks School of Concord|Concord|MA|United States|PC
+042104831|Peoples Institute of Northhampton Inc.|Northampton|MA|United States|PC
+042129132|Howard Benevolent Society|Boston|MA|United States|PF
+042225643|Applewild School|Fitchburg|MA|United States|PC
+042373760|Carousel School Inc.|Waltham|MA|United States|PC
+042466767|Holyoke Chicopee Springfield Head Start Inc.|Springfield|MA|United States|PC
+042526944|Square Dance Foundation of New England Inc.|Reading|MA|United States|PC
+042584084|Worcester Area Intergroup Inc.|Worcester|MA|United States|PC
+042615329|Faith Baptist Church|Florence|MA|United States|PC
+042638649|Massachusetts Water Works Association Incorporated|Acton|MA|United States|PC
+042665105|Friends of the Harwich Youth Center|Harwich|MA|United States|PC
+042689402|Community Training and Assistance Center Inc.|Boston|MA|United States|PC
+042711615|Marion-Bermuda Crusing Yacht Race Association Inc.|Marion|MA|United States|PC
+042734329|Grove Street Gallery Inc.|Worcester|MA|United States|PC
+042752893|Hyde Charitable Foundation|Southbridge|MA|United States|PF
+042771148|Forward Inc.|Boston|MA|United States|POF
+042791362|Positive Action Against Chemical Addiction Inc.|New Bedford|MA|United States|PC
+042867665|Methuen Youth Soccer Association Inc.|Methuen|MA|United States|PC
+042921384|Lunenburg Music Aiders Incorporated|Lunenburg|MA|United States|PC
+042961763|East Longmeadow Rotary Memorial Scholarship Foundation Inc.|E Longmeadow|MA|United States|PF
+043003968|Friends of the Yellow Jackets|Middleton|MA|United States|PC
+043045957|Preschool for Creative Beginnings Inc.|Sharon|MA|United States|PC
+043080765|Danvers Management Systems Inc.|Pittsfield|MA|United States|PC
+043106907|Catholic Engaged Encounter of Boston Inc.|Westford|MA|United States|PC
+043133052|Greater Life Baptist Church|Dorchester|MA|United States|PC
+043157289|Northampton Education Foundation Inc.|Northampton|MA|United States|PC
+043176257|Church of God of Prophecy|Roxbury|MA|United States|PC
+043201871|Redemption Christian Center International|Worcester|MA|United States|PC
+043224489|Mental Health Programs Inc. IX|Newton|MA|United States|PC
+043244191|Literacy Volunteers of America|Pittsfield|MA|United States|PC
+043263050|Natick Center Associates Incorporated|Natick|MA|United States|PC
+043281587|Paw Safe Animal Rescue Inc.|Medford|MA|United States|PC
+043295922|John Bertram House of Swampscott Inc.|Swampscott|MA|United States|PC
+043317590|Tremont Theatre Inc.|Boston|MA|United States|SOUNK
+043336127|Tuckernuck Land Tr Inc.|Nantucket|MA|United States|PC
+043362829|Friends of the Charlmont Fairgrounds Inc.|Charlemont|MA|United States|PC
+043388369|Second Chance Ranch Inc.|E Longmeadow|MA|United States|PC
+043404168|Christopher R Yens Charitable Foundation|Newton|MA|United States|PF
+043425071|Alces Foundation|Boston|MA|United States|PF
+043441492|Community School Association of Medfield Inc.|Medfield|MA|United States|PC
+043465101|Association for Conflict Resolution New England Chapter Inc.|Cambridge|MA|United States|PC
+043484188|Gisela B Hogan Charitable Foundation|Boston|MA|United States|PF
+043498515|Mayflower Rsvp Inc.|Plymouth|MA|United States|PC
+043518444|Franciscan Tertiary of the Immaculate|New Bedford|MA|United States|PC
+043532914|Tufts University Prosthodontic Alumni Charitable Organization Inc.|Boston|MA|United States|PC
+043545913|Living Waters Christian Church|Stoughton|MA|United States|PC
+043562307|On With Living and Learning Inc.|Boston|MA|United States|PC
+043577491|R Stewart Esten Elementary School Parents Advisory Committee|Rockland|MA|United States|PC
+043769173|Chinese School Andover|Andover|MA|United States|PC
+046037206|Lancaster Foundation|Boston|MA|United States|PF
+046054363|Public Library Association of Easthampton Inc.|Easthampton|MA|United States|PC
+046093211|Womens Seafarers Friend Society Corp|Saugus|MA|United States|PC
+046129141|Exposition Area Alumni Scholarship Fund Inc.|W Springfield|MA|United States|PC
+046189435|Milton Legion Post No 114 Building Corporation|Milton|MA|United States|EO
+046644020|Ives Family Charitable Trust|Boston|MA|United States|PF
+046864759|Nathalie & Theodore Jones Charitabl Tr FBO Naacp Boston Branch 2045|Boston|MA|United States|SOUNK
+050511691|Concilio De Iglesias Cristianas Abriendo Caminos Inc.|New Bedford|MA|United States|PC
+110025078|Friends of the Boys Club of Stoneham Inc.|Stoneham|MA|United States|PC
+134230269|Granite State Church of Christ Inc.|Framingham|MA|United States|PC
+161697858|Warren Community Elementary School Parent Teacher Organization|West Warren|MA|United States|PC
+200628638|North Andover Community Access and Media Inc.|North Andover|MA|United States|PC
+201393553|Literary Ventures Fund Inc.|Beverly|MA|United States|PF
+202061025|Henry R Lewis Foundation|Boston|MA|United States|PF
+203001033|Sunrise-Amanecer Inc.|Springfield|MA|United States|PC
+203873747|Bernice Williamson Educational Foundation Inc.|Amherst|MA|United States|PC
+204720889|Presidents Action Network Inc.|Boston|MA|United States|PC
+205494704|Catalogue for Philanthropy Greater Washington|Needham|MA|United States|PC
+207004994|Deviben Bhakta Charitable Trust|Clinton|MA|United States|PF
+208766099|National Professional Science Masters Association|Worcester|MA|United States|PC
+222508916|Dover Sherborn Soccer Club|Sherborn|MA|United States|PC
+222560916|New England Fuel Institute Education Foundation Inc.|Waltham|MA|United States|PC
+222630861|Pregnancy Care Center of the Merrimack Valley Inc.|Haverhill|MA|United States|PC
+222784289|Curtain Call Theatre Inc.|Braintree|MA|United States|PC
+222951280|Prabasi Inc.|Shrewbury|MA|United States|PC
+223061699|Walkboston Inc.|Boston|MA|United States|PC
+223186260|The Trust Project Inc.|Roxbury|MA|United States|PC
+223409403|Broadway Community Housing Corporation|Chelsea|MA|United States|PC
+237042170|Connecticut River Watershed Council of Connecticut Inc.|Greenfield|MA|United States|PC
+237169070|Christian Community Inc.|Jamaica Plain|MA|United States|PC
+237323238|Friends of the Marlborough Public Library Inc.|Marlborough|MA|United States|PC
+251904197|Acton Boxborough Youth Lacrosse Inc.|Acton|MA|United States|PC
+260751728|Bad Habit Productions Incorporated|Boston|MA|United States|PC
+261617753|Kittredge School Pto|North Andover|MA|United States|PC
+262392924|North of Boston Arts Center|Beverly|MA|United States|PC
+263101700|Aac Animal Partners Inc.|Somerville|MA|United States|PC
+263740877|Finalscluborg Incorporated|Cambridge|MA|United States|PC
+264421242|Noho Pride|Northampton|MA|United States|PC
+270225214|Pediatric Aids Treatment Support|Watertown|MA|United States|PC
+270944172|Friends of Marion Recreation Inc.|Marion|MA|United States|PC
+271541994|Applause Academy Ma Inc.|Taunton|MA|United States|PC
+272169012|Dan Allen Foundation Incorporated|Westborough|MA|United States|PC
+272898108|Costs of Care|Boston|MA|United States|PC
+273563200|Bartlett Place Land Inc.|Roxbury|MA|United States|SO
+274620963|Social Finance Inc.|Boston|MA|United States|PC
+300135090|Thubten Ganden Choling|Greenfield|MA|United States|PC
+300596238|Hope Sante Inc.|Beveriy|MA|United States|PC
+311780213|Associated Advocacy Center Visions for the Future Inc.|Jamaica Plain|MA|United States|PC
+342019007|Bishopaccountability Org Inc.|Waltham|MA|United States|PC
+371472508|Somebody Cares New England Inc.|Haverhill|MA|United States|PC
+421593814|Future Philanthropists Inc.|Ashland|MA|United States|PC
+451730864|Trauma to Art Inc.|Gardner|MA|United States|PC
+453022514|Joseph Ronan Memorial Fund|Reading|MA|United States|PC
+454256644|Nicholas James Foundation|Leominster|MA|United States|PC
+481284605|Nrhs Friends of Music|Bolton|MA|United States|PC
+510620669|Global Medical Knowledge Inc.|Roxbury Xing|MA|United States|PC
+550795874|Friends of Ipswich Elementary Schools Inc.|Ipswich|MA|United States|PC
+571144606|Sophia Snow House Inc.|West Ro

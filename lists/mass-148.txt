@@ -1,0 +1,110 @@
+010817343|Pfactory Inc.|Belmont|MA|United States|PC
+026011075|Methuen Memorial Music Hall Inc.|Methuen|MA|United States|PC
+041859893|YMCA of Greater Springfield|Springfield|MA|United States|PC
+042103941|Brockton Visiting Nurse Association|Brockton|MA|United States|PC
+042104826|St. Vincent De Paul Society|Stoughton|MA|United States|PC
+042129128|Jewish Geriatric Services Inc.|Longmeadow|MA|United States|PC
+042223502|Arc Massachusetts|Waltham|MA|United States|PC
+042368188|The George Seymour Bissell Charitable Foundation|Wellesley|MA|United States|PF
+042465684|Communities United Inc.|Watertown|MA|United States|PC
+042526455|Inly School Inc.|Scituate|MA|United States|PC
+042583221|Milford Hebrew Association|Milford|MA|United States|PC
+042615302|Holden Historical Society Inc.|Holden|MA|United States|PC
+042638453|Island Elderly Housing Inc.|Vineyard Haven|MA|United States|PC
+042665033|Coalition for Newton Community Education Inc.|Newton|MA|United States|PC
+042689194|Pioneer Valley Baptist Church of Westfield Inc.|Westfield|MA|United States|PC
+042711579|Georgetown Athletic Association Inc.|Georgetown|MA|United States|PC
+042734184|Enable Inc.|Canton|MA|United States|PC
+042752657|Reginald A Young Charitable Foundation|Sterling|MA|United States|PF
+042771011|Family Center Inc.|Somerville|MA|United States|PC
+042791264|Citizens Economic Research Foundation|Marblehead|MA|United States|PC
+042867023|Fcp Inc.|Lawrence|MA|United States|PC
+042921324|Adoptions With Love Inc.|Newton|MA|United States|PC
+042959739|American Institute of Biodevelopmental Technology Inc.|N Chelmsford|MA|United States|PC
+043003096|Concord Housing Trust Inc.|Concord|MA|United States|PC
+043045145|Medfield Community Development Corporation|Medfield|MA|United States|PC
+043080763|South Yarmouth Management Systems Inc.|Pittsfield|MA|United States|PC
+043106756|Aruna Partnership Inc.|Rockport|MA|United States|PC
+043133010|Combined Action for Health Care Reform Inc.|Hyannis|MA|United States|PC
+043157246|Watertown Educational Foundation Inc.|Watertown|MA|United States|PC
+043176233|Oxford Firefighters Association Inc.|North Oxford|MA|United States|PC
+043201844|St. Marys Center for Women and Children|Dorchester|MA|United States|PC
+043224452|Seventh Association Properties Inc.|Springfield|MA|United States|PC
+043244079|Shawmut Avenue-Tremont Street Tenant Corporation|Boston|MA|United States|PC
+043262765|New Caribbean Mission International Inc.|Roslindale|MA|United States|PC
+043281170|Quincy Jewish Committee|Quincy|MA|United States|PC
+043295701|AAA Full Circle Adoptions & Family Building Center Inc.|Northampton|MA|United States|PC
+043317233|Attleboro Youth Baseball Inc.|Attleboro|MA|United States|PC
+043335881|Reading Public Library Foundation Inc.|Reading|MA|United States|PC
+043362030|Hull Garden Club|Hull|MA|United States|PC
+043387698|Massachusetts Library System Inc.|Marlborough|MA|United States|PC
+043404069|Kuwait-American Friends of Islamic Art and Culture Inc.|Boston|MA|United States|PF
+043424945|Biber Foundation|Boston|MA|United States|PF
+043441049|Tap Youth Basketball League Inc.|Townsend|MA|United States|PC
+043464855|Thomas S Gunning Scholarship Foundation|Braintree|MA|United States|PF
+043484132|Mason-Rice Elementary School Pto|Newton Centre|MA|United States|PC
+043497736|Dress for Success of Western Massachusetts Inc.|Springfield|MA|United States|PC
+043518268|Cat Connection|Waltham|MA|United States|PC
+043532689|Dump & Run Inc.|Brookfield|MA|United States|PC
+043545738|The Caturano and Company Foundation|Boston|MA|United States|PC
+043562282|Cultural Access Consortium Inc.|Framingham|MA|United States|PC
+043577437|Boylyston Elementary School Parent Teacher Organization|Boylston|MA|United States|PC
+043765836|Federation of Liberian Community Asso of the Commonwealth of Mass|Lowell|MA|United States|PC
+046037026|Sudbury Foundation|Lanesborough|MA|United States|PF
+046054264|Friday Club|Yarmouthport|MA|United States|PC
+046089715|William H Lane Foundation|Boston|MA|United States|PF
+046128271|King Solomon Humanitarian Foundation for Handicapped Childre|Bridgewater|MA|United States|PC
+046188934|Disabled American Veterans Gloucester-Chapter No 74 Inc.|Gloucester|MA|United States|EO
+046642180|Rehoboth Land Trust|Rehoboth|MA|United States|PC
+046864745|Nathalie and Theodore Jones Char Tr FBO Weston Library 07171996|Boston|MA|United States|SOUNK
+050499622|Alexandra M M Gagnon Foundation|Vineyard Hvn|MA|United States|PF
+108267613|Seeding Labs A Non Profit Corporation|Cambridge|MA|United States|PC
+134225061|Pilgrim Festival Chorus|Carver|MA|United States|PC
+161691264|Civic Education Project Inc.|Roslindale|MA|United States|PC
+200614588|Friends of the Dr David Uriah Farquhar Historical Museum Inc.|Newton|MA|United States|PC
+201372388|Sutton 20-21 Foundation Inc.|Lincoln|MA|United States|PC
+202059531|Friends of Infant Jesus Saint Lawrence Parish Inc.|Brookline|MA|United States|PC
+202994982|Salem Play Areas for Canine Exercise|Salem|MA|United States|PC
+203867727|Sidman Family Foundation|Boston|MA|United States|PF
+204710410|Friends of Literacy Unlimited Incorporated|Framingham|MA|United States|PC
+205489677|Lawrence Boxing Club Inc.|Lawrence|MA|United States|PC
+206977223|Paige Victoria Perry Tr Fund|Mashpee|MA|United States|PC
+208746008|Boston Area College Housing Association Incorporated|Brookline Vlg|MA|United States|PC
+222508325|Eastern Educational Network Enterprises Inc.|Boston|MA|United States|PC
+222559728|West Tisbury Volunteer Firemens Civic Association Inc.|West Tisbury|MA|United States|PC
+222627798|Partners for Youth With Disabilities|Boston|MA|United States|PC
+222783266|David Katz Foundation Inc.|Boston|MA|United States|PF
+222950758|Improbable Players Inc.|Watertown|MA|United States|PC
+223060983|Littleton Childrens Fund|Littleton|MA|United States|PC
+223185688|Cambridge Center for Chinese Culture Inc.|Waltham|MA|United States|PC
+223385621|Russell and Richardson Family Foundation Inc.|Boston|MA|United States|PF
+237041846|Weymouth Historical Society General Fund|Weymouth|MA|United States|PC
+237169066|Friends of the Norwell Public Library Wm J Leonard Memorial Libr|Norwell|MA|United States|PC
+237321582|Crew Fund Inc.|Shutesbury|MA|United States|PC
+251759594|Unitarian Universalists for A Just Economic Community|Springfield|MA|United States|PC
+260750389|Institute for the Biocultural Study of Religion Inc.|Needham|MA|United States|PC
+261613660|Maarten and Mavis Hemsley Family Foundation Inc.|Duxbury|MA|United States|PF
+262386107|Amelia Grace Playground Fund Inc.|Gloucester|MA|United States|PC
+263091711|Metromass Baseball Club Inc.|Ashland|MA|United States|POF
+263739709|Marble Collection|Lakeville|MA|United States|PC
+264416455|North Hill Communities Inc.|Needham|MA|United States|SOUNK
+270210702|Dalessandro Foundation|Boston|MA|United States|PF
+270937615|Friends of Mit Hockey Inc.|Cambridge|MA|United States|PC
+271538976|Ambassadors for Sustained Health|West Roxbury|MA|United States|PC
+272165405|Hampden County Employable Garments Inc.|Springfield|MA|United States|PC
+272894665|Constanza Medical Mission|S Weymouth|MA|United States|PC
+273547118|I Am International Foundation Inc.|Lenox|MA|United States|PC
+274573326|For Our Communities|Wellesley Hills|MA|United States|PC
+300134126|The East Boston Athletic Board Inc.|East Boston|MA|United States|PF
+300592773|Daniel & Jesse Putnam Burial Ground Association|Essex|MA|United States|EO
+311777179|We Can Corporation|Harwichport|MA|United States|PC
+342014161|Oppenheim Charitable Foundation|Wilmington|MA|United States|PF
+371463076|House of Rastafari|Mattapan|MA|United States|PF
+421578646|Beverly Conservation Land Tr Inc.|Prides Crossing|MA|United States|PC
+451680923|Paul F Lacerda Memorial Scholarship Fund|Lakeville|MA|United States|PC
+453012418|Non-Event Inc.|Brookline|MA|United States|PC
+454236843|Event Pros Take Action Inc.|Stoughton|MA|United States|PC
+481278664|Keshet Inc.|Jamaica Plain|MA|United States|PC
+510617194|Grace Lighthouse Fellowship|Wareham|MA|United States|PC
+550790701|Boston Hurricanes Athletic Club Inc.|Newton|MA|United States|PC
+571140453|Mahaiwe Perf

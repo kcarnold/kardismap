@@ -1,0 +1,109 @@
+010788298|Literacy Place|Bridgewater|MA|United States|PC
+020802922|National Shrine of the Holy Shroud Inc.|Boston|MA|United States|PC
+041795920|Proprietors of the Rural Cemetery in Worcester|Worcester|MA|United States|EO
+042103922|Boys and Girls Clubs of Boston Inc.|Boston|MA|United States|PC
+042104803|Stevens-Bennett Home Inc.|Haverhill|MA|United States|PF
+042126597|The Boston Conservatory|Boston|MA|United States|PC
+042215574|National Association for Armenian Studies and Research Inc.|Belmont|MA|United States|PC
+042347130|Babson Historical Association Inc.|Gloucester|MA|United States|PF
+042459396|Wesley Child Care Center Inc.|Dorchester|MA|United States|PC
+042523362|Massachusetts Correctional Legal Services|Boston|MA|United States|PC
+042582187|Rosies Place Inc.|Boston|MA|United States|PC
+042613808|Church Religious Trust|Gloucester|MA|United States|PC
+042636739|Franklin N Flaschner Judicial Institute Inc.|Boston|MA|United States|PC
+042664297|Essex County Green Belt Association Inc.|Essex|MA|United States|PC
+042688461|Lincoln Garden Club|Lincoln|MA|United States|PC
+042710075|Preschool Experience Inc.|Newton Centre|MA|United States|PC
+042733972|Project Deep Inc.|Gloucester|MA|United States|PC
+042751258|Chmc Otolaryngologic Foundation Inc.|Boston|MA|United States|PC
+042770618|New Marlboro First Responders Inc.|Southfield|MA|United States|PC
+042790946|Massachusetts Citizens Against the Death Penalty Fund Inc.|Boston|MA|United States|PC
+042863910|Woodlawn-North Purchase Cemeteries Assoc|Attleboro|MA|United States|EO
+042914598|Boston for the World Inc.|Boston|MA|United States|PF
+042955425|Massachusetts Buddhist Association|Lexington|MA|United States|PC
+043000959|Bellingham Youth Baseball Inc.|Bellingham|MA|United States|PC
+043042666|Gardner Square Two Inc.|Gardner|MA|United States|PC
+043078678|Center for Social and Economic Justice Inc.|Framingham|MA|United States|PC
+043105650|Hanover Insurance Group Foundation Inc.|Worcester|MA|United States|PF
+043132204|North American Indian Center of Boston|Jamaica Plain|MA|United States|PC
+043156330|Council of Chelmsford Schools Inc.|Chelmsford|MA|United States|PC
+043174967|Movimiento Evangelistico Misionero El Faro Universal Inc.|Lawrence|MA|United States|PC
+043200668|Uxbridge Elementary Pto|Uxbridge|MA|United States|PC
+043223720|Marthas Vineyard Multisport Inc.|Vineyard Hvn|MA|United States|PC
+043243214|Salisbury Firemans Association Inc.|Salisbury|MA|United States|PC
+043262020|Housatonic River Initiative Inc.|Lee|MA|United States|PC
+043280017|Alumni Association of Fitchburg High School Incorporated|Fitchburg|MA|United States|PC
+043295061|Cape Ministry Inc.|Hyannis|MA|United States|PC
+043316487|Eddie Mandell Scholarship Fund Inc.|Boston|MA|United States|PC
+043335062|Bridgewater Fourth of July Festival of the Arts Committee|Bridgewater|MA|United States|PC
+043360498|North Shore Feline Rescue Inc.|Middleton|MA|United States|PC
+043386194|Deliverance Center Inc.|Indian Orchard|MA|United States|PC
+043402891|Garfinkle - Friedlander Family Foundation|Boston|MA|United States|PF
+043424238|Personal Advocacy and Life Time Support Inc.|Waltham|MA|United States|PC
+043439438|Concord Prison Outreach Inc.|Concord|MA|United States|PC
+043464134|The Seneca Inc.|Cambridge|MA|United States|PC
+043482839|Friends of Areys Pond Inc.|South Orleans|MA|United States|PC
+043496570|Truro Educational & Enrichment Alliance Inc.|Truro|MA|United States|PC
+043517497|Pug Rescue of New England Inc.|Dedham|MA|United States|PC
+043532311|Safari Club International New England Foundation Inc.|Lancaster|MA|United States|PC
+043544626|Rudden Posner Family Foundation|Cambridge|MA|United States|PF
+043561265|Whidden Memorial Hospital Inc.|Medford|MA|United States|SOUNK
+043576253|Twenty Six Sturgis Street Corporation|East Boston|MA|United States|SOUNK
+043743231|Joseph Barton Memorial Fund|Boston|MA|United States|PC
+046036509|William A Lynch Trust FBO St. Vincent De Paul Society|Beverly|MA|United States|SOUNK
+046053558|Quincy Historical Society|Quincy|MA|United States|PC
+046087633|Charles Butcher Fdn|Concord|MA|United States|PF
+046126315|Acton Conservation Trust Inc.|Acton|MA|United States|PC
+046185609|Fund for Boston Neighborhoods Inc.|Boston|MA|United States|PC
+046618904|West Boylston Elementary Schools Trust|West Boylston|MA|United States|PC
+046860384|Lisa P Loeb Foundation|Waban|MA|United States|PF
+050417441|Rhode Island Church of Christ|Framingham|MA|United States|PC
+100003402|Massachusetts Technology Education Engineering Collaborative|Ipswich|MA|United States|PC
+134138617|Sleeping Weazel Inc.|Sharon|MA|United States|PC
+161659088|Bar Ni Community Service Fund|Boston|MA|United States|PF
+200581741|Pepperell Historical Society|Pepperell|MA|United States|PC
+201356307|Multi-Arts Inc.|Hadley|MA|United States|PC
+202044479|Eastern Chapter Order of the Easter Star Charitable Trust|N Attleboro|MA|United States|PF
+202927771|Nhs Friends of Music Inc.|Needham|MA|United States|PC
+203824899|Massachusetts Psychiatric Foundation Inc.|Wellesley Hls|MA|United States|SOUNK
+204649908|Cambodia-Pride Inc.|Boston|MA|United States|PC
+205463314|Afro Egyptian Human Rights Organization Inc.|Sheffield|MA|United States|PC
+206748222|Marigold Charitable Tr|Boston|MA|United States|PF
+208709848|Community Resource Foundation|Northampton|MA|United States|PC
+222506229|Society for Human Advancement Through Rehab Engineering Fdn Inc.|N Dartmouth|MA|United States|PC
+222557839|Vineyard Nursing Association Incorporated|Vineyard Hvn|MA|United States|PC
+222622801|Harry H Dow Memorial Legal Assistance Fund|Boston|MA|United States|PC
+222779689|Ksd Charitable Foundation|Agawam|MA|United States|PF
+222946282|The Croll Foundation Attn Mary Kathleen Oconnell|Boston|MA|United States|PF
+223055458|Labrador Retriever Rescue Inc.|Roslindale|MA|United States|PC
+223180555|Literacy Center Inc.|Attleboro|MA|United States|PC
+223348861|Academic Athletic Arts Achievements Association|Springfield|MA|United States|PF
+237036017|Wollaston Lutheran Church Apartments Inc.|Quincy|MA|United States|PC
+237167358|Traip Academy Graduate UW G Treadwell Remsen M Kinne III Ttee|Boston|MA|United States|PF
+237313519|Wakefield Church of Christ of Wakefield|Wakefield|MA|United States|PC
+237688668|Marion Walters Wing Tr UW Resid|Haverhill|MA|United States|SOUNK
+260691584|Opportunity Housing Inc.|W Bridgewater|MA|United States|PC
+261590544|Journeys of Hope Inc.|Swampscott|MA|United States|PC
+262332631|Brockton Economic Community Development Council Corporation|Brockton|MA|United States|PC
+263074724|Education Foundation for Tyngsborough Inc.|Tyngsborough|MA|United States|PC
+263705503|Freedom Run Ministries Inc.|Attleboro|MA|United States|PC
+264384583|Boston Minutemen Division|Gloucester|MA|United States|PC
+270182456|Mass Frenzy Inc.|Hadley|MA|United States|PC
+270908445|Liars & Believers Inc.|Cambridge|MA|United States|PC
+271513551|Technology for Autism Now|Roslindale|MA|United States|PC
+272128316|Partnership for the Advancement of Learning|Southborough|MA|United States|PC
+272850017|Metrowest Worker Center - Casa Do Trabalhador - Casa Del Trabajador|Framingham|MA|United States|PC
+273525991|Medha Corp|Natick|MA|United States|PC
+274494616|Empower Women in Africa|Ashby|MA|United States|PC
+300118804|Lorraine Chapman the Company Inc.|Winchester|MA|United States|PC
+300580873|Friends of the Mendon Police Station Inc.|Mendon|MA|United States|SO
+311758237|Chelmsford Housing Elder Partnership Inc.|Chelmsford|MA|United States|PC
+341976142|Reel Blues Fest Inc.|Falmouth|MA|United States|PC
+371424197|Tai Chi Service International Inc.|Boston|MA|United States|PC
+421534496|Community Autism Resources Incorporated|Swansea|MA|United States|PC
+451557934|International Human Rights Initiative|Newton Centre|MA|United States|PC
+452979462|Shm Alternative College Inc.|Brockton|MA|United States|PC
+454146360|Friends of Pappas Recreation Complex Corporation|Auburn|MA|United States|PC
+470852155|Egbe Omo Yoruba Massachusetts|Worcester|MA|United States|PC
+510579656|Mashpee Police Foundation Inc.|Mashpee|MA|United States|PC
+542188756|Clyde F Brown Home and Sc

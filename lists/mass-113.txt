@@ -1,0 +1,110 @@
+010727417|James 2 15 Kitchen|Clinton|MA|United States|PC
+020697834|Merrimack Valley Community Service Corp Inc.|Lawrence|MA|United States|PC
+041558830|Sanders Christian Foundation Inc.|S Hamilton|MA|United States|PF
+042103852|Somerville Hospital|Medford|MA|United States|PC
+042104736|Mount Ida College|Newton Centre|MA|United States|PC
+042121368|Park Street Church|Boston|MA|United States|PC
+042204289|Cerebral Palsy Association of Eastern Massachusetts Inc.|Lynn|MA|United States|PC
+042318156|Lusitania Institute Inc.|Ludlow|MA|United States|PF
+042453465|Newton Community Development Foundation Inc.|Newton|MA|United States|PC
+042513725|Walnut Street Center Inc.|Somerville|MA|United States|PC
+042578986|Berkshire County Head Start Child Development Program Inc.|Pittsfield|MA|United States|PC
+042609202|Newton Choral Society Inc.|Newtonville|MA|United States|PC
+042632522|Northhampton Society for the Prevention of Cruelty to Animals I|Easthampton|MA|United States|PC
+042660632|Attleboro Enterprises Incorporated|North Attleboro|MA|United States|PC
+042685654|Gardeners Guild of Braintree|Braintree|MA|United States|PC
+042707982|Berkshire Lyric Theatre Inc.|Pittsfield|MA|United States|PC
+042731302|Projest III Housing Corporation|Boston|MA|United States|PC
+042748901|School Nutrition Association of Massachusetts Inc.|Brookline|MA|United States|PC
+042767897|Ellen Laforge Memorial Poetry Foundation Inc.|Dedham|MA|United States|PC
+042789935|Morton Hospital Auxiliary Inc.|Taunton|MA|United States|SOUNK
+042857828|Gymnastics Association of Danvers|Middleton|MA|United States|PC
+042910487|Visiting Nurse Associations of Massachusetts Inc.|Marlborough|MA|United States|PC
+042951923|Cohasset Arts Boosters Club|Cohasset|MA|United States|PC
+042996598|Salem Partnership Inc.|Salem|MA|United States|PC
+043038437|Taunton River Watershed Alliance Inc.|Taunton|MA|United States|PC
+043074292|Cambridge Citizens for Liveable Neighborhoods Inc.|Cambridge|MA|United States|PC
+043103682|Essex County Youth Soccer Association|Beverly Farms|MA|United States|PC
+043128712|Worcester County Beekeepers Association Incorporated|Worcester|MA|United States|PC
+043151418|Worker Education Program Inc.|Dorchester|MA|United States|PC
+043173156|Dudley Pond Associates Inc.|Wayland|MA|United States|PC
+043196958|Interlock Media Inc.|Cambridge|MA|United States|PC
+043220996|Bay State Girls Softball Inc.|Acushnet|MA|United States|PC
+043241775|Monsignor Neagle Apartments Inc.|Malden|MA|United States|PC
+043259160|Citizen Schools Inc.|Boston|MA|United States|PC
+043278356|Worcester Shines Inc.|Worcester|MA|United States|PC
+043293798|Massachusetts Bar Institute|Boston|MA|United States|SOUNK
+043313910|John P Holland Community Council Inc.|Dorchester|MA|United States|PC
+043332925|Friends of Marion Visiting Nurses|Marion|MA|United States|PC
+043356556|West School Parent Teacher Organization of Stoughton Ma|Stoughton|MA|United States|PC
+043382858|The Margaret Stewart Lindsay Foundation of 1989|Boston|MA|United States|PF
+043401624|Fourteenth Association Properties Inc.|Springfield|MA|United States|PC
+043420457|Rica Charitable Tr|Newton|MA|United States|PF
+043437489|Sandwich Soccer Club Corporation|East Sandwich|MA|United States|PC
+043460631|Westfield 202 Inc.|Westfield|MA|United States|PC
+043480035|Broadway Youth Dance Theater Inc.|Upton|MA|United States|PC
+043494363|Arthur and Tamara Waltzman Family Foundation|Needham|MA|United States|PF
+043514535|Triton Youth Soccer Association Inc.|Rowley|MA|United States|PC
+043530126|The Melvin and Beatrice Fraiman Charitable Foundation|Cambridge|MA|United States|PF
+043542547|Koster Insurance Scholarship Fund Inc.|Quincy|MA|United States|PF
+043559493|Friends of Albergue Hermano Pedro Inc.|Medfield|MA|United States|PC
+043574297|Demello School P T O Inc.|Dartmouth|MA|United States|PC
+043680020|Massachusetts Literacy Foundation Inc.|Boston|MA|United States|PC
+046032270|Trustees of the Perley Free School|Georgetown|MA|United States|PF
+046051247|Western Hampden Historical Society Inc.|Westfield|MA|United States|PC
+046075674|Newburyport District Nursing Service Inc.|Newburyport|MA|United States|PC
+046121813|World Affairs Council of Western Massachusetts Inc.|Springfield|MA|United States|PC
+046169683|Dirlam-Morris Charitable Trust|Worcester|MA|United States|PF
+046558830|Tell Foundation Trust|Sudbury|MA|United States|POF
+046834358|Deborah A Hawkins Char Tr|Boston|MA|United States|PF
+047006773|Sara L Eddy Tr|Boston|MA|United States|PF
+061839114|Susan M Costa Cholangio Carcinoma Foundation Inc.|New Bedford|MA|United States|PC
+133810849|David Oransky Memorial Fund|Becket|MA|United States|PF
+143535341|The Williams School Parent Teacher Organization Inc.|Auburndale|MA|United States|PC
+200477156|Fels Family Foundation|Worcester|MA|United States|PF
+201304089|Friends of Saint Peter Lithuanian Church|Milton|MA|United States|PC
+201990568|Bright Spot Therapy Dogs Inc.|Westhampton|MA|United States|PC
+202813470|Lisette S Venier Charitable Foundation|Marblehead|MA|United States|PF
+203730149|Melrose Youth Lacrosse|Melrose|MA|United States|PC
+204539306|Salem Mission Inc.|Salem|MA|United States|PC
+205353455|The Cunniff Group Charitable|Newton|MA|United States|PC
+206231333|Robert A Semonian Charitable Tr|Watertown|MA|United States|PF
+208623223|Memorial School Parent Teacher Organization Inc.|Wilbraham|MA|United States|PC
+222495733|Brookline Cable Community Trust Inc.|Brookline|MA|United States|PC
+222549232|Berkshire Mountain Search & Rescue Team Inc.|Pittsfield|MA|United States|PC
+222610180|St. James Community Housing Corporation|Pittsfield|MA|United States|PC
+222774159|Creative Living Inc.|Andover|MA|United States|PC
+222915188|Horizons for Homeless Children Inc.|Roxbury|MA|United States|PC
+223043563|National Union Senior Citizens Housing II Inc.|Braintree|MA|United States|PC
+223159819|Greater Love Tabernacle Church of God in Christ|Boston|MA|United States|PC
+223298358|Ecu-Health Care Inc.|North Adams|MA|United States|PC
+237011408|Lower Roxbury Community Corporation|Roxbury|MA|United States|PC
+237138155|Panepirotic Federation of America Canada & Australia|Worcester|MA|United States|PC
+237296238|Quincy Youth Hockey Association Inc.|Quincy|MA|United States|PC
+237440196|South Shore Recovery Home Inc.|Quincy|MA|United States|PC
+260604808|Homeless Not Hopeless Inc.|Hyannis|MA|United States|PC
+261519159|Sibling Connections Inc.|Milton|MA|United States|PC
+262229617|Brockton Youth Foundation Inc.|Brockton|MA|United States|PC
+263007335|Island Creek Oysters Foundation Inc.|Duxbury|MA|United States|PC
+263644438|Scott M Prefontaine Foundation Inc.|Westfield|MA|United States|PC
+264287846|Arden Seminars Inc.|Boston|MA|United States|PC
+270069946|Womens Health on Alert Inc.|Newtonville|MA|United States|PC
+270795050|Patrick Comer Courage Foundation Inc.|Princeton|MA|United States|PC
+271444534|Green Compass|Templeton|MA|United States|PC
+272057380|Hope Tree of Life Ministries Inc.|Carver|MA|United States|PC
+272799454|Plymouth Rotary Charitable Fund Inc.|Plymouth|MA|United States|PC
+273461648|Massachusetts Selects Youth Hockey League Inc.|Wellesley Hls|MA|United States|PC
+274355398|Photo Nights Boston Inc.|Boston|MA|United States|PC
+300053770|Agape Community Inc.|Hardwick|MA|United States|PC
+300505279|Bernese Education and Rescue- northeast Region Inc.|Hudson|MA|United States|PC
+311722585|Arts Learning Inc.|Natick|MA|United States|PC
+331165369|New England Bangladash American Foundation Inc.|Lynn|MA|United States|PC
+364678561|Insulation Art Inc.|Boston|MA|United States|PC
+412229320|Action for Clean Energy Inc.|Cambridge|MA|United States|PC
+451055244|Mike Clifford Hockey Scholarship Fund Inn|Middleton|MA|United States|PC
+452836221|Joe and Mary Fund Charitable Trust|Northbridge|MA|United States|PC
+453995341|Partners for Progress Inc.|Cambridge|MA|United States|PC
+460695471|Igualidad As Friends of the Paulo Freire Social Justice Charter Scho|Holyoke|MA|United States|PC
+510502848|Jordan Ministries|West Newton|MA|United States|PC
+542096956|Wakefield Senior Housing Corp|Wakefield|MA|United States|PC
+562563539|Living Waters C

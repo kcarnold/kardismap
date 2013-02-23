@@ -1,0 +1,109 @@
+010931978|Marine and Environmental Education Alliance Inc.|Scituate|MA|United States|PC
+030405466|Volunteer Firefighters Education & Training Foundation Inc.|Natick|MA|United States|PC
+042062394|Harvard-Yenching Institute|Cambridge|MA|United States|PC
+042104163|East End House Inc.|Cambridge|MA|United States|PC
+042105783|Jewish Federation of the North Shore Inc.|Salem|MA|United States|PC
+042136704|Woods Hole Child Center Inc.|Woods Hole|MA|United States|PC
+042257377|North Shore United Way Inc.|Beverly|MA|United States|PC
+042385607|Cape Cod Synagogue Inc.|Hyannis|MA|United States|PC
+042480167|Melrose Day Care Center Inc.|Melrose|MA|United States|PC
+042545136|Elder Services of the Merrimack Valley Inc.|Lawrence|MA|United States|PC
+042593315|Rehabilitative Resources Incorporated|Sturbridge|MA|United States|PC
+042620216|Massachusetts School of Professional Psychology Inc.|Newton|MA|United States|PC
+042645068|Harvard-Radcliffe Gilbert & Sullivan Players|Cambridge|MA|United States|PC
+042670477|Dennis M Obrien Trust C/O Whitman Hanson Regional Hs|Lakeville|MA|United States|PC
+042694174|Azorean Brotherhood of the Divine Holy Ghost|Peabody|MA|United States|PC
+042716370|Peabody Terrace Childrens Centercorporation|Cambridge|MA|United States|PC
+042738731|Bethlehem Apostolic Faith Holness|Dorchester|MA|United States|PC
+042759570|Friends of the Holliston Public Library|Holliston|MA|United States|PC
+042775257|American Biltrite Charitable Trust|Wellesley Hills|MA|United States|PF
+042797677|Columbia Cultural Trust|Taunton|MA|United States|PC
+042879901|Massachusetts Senior Corp Association Inc.|Fall River|MA|United States|PC
+042927507|John Eliot Corporation|Roxbury|MA|United States|SOUNK
+042971446|Westiminster Benefit Fund Inc.|Westminster|MA|United States|PC
+043014567|People Helping People Inc.|Burlington|MA|United States|PC
+043054686|Evergreen Day School Inc.|Cambridge|MA|United States|PC
+043086970|Charlton Public Library Charitable Trust Fund|Charlton|MA|United States|PC
+043112143|Second Association Properties Inc.|Springfield|MA|United States|PC
+043136525|Fenway Lodging House Inc.|Boston|MA|United States|PC
+043161682|Hanover Foundation for Educational Enrichment Inc.|Hanover|MA|United States|PC
+043180704|Friends of the Boston Night Center Inc.|Boston|MA|United States|SOUNK
+043206542|Laurel Education Center Inc.|Brewster|MA|United States|PC
+043229627|Jam Specialists Inc.|South Dennis|MA|United States|PC
+043247739|Community Housing Options Inc.|Concord|MA|United States|PC
+043266332|Berkshire Sculling Association Inc.|Pittsfield|MA|United States|PC
+043284683|Lutheran Social Services of New England Inc.|Wellesley|MA|United States|SOUNK
+043300172|Project Contact|Southborough|MA|United States|PC
+043322199|Museum of Our Industrial Heritage|Greenfield|MA|United States|PC
+043340006|Martha R Gerry Townley Foundation Tr|Boston|MA|United States|PF
+043368079|Ausolus Tr|Boston|MA|United States|PF
+043392747|Friends of Lilly Library|Florence|MA|United States|PC
+043407816|Essex County Community Foundation Incorporated|Danvers|MA|United States|PC
+043427523|King of Thailand Birthplace Foundation Inc.|Burlington|MA|United States|PC
+043446474|Friends of the Acton Libraries Inc.|Acton|MA|United States|PC
+043468732|Bolton Youth Soccer Association|Bolton|MA|United States|PC
+043487109|Hobbes-Hands on Boat Based Education and Science Inc.|Acton|MA|United States|PC
+043502291|Iglesia De Dios Valles De Bendiction|Randolph|MA|United States|PC
+043521077|Harvard Clinical Research Institute Inc.|Boston|MA|United States|PC
+043535183|Sonya Kurzweil Developmental Center Inc.|Newton Hlds|MA|United States|PC
+043548988|Global Classroom Inc.|Shelburne Fls|MA|United States|PC
+043564729|Partners for A Greater Voice Inc.|Ipswich|MA|United States|PC
+043580437|Lynn C Goodchild Memorial Scholarship Fund|Attleboro|MA|United States|PC
+046002669|General Convention of the New Jerusalem in the United States of|Newtonville|MA|United States|PC
+046040661|Ipswich Museum Inc.|Ipswich|MA|United States|PC
+046059111|Ann White Washburn Scholarship Fund|Hanover|MA|United States|PF
+046111736|Polymnia Choral Society Inc.|Melrose|MA|United States|PC
+046133161|Beard Family Charitable Trust|Wayland|MA|United States|PF
+046209497|Trustees Under the Will of Herman Dana|Newton|MA|United States|PF
+046697373|Essex Veterans of World War II Tr|Saugus|MA|United States|PF
+046891321|Sacajawea Charitable Foundation|Wellesley|MA|United States|PF
+056015723|P K Johnstone & H E Kimball Foundation|Boston|MA|United States|PF
+113671674|Hands of Hope|Haverhill|MA|United States|PC
+135790864|North Attleboro Travel Softball Association Inc.|N Attleboro|MA|United States|PC
+200005747|Friends of Pilgrim Squadron Inc.|Plymouth|MA|United States|PC
+200809596|Housing Partnership Ventures Inc.|Boston|MA|United States|SOUNK
+201575862|Children S Cooperative Montessori School|Hyde Park|MA|United States|PC
+202230934|Political Economy Research Fund Inc.|Amherst|MA|United States|PF
+203179850|Options for Cambridge Students Inc.|Cambridge|MA|United States|PC
+203995272|Artsfalmouth Inc.|Woods Hole|MA|United States|PC
+204873520|Melanie J Powell Memorial Fund Inc.|Marshfield|MA|United States|PC
+205672425|Thomas G Stemberg Charitable Foundation|Boston|MA|United States|PF
+208056266|Gbl Foundation Inc.|Waltham|MA|United States|PF
+208971719|Harvard Club of Andover Inc.|Danvers|MA|United States|PC
+222517414|Blue Hill Observatory Science Center Inc.|Milton|MA|United States|PC
+222570414|Lenox Historical Society|Lenox|MA|United States|PC
+222672818|Boston Police Athletic League Incorporated|Boston|MA|United States|PC
+222812902|Bpsi Supporting Corp|Newton Centre|MA|United States|SOUNK
+222976670|Stow Community Housing Corporation|Stow|MA|United States|UNKWN
+223079893|Ct Douglas School Pto|Acton|MA|United States|PC
+223201711|Mailing Fund Inc.|Sudbury|MA|United States|PC
+223505733|Friends of the M N Spear Memorial Public Library Inc.|Shutesbury|MA|United States|PC
+237073973|Massachusetts Council for Social Studies Inc.|Sharon|MA|United States|PC
+237193770|Duxbury Hockey Association Inc.|Duxbury|MA|United States|PC
+237357148|Walpole Historical Society Inc.|Walpole|MA|United States|PF
+260094960|Tewksbury 9-11 Memorial Inc.|Tewksbury|MA|United States|PC
+261079077|Wilmington Environmental Restorartion Committee|Wilmington|MA|United States|PC
+261786146|Bristol County Plumbing and Gas Inspectors Association Inc.|Westport|MA|United States|PC
+262583870|Juventas Music|Boston|MA|United States|PC
+263230319|Save Syracuse Swimming & Diving Foundation Ltd.|Chelmsford|MA|United States|PC
+263856206|Restoration Worship Center-Centro De Restauracion Y Adoracion|Springfield|MA|United States|PC
+264560897|Coalition for Usher Syndrome Research|Concord|MA|United States|PC
+270355388|Children Across America|Milford|MA|United States|PC
+271111101|Merrimac Youth Sports Inc.|Merrimac|MA|United States|PC
+271658616|Frank Withey Memorial Scholarship Fund|Brockton|MA|United States|PC
+272300174|Common Foundation Inc.|Amherst|MA|United States|PC
+273014805|Massachusetts Green High Performance Computing Center Inc.|Cambridge|MA|United States|SOUNK
+273731918|Friends of the Westfield Senior Center Inc.|Westfield|MA|United States|PC
+274866978|Running With Luci|Charlestown|MA|United States|PC
+300195757|Dana-Farber Trust Inc.|Boston|MA|United States|SOUNK
+300743666|Les Bostonades Inc.|Belmont|MA|United States|PC
+320020584|Foundation for Civic Leadership Inc.|Cambridge|MA|United States|PC
+352277292|Special Kindness in Packages Inc.|Brockton|MA|United States|PC
+383655028|Spirit in Action Inc.|Palmer|MA|United States|PC
+421733906|Kashmir Education Initiative Kei|Wayland|MA|United States|PC
+452233232|Apostles of Peace A Marian Community Inc.|East Weymouth|MA|United States|PC
+453220315|Senior Computer Learning Center of Mass|Abington|MA|United States|PC
+454638586|Rotary Club of Quincy Charitable Foundation Inc.|Quincy|MA|United States|PC
+510172014|Stavros Center for Independent Living Inc.|Amherst|MA|United States|PC
+521434313|Nami South Norfolk County Ma Inc.|Walpole|MA|United States|PC
+550887522|Plymouth Ind

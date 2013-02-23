@@ -1,0 +1,110 @@
+010571960|Uecdf Corporation|Roxbury|MA|United States|SOUNK
+020534984|New Life Christian Ministries|Lowell|MA|United States|PC
+030585047|Greater Haverhill Childrens Fund|Bradford|MA|United States|PC
+042103616|Perkins School for the Blind|Watertown|MA|United States|PC
+042104343|Jewish Community Center of Lawrence Inc.|Woburn|MA|United States|PC
+042106333|St. Margarets Hospital|Dorchester|MA|United States|SOUNK
+042162427|Independent Association of Framingham State Alumni|Framingham|MA|United States|PC
+042296907|Paucatuck Cemetery Association|W Springfield|MA|United States|EO
+042432673|Holbrook Jewish Community Center Inc.|Holbrook|MA|United States|PC
+042498329|John Ashford Link House Inc.|Salisbury|MA|United States|PC
+042562377|Brockton Area Multi-Services Inc.|Brockton|MA|United States|PC
+042602112|Rainbow Camp of Massachusetts Inc. E Carol K Milne President|S Weymouth|MA|United States|PC
+042626387|Middlesex Human Service Agency Inc.|Waltham|MA|United States|PC
+042652748|Old Roman Catholic Bishop of Massachusetts Inc.|Springfield|MA|United States|PC
+042678704|Chorus North Shore Inc.|Rockport|MA|United States|PC
+042701621|Independence Associates Inc.|Brockton|MA|United States|PC
+042724248|Lighthouse Ministries Inc.|Oxford|MA|United States|PC
+042742635|Growthways Inc.|Brockton|MA|United States|PC
+042763248|Norwood Nuggets Skating Club Inc.|Norwood|MA|United States|PC
+042780340|Amherst Railway Society Inc.|Monson|MA|United States|PC
+042813465|Cape Cod Intergroup|Hyannis|MA|United States|PC
+042895402|Metro Church|Marlborough|MA|United States|PC
+042939209|Chabad Lubarvitch Torah Center|Sharon|MA|United States|PC
+042982793|Great Barrington Cooperative Preschool Inc.|Great Barrington|MA|United States|PC
+043028399|Franklin Square House Day Care Center Inc.|Roxbury Crossing|MA|United States|PC
+043065051|Hampshire Shakespeare Co Ltd.|Amherst|MA|United States|PC
+043097530|Friends of the Chilmark Public Library Inc.|Chilmark|MA|United States|PC
+043120712|Edgartown Patrolmens Association Inc.|Edgartown|MA|United States|PC
+043140909|Georgetown Public Education Foundation Inc.|Georgetown|MA|United States|PC
+043168434|Salem Rotary Club Vance M Smith III Scholarship Foundation Inc.|Salem|MA|United States|PC
+043189161|Cambridge Community Chorus Inc.|Cambridge|MA|United States|PC
+043213173|US Research and Education Institute for Child & Adolescent|Chestnut Hill|MA|United States|PC
+043236400|Revere Society for Cultural and Historic Preservation Inc.|Revere|MA|United States|PC
+043253423|Lha Youth Activities Program Inc.|Lowell|MA|United States|PC
+043272672|Merrimack Valley Partners in Service Inc.|Methuen|MA|United States|PC
+043288691|Walker-Blake Graveyard Restoration Project Inc.|North Dighton|MA|United States|PC
+043306950|Leonard Morse Auxiliary Inc.|Natick|MA|United States|PC
+043327883|Travis Roy Foundation|Boston|MA|United States|PC
+043348263|Behrakis Foundation|Lexington|MA|United States|PF
+043373455|Burgo Basketball Association|S Dartmouth|MA|United States|PC
+043397033|Friends of Nancy S Kilar|Peabody|MA|United States|PC
+043413578|Pars Mass Media Inc.|Norwood|MA|United States|PC
+043432628|Childrens Island Inc.|Acton|MA|United States|PC
+043453456|National Lawyers Guild Inc.|Boston|MA|United States|PC
+043475361|Inspire Inc.|Prides Crssng|MA|United States|PC
+043491509|Community Christian School Inc.|Westfield|MA|United States|PC
+043507847|Charles H Hood Foundation|Boston|MA|United States|PF
+043525138|Harvest Baptist Church|Norwell|MA|United States|PC
+043539095|Gess Foundation|Braintree|MA|United States|PF
+043554262|Rehoboth Country Dance Society Inc.|Rehoboth|MA|United States|PC
+043569510|Highlands Center Inc.|North Eastham|MA|United States|PC
+043583526|Childrens Global Discovery Museum|Cohasset|MA|United States|PC
+046014011|Federal Tax Institute of New England Inc.|Boston|MA|United States|PC
+046046794|Northfield Historical Society Inc.|Northfield|MA|United States|PF
+046066702|Harvard Radio Broadcasting Co Inc.|Cambridge|MA|United States|PC
+046113140|Jamaica Plain Tuesday Club Inc.|Jamaica Plain|MA|United States|PC
+046142794|Richard P & Claire W Morse Foundation|Brookline|MA|United States|PF
+046392636|Ruth W Thomas Trust FBO Albert A & Ruth W Thomas Scholarship Fund|Woods Hole|MA|United States|PF
+046772317|Leblang Charitable Foundation Tr 120594|Wayland|MA|United States|PF
+046917944|Bertolon Family Foundation Tr|Boston|MA|United States|PF
+061631850|Transcending Boundaries Inc.|Springfield|MA|United States|PC
+131692378|Scandinavian Seminar|Amherst|MA|United States|PC
+141736619|Fundamental Baptist Mission to India Foundation|Plymouth|MA|United States|PC
+200266004|Pembroke Educational Foundation Inc.|Pembroke|MA|United States|PC
+201099504|Youth Wellness Project Inc.|Lancaster|MA|United States|PC
+201811045|Barnstable High School Wrestling Booster Club Inc.|Centerville|MA|United States|PC
+202546422|Uma Mallikharjuna Foundation Inc.|Canton|MA|United States|PF
+203428298|Saugus Community Track Association|Saugus|MA|United States|PC
+204228566|Friends of Reading Recreati0n Incorporated|Reading|MA|United States|PC
+205141935|Foundation for the Technological & Economic Advancement of Mirebalais|Brockton|MA|United States|PC
+205896513|Wellspring Farms Foundation Inc.|Rochester|MA|United States|PC
+208294527|Raynham Middle School Parent Organization Inc.|Raynham|MA|United States|PC
+222479325|Finex House Incorporated|Jamaica Plain|MA|United States|PC
+222534334|Chelmsford Telemedia Corporation Inc.|Chelmsford|MA|United States|PC
+222586100|Friends of Halibut Point State Park|Rockport|MA|United States|PC
+222717129|Newton Community Chorus Inc.|Newton|MA|United States|PC
+222864945|Logan Airport Association Inc.|Reading|MA|United States|PC
+223015830|Parents Association of the Handicapped|Natick|MA|United States|PC
+223116809|Friends of the Chesterfield Public Library|Chesterfield|MA|United States|PC
+223238052|Massachusetts School Library Media Association Inc.|Lunenburg|MA|United States|PC
+223940271|Chicopee Savings Bank Charitable Foundation|Chicopee|MA|United States|PF
+237102772|Retarded Adult Rehab Assoc Inc.|Lowell|MA|United States|PC
+237245953|Ames Free Library of Easton Inc.|North Easton|MA|United States|PC
+237398125|Greater Brockton Center for Dispute Resolutions Inc.|South Easton|MA|United States|PC
+260367118|Our Sisters School Inc.|New Bedford|MA|United States|PC
+261315097|Brookline Quest Inc.|Brookline|MA|United States|PC
+262000666|Quincy Point Music Academy Inc.|Quincy|MA|United States|PC
+262807666|Boston Arts Summer Institute Inc.|Needham|MA|United States|PC
+263404709|Huwib Alumni Inc.|Somerville|MA|United States|PC
+264033168|Mercy Specialist Physicians Inc.|Holyoke|MA|United States|PC
+264826907|Christopher Reusch Memorial Scholarship Foundation|Chelmsford|MA|United States|PC
+270548890|Instrumental Change Inc.|Danvers|MA|United States|PC
+271267495|Congregacion Renacer|Gloucester|MA|United States|PC
+271857624|Alison Mae Regan Memorial Fund|Milton|MA|United States|PC
+272499279|Peoples Federal Savings Bank Charitable Foundation|Brighton|MA|United States|PF
+273214065|Paula L and James Gould Family Foundation|Newton|MA|United States|PF
+273993032|Jelly Bean Foundation|Billerica|MA|United States|PC
+276001997|Ny-Ne States Conf Intl Assn of Heat and Frost Insulators & Asbstss Ctr|Boston|MA|United States|PC
+300307254|Second Chances Inc.|Somerville|MA|United States|PC
+311631252|Mwrh Management Services Inc.|Milford|MA|United States|SOUNK
+320303380|Lake Cochituate Watershed Council Inc.|Natick|MA|United States|PC
+363558730|Barr Charitable Trust|Boston|MA|United States|PF
+391852149|National Premium Tax Conference Inc.|Berkely Street|MA|United States|PC
+432101599|Harvard-Kent Leadership & Partnership Inc.|Charlestown|MA|United States|PC
+452558619|Revive Community Church|N Billerica|MA|United States|PC
+453646836|Includaism Inc.|Malden|MA|United States|PC
+455379133|Berkeley Moore Memorial Fund Inc.|Waquoit|MA|United States|PC
+510199982|Boston Chinese Evangelical Church|Boston|MA|United States|PC
+522373589|Mbyll Inc.|Hanover|MA|United States|PC
+562370193|Sunderland Center for P

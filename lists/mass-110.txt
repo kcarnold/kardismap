@@ -1,0 +1,111 @@
+010724022|Breakneck Hill Cow Fund|Southborough|MA|United States|PC
+020690167|The Alan Robert Williams Memorial Scholarship Trust|Arlington|MA|United States|PF
+041519940|Lakeview Cemetery Corp|S Weymouth|MA|United States|EO
+042103837|Crossroads for Kids Inc.|Duxbury|MA|United States|PC
+042104718|National Society of Colonial Dames of America|Boston|MA|United States|PC
+042121362|Merwin Memorial Free Clinic for Animals Inc.|Allston|MA|United States|PC
+042203831|Cotuit Library Association|Cotuit|MA|United States|PC
+042317215|North Suffolk Mental Health Association Inc.|Chelsea|MA|United States|PC
+042453166|Cape Abilities Inc.|Hyannis|MA|United States|PC
+042512466|Bass River Day Activity Program Inc.|Beverly|MA|United States|PC
+042578358|Erdman Family School Inc.|Scituate|MA|United States|PC
+042608388|Friends of the Worcester Free Public Library Inc.|Worcester|MA|United States|PC
+042632222|Anthony C Simboli Charitable Foundation|Woburn|MA|United States|PF
+042660311|Urban Revival Inc.|Jamaica Plain|MA|United States|PC
+042685422|Boston Committee to Save Ethiopian Jews Inc.|Boston|MA|United States|PC
+042707809|Libana Inc.|Cambridge|MA|United States|PC
+042731196|Harbus News Corporation|Boston|MA|United States|PC
+042748890|Colburn Foundation|Manchester|MA|United States|POF
+042767890|Helen and George Ladd Charitble Corportion|Boston|MA|United States|PF
+042789926|Neighborhood Association of the Back Bay Inc.|Boston|MA|United States|PC
+042857123|Colonel James Hartshorne House Association Inc.|Wakefield|MA|United States|PC
+042909643|Massachusetts Educational Opportunity Association Inc.|Boston|MA|United States|PC
+042950316|Merrimack Valley Housing Partnership Inc.|Lowell|MA|United States|PC
+042996121|Oakdale Parent Teacher Association Project Playground|Dedham|MA|United States|PC
+043037523|Clarendon Hill Towers Tenant Association Inc.|Somerville|MA|United States|PC
+043072991|Newton South High School Boosters Club Trust|Newton|MA|United States|PC
+043103354|Asian Task Force Against Domestic Violence Inc.|Boston|MA|United States|PC
+043127884|Art Street Inc.|Newton|MA|United States|PC
+043150793|Sounds of Stow Inc.|Acton|MA|United States|PC
+043172758|Thompson House Inc.|Danvers|MA|United States|PC
+043196299|Venilia Gardens Inc.|New Bedford|MA|United States|PC
+043220352|Kids Time of Wellesley Inc.|Wellesley|MA|United States|SOUNK
+043241307|Biomedical Science Careers Project Inc.|Boston|MA|United States|PC
+043258560|Russian Pentecostal Church Inc.|W Springfield|MA|United States|PC
+043278192|National Alliance of Hud Tenants Inc.|Jamaica Plain|MA|United States|PC
+043293659|Seven Hills Foundation Inc.|Worcester|MA|United States|GROUP
+043313879|Dare to Dream Educational Farm Program Inc.|Orange|MA|United States|PC
+043332770|Northbridge Youth Soccer Association Inc.|Northbridge|MA|United States|PC
+043355990|North Haiti Mission|Hyde Park|MA|United States|PC
+043382717|Alzheimer Research Forum Foundation|Boston|MA|United States|PF
+043401318|Kennedy Family Foundation|Winchester|MA|United States|PF
+043420288|Ironstone Therapy Inc.|Andover|MA|United States|SOUNK
+043437380|Gridiron Club of Greater Boston|Brighton|MA|United States|PC
+043460506|Arthur C Murray Charitable Foundation|Hingham|MA|United States|PF
+043479749|The Milford National Charitable Foundation Inc.|Milford|MA|United States|PF
+043494298|Family Church of Worcester|Worcester|MA|United States|PC
+043514232|Mercyhouse|Amherst|MA|United States|PC
+043529897|Horizons Collaborative Inc.|Boston|MA|United States|PC
+043542461|Young Entrepreneurs Alliance|Concord|MA|United States|PC
+043559305|Massachusetts Charter Public School Association Inc.|Haydenville|MA|United States|PC
+043573832|Family Nonviolence Inc.|Fairhaven|MA|United States|PC
+043677764|Friends of the Northborough Library Inc.|Northborough|MA|United States|PC
+046031813|Isabel Babson Memorial Incorporated|Gloucester|MA|United States|PF
+046051095|Henderson Foundation|Cambridge|MA|United States|PF
+046075146|Tilton Fund Inc.|S Deerfield|MA|United States|PC
+046121497|George H Walker Milk Research Fund 5 2093|Boston|MA|United States|PF
+046169253|Boston University Law School Alumni Association|Boston|MA|United States|PC
+046556188|C F Adams Charitable Trust|Boston|MA|United States|PF
+046833651|James L Rubenstein Family Fndtn Tr Ud|Marion|MA|United States|PF
+046991231|Rsk Fam Charitable Foundation Tr|Newton|MA|United States|PF
+061825446|Lets March Against Cancer|Lawrence|MA|United States|PC
+133725565|Association for Cultural Economics International|Boston|MA|United States|PC
+142005509|St. Mary Senior Life Foundation of Lynn Incorporated|Lynn|MA|United States|PC
+200469042|Mnla Foundation for Educational Excellence Inc.|Conway|MA|United States|PC
+201294532|East & Alternative Elementary Schools Parent Teacher Organizatio|Sharon|MA|United States|PC
+201983664|Marigold Inc.|Amherst|MA|United States|PC
+202797200|Citizens for Rail Safety Inc.|Newton Centre|MA|United States|PC
+203716920|Winifred M Stenson Charitable Trust|Boston|MA|United States|PF
+204534419|Massachusetts Charter School Athletic Organization|Cambridge|MA|United States|PC
+205335947|Turkish-American Society of Western Massachusetts|Indian Orchard|MA|United States|PC
+206187760|New England Innocence Project|Boston|MA|United States|PC
+208594985|Project for Community- adolescence & Families|Everett|MA|United States|PC
+222494469|Newburyport Pioneer League Inc.|Newburyport|MA|United States|PC
+222547676|Merrimac River Rowing Assn Inc.|Lowell|MA|United States|PC
+222606679|North Suffolk Community Housing Corp|Chelsea|MA|United States|PC
+222770823|First Baptist Church of Shirley|Shirley|MA|United States|PC
+222912515|Reliant Medical Group Foundation Inc.|Worcester|MA|United States|PC
+223042637|Massachusetts Affordable Housing Alliance Inc.|Dorchester|MA|United States|PC
+223158784|Shadowbrook Local Community Family Inc.|Lenox|MA|United States|PC
+223295329|Progressive Community Chapel|Springfield|MA|United States|PC
+237009635|Jampart Charitable Trust|Framingham|MA|United States|PF
+237136083|Mount Wachusett Community College Foundation Inc.|Gardner|MA|United States|PC
+237293380|Somerville Community Corporation Inc.|Somerville|MA|United States|PC
+237437080|Friends of Andover Memorial Hall Library|Andover|MA|United States|PC
+260598322|Canton High School Athletic Booster Club Inc.|Canton|MA|United States|PC
+261513638|Djr Scholarship Inc.|Upton|MA|United States|PC
+262218979|Biff Productions Inc.|Waltham|MA|United States|PC
+262998786|Sudbury Access Corporation|Sudbury|MA|United States|PC
+263643103|American Century Music Inc.|Boston|MA|United States|PC
+264281119|South Boston Girls Softball Inc.|Boston|MA|United States|PC
+270067005|Chabad Lubavitch of Peabody Inc.|Peabody|MA|United States|PC
+270788006|Elizabeth Seton Foundation|Belmont|MA|United States|PC
+271440424|Tunefoolery Music Inc.|Boston|MA|United States|PC
+272052856|Laurence B Flood Foundation Inc.|Dedham|MA|United States|PF
+272795427|US China Scitech Education Promotion Association Inc.|Andover|MA|United States|PC
+273448954|Association of Brockton Charities Inc.|Sylvan St.|MA|United States|PC
+274334816|Bionutrient Food Association Inc.|N Brookfield|MA|United States|PC
+300039821|Healthcare Safety Research Institute Inc.|Cambridge|MA|United States|SOUNK
+300498033|Commonwealth Covenant Fund Board|Boston|MA|United States|PC
+311717127|Sears House Association Inc.|Boston|MA|United States|PC
+331148328|5 Rights Incorporated|Boston|MA|United States|PC
+364669592|Community Support Services Inc.|Taunton|MA|United States|PC
+412219809|Hingham High School Rowing Association|Hingham|MA|United States|PC
+450949784|Jewish News Service Inc.|Newton|MA|United States|PC
+452827237|Links to Learning Inc.|E Longmeadow|MA|United States|PC
+453980390|Run Littlefoot|Allston|MA|United States|PC
+460665444|Women Grant-Makers of Massachusetts Inc.|Cambridge|MA|United States|PC
+510479487|True Story|Arlington|MA|United States|PC
+542084125|University of Massachusetts Amherst Foundation Inc.|Amherst|MA|United States|PC
+562550642|River of Life Christian Church in Boston|Acton|MA|United States|PC
+65019

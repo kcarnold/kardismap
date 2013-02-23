@@ -1,0 +1,108 @@
+010673959|Andovers Future Housing Corporation|Andover|MA|United States|PF
+020631556|Master Gardener Association of Cape Cod Inc.|Barnstable|MA|United States|SOUNK
+041286950|Emerson College Dept of Finance|Boston|MA|United States|PC
+042103799|Italian Home for Children Inc.|Jamaica Plain|MA|United States|PC
+042104457|Rivers School Corporation|Weston|MA|United States|PC
+042117470|Antique Auto Museum of Mass at Larz Anderson Park Inc.|Brookline|MA|United States|PC
+042196466|Westfield River Watershed Association|Westfield|MA|United States|PC
+042312091|Andover Historical Society|Andover|MA|United States|POF
+042446461|Agudas Achim Development Corporation|Malden|MA|United States|PC
+042507409|Massachusetts League of Community Health Centers Inc.|Boston|MA|United States|PC
+042575615|Lawrence Extended Day Program Inc.|Brookline|MA|United States|PC
+042607186|Leominster Jewish Community Council Inc.|Leominster|MA|United States|PC
+042631286|Harvard Lampoon Trust Under Declaration of Trust|Cambridge|MA|United States|PC
+042658082|New Bedford Symphony Orchestra Association Inc.|New Bedford|MA|United States|PC
+042682152|South Boston Community Health Center|South Boston|MA|United States|PC
+042706070|Loomis Housing Corporation|South Hadley|MA|United States|PC
+042730330|International Society Inc.|Newton Center|MA|United States|PC
+042746915|The Alliance for the Prudent Use of Antibiotics Inc.|Boston|MA|United States|PC
+042767452|Planned Giving Group of New England|Waltham|MA|United States|PC
+042785453|Foundation of the Massachusetts Eye and Ear Infirmary Inc.|Boston|MA|United States|PC
+042848510|Hillcrest Educational Centers Inc.|Pittsfield|MA|United States|PC
+042901298|Worcester Regional Research Bureau Inc.|Worcester|MA|United States|PC
+042946413|Adams Historical Society Inc.|Adams|MA|United States|PC
+042990744|Slow Please Inc.|Marblehead|MA|United States|PC
+043033958|Dracut Soccer Association Inc.|Dracut|MA|United States|PC
+043070531|Rockport Parent Teachers Organization|Rockport|MA|United States|PC
+043101563|Greendale Avenue Worship Center Inc.|Needham|MA|United States|SOUNK
+043125416|Dalton Community Cable Association Inc.|Dalton|MA|United States|PC
+043148018|Berkshire Humane Society Inc.|Pittsfield|MA|United States|PC
+043171506|Saint Mathews Society Inc.|Readville|MA|United States|PC
+043194383|Friends of Endicott Park Inc.|Danvers|MA|United States|PC
+043217872|Vna Care Hospice Inc.|Worcester|MA|United States|PC
+043239963|Community Trust Inc.|Easthampton|MA|United States|PC
+043256378|Greater Boston Manufacturing Partnership Inc.|Boston|MA|United States|PC
+043275815|Robert McBride House Inc.|Wellesley|MA|United States|PC
+043292135|Dudley Economic Empowerment Partners Inc.|Roxbury|MA|United States|PC
+043311745|Ashoka Trust for Research in Ecology and the Environment Inc.|Belmont|MA|United States|PC
+043331170|May-West Roxbury Residences Inc.|Randolph|MA|United States|PF
+043352971|Hampshire Bird Club Inc.|Amherst|MA|United States|PC
+043379671|Puritan Lawn Memorial Park Education Foundation Inc.|Peabody|MA|United States|PF
+043400087|The Seekonk Tigers Inc.|Seekonk|MA|United States|PC
+043417222|Archibald Family Charitable Foundation|Boston|MA|United States|PF
+043436019|Iuoe Local 877 Scholarship Fund|Norwood|MA|United States|PC
+043458789|Berkshire Hills Music Academy Inc.|South Hadley|MA|United States|PC
+043478616|Nrhs Endowment Fund Inc.|Bolton|MA|United States|PC
+043493675|Barakat Inc.|Cambridge|MA|United States|PC
+043512392|Center for Urban Watershed Renewal Inc.|Salem|MA|United States|PC
+043528688|Sager Family Traveling Foundation and Road Show Inc.|Boston|MA|United States|PF
+043541593|Downs Foundation|Dover|MA|United States|PF
+043557629|Massachusetts Independent Certification Inc.|North Dighton|MA|United States|PC
+043573060|Iglesia Cristiana El Shaddai|Lawrence|MA|United States|PC
+043615454|Arms Around Arlington the Center for Cancer Support and Education|Arlington|MA|United States|PC
+046026801|Cyrus Lothrop Trust|N Easton|MA|United States|PC
+046050221|Braintree Historical Society Inc.|Braintree|MA|United States|PC
+046072895|Lexington Arts and Crafts Society Inc.|Lexington|MA|United States|PC
+046116088|Supreme Council Benevolent Foundation|Lexington|MA|United States|PC
+046154794|The Arc of Greater Haverhill- newburyport Inc.|Haverhill|MA|United States|PC
+046528581|Boston Charitable Trust Fund|Boston|MA|United States|PC
+046818370|Gaut Charitable Foundation Tr|Boston|MA|United States|PF
+046951470|Stephen Sullivan Scholarship Trust Fund|Hanover|MA|United States|PF
+061754781|Friends of the Cape Cod Swim Club Inc.|Buzzards Bay|MA|United States|PC
+133382155|The Plato Malozemoff Foundation|Lincoln|MA|United States|PF
+141957132|Brockton Cultural Arts Inc.|Brockton|MA|United States|PC
+200376378|Haam Inc.|Framingham|MA|United States|PC
+201243969|Nashoba Youth Hockey Association Inc.|Westford|MA|United States|PC
+201936829|Countryside Elementary School Pto Inc.|Newton|MA|United States|PC
+202740719|Amesbury High School All Sports Boosters Club Inc.|Amesbury|MA|United States|PC
+203633955|Red Wind Councils Inc.|Uxbridge|MA|United States|PC
+204415122|Thunderbolt Council Inc.|Westfield|MA|United States|PC
+205300252|Peace and Reconciliation Charities Inc.|Salem|MA|United States|PC
+206035008|Pfannenstiehl Fam Charitable Tr|Boston|MA|United States|PF
+208517699|Seekonk Tigers Inc.|Seekonk|MA|United States|PC
+222487079|Ell Pond Improvement Council Inc.|Melrose|MA|United States|UNKWN
+222544264|The Voice of the Armenian Church Inc.|Sutton|MA|United States|PF
+222600587|Shelburne Falls Area Civic Beautification Association|Shelburne Fls|MA|United States|PC
+222757391|The New England Foundation|Boston|MA|United States|PF
+222894564|International Ocd Foundation Inc.|Boston|MA|United States|GROUP
+223033728|Central Mass Plumbing and Gas Fitting Inspectors Association Inc.|Grafton|MA|United States|PC
+223148328|Sudbury Education Resource Fund Inc.|Sudbury|MA|United States|PC
+223270284|Operation Nehemiah Missions International Inc.|Lanesboro|MA|United States|PC
+236395203|Charles Wentz Carter Memorial|Dedham|MA|United States|PF
+237130785|Tri-Town Council on Youth and Family Services Inc.|Topsfield|MA|United States|PC
+237281887|National Education for Assistance Dog Services Inc.|West Boylston|MA|United States|PC
+237424858|Brownstone Garden II Inc.|East Longmeadow|MA|United States|PC
+260517645|Jesus Y Shua Hamashiakh Ministry|Worcester|MA|United States|PC
+261443101|Face Africa|Cambridge|MA|United States|PC
+262126105|Artist Organized Art Inc.|West Hatfield|MA|United States|PC
+262953302|Joanna Mullin Fund|Weymouth|MA|United States|PC
+263574759|South Shore Fishing Community Preservation Fund Inc.|Marshfield|MA|United States|PC
+264206949|The Reynolds Center for Teaching Learning and Creativity Inc.|Boston|MA|United States|PC
+270000684|Event Consultants Inc.|Canton|MA|United States|PC
+270690019|Bos Manold Fund for Haitian Opportunity Inc.|Jamaica Plain|MA|United States|PC
+271399991|Hamilton-Wenham Friends of the Arts Inc.|Hamilton|MA|United States|PC
+272002233|North Shore Concert Band|Peabody|MA|United States|PC
+272717436|Project to Restore America Inc.|Topsfield|MA|United States|PC
+273376233|Cite Soleil Opportunity Council Inc.|Wellesley|MA|United States|PC
+274201654|Center for Biography and Social Art|Northhampton|MA|United States|PC
+276924951|Rotmans Employee Charitable Tr|Worcester|MA|United States|PC
+300454360|Gould Family Foundation|Prides Crossing|MA|United States|PF
+311700503|Hollis Declan Leverett Memorial Fund|Boston|MA|United States|PF
+331073814|World Series Park Committee|Saugus|MA|United States|PC
+364622949|South Boston En Accion Inc.|South Boston|MA|United States|PC
+412132014|Ummeed Child Development Fund Inc.|Framingham|MA|United States|PC
+450592275|Massachusetts Vest-A-Dog|Walpole|MA|United States|PC
+452721390|Ministerio Abba Padre Internacional Inc.|Waltham|MA|United States|PC
+453848719|American Poodles at Work Inc.|Boylston|MA|United States|PC
+460472041|Global Health Through Educational Training Inc.|Attleboro|MA|United States|PC
+510433601|The Alan and Terri Spoon Family Fo

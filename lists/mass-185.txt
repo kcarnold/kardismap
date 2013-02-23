@@ -1,0 +1,108 @@
+010908761|Opencourseware Consortium Incorporated|Cambridge|MA|United States|PC
+030392248|The North River Community Lions Club Foundation Inc.|Scituate|MA|United States|SOUNK
+042052723|Independent University Alumni Association at Lowell Inc.|Lowell|MA|United States|PC
+042104064|Fenn School Inc.|Concord|MA|United States|PC
+042105776|Assumption College|Worcester|MA|United States|PC
+042134818|Laboure College|Boston|MA|United States|PC
+042254742|First Church of Christ Scientist|Boston|MA|United States|GROUP
+042384972|Community Action of the Franklin Hampshire and North Quabbin Region|Greenfield|MA|United States|PC
+042478171|Lifepoint Baptist Church of Chicopee Inc.|Chicopee|MA|United States|PC
+042544376|Pierce School Extended Day Inc.|Brookline|MA|United States|PC
+042592472|Cape Cod Academy Inc.|Osterville|MA|United States|PC
+042620053|League of Catholic Women of Lowell|Lowell|MA|United States|PC
+042645012|Church of Saint Alban the Partridge Hill Rd|Harvard|MA|United States|PC
+042670055|Harold and Janice Cohen Foundation 52-008296|Boston|MA|United States|PF
+042693347|Russells Mills Doll & Toy Museum|Dartmout|MA|United States|PC
+042716090|North Hill Needham Inc.|Needham|MA|United States|PC
+042738458|Center for Independent Documentary Inc.|Sharon|MA|United States|PC
+042756687|Granada House Inc. on the Health Campus|Allston|MA|United States|PC
+042774441|Childrens Hospital Corporation|Boston|MA|United States|PC
+042795274|The Foundation for Childrens Books Inc.|Newton|MA|United States|PC
+042878431|Agricultural Land Management Company Inc.|Marshfield|MA|United States|SOUNK
+042925964|Holy Ghost Temple Church Inc.|Springfield|MA|United States|PC
+042970467|Aids Project Worcester Inc.|Worcester|MA|United States|PC
+043013719|Co-Opportunity Inc.|Roxbury|MA|United States|SOUNK
+043053316|North Andover Schools Enrichment Council Inc.|North Andover|MA|United States|PC
+043086577|Chelmsford Friends of the Library|Chelmsford|MA|United States|PC
+043111739|Southeastern Massachusetts Regional Youth Hockey Association Inc.|Mansfield|MA|United States|PC
+043136142|Pentucket Activities Association Inc.|West Newbury|MA|United States|PC
+043161096|Mezitt Horticultural Foundation Inc.|Hopkinton|MA|United States|PF
+043180017|Windhorse Integrative Mental Health Inc.|Northampton|MA|United States|PC
+043205382|Cape Cod Chorale|Sandwich|MA|United States|PC
+043228989|Sons of Chekka Club Inc.|Dedham|MA|United States|PC
+043247274|Supporters of the Provincetown Public Library Inc.|Provincetown|MA|United States|PC
+043265972|Cape Cod Childrens Place Inc.|North Eastham|MA|United States|PC
+043284326|Randall Library Friends Association|Stow|MA|United States|PC
+043299427|St. Davids Church Nursery School Inc.|S Yarmouth|MA|United States|PC
+043321661|Topsfield Educational Foundation for the Elementary Schools Inc.|Topsfield|MA|United States|PC
+043339350|X Main St. Corporation|Springfield|MA|United States|PC
+043367614|Remillard Family Foundation Inc.|Webster|MA|United States|PF
+043392438|Twelfth Association Properties Inc.|Springfield|MA|United States|PC
+043407381|New England Association for Search and Rescue Inc.|Beverly|MA|United States|PC
+043427228|Cape & Islands Gay and Straight Youth Alliance|Hyannis|MA|United States|PC
+043446010|Friends of the Burlington Public Library Inc.|Burlington|MA|United States|PC
+043468149|Alliance Health of Quincy Inc.|Quincy|MA|United States|PC
+043486894|Chrystine M Sullivan Memorial Fund Inc.|Norwell|MA|United States|PC
+043502111|Save Our Heritage Inc.|Concord|MA|United States|PC
+043520825|Waltham Properties Inc.|Milford|MA|United States|PC
+043534960|Lake Gardner Improvement Association|Amesbury|MA|United States|PC
+043548523|Massachusetts Chapter of the American Chestnut Foundation Corp|Uxbridge|MA|United States|PC
+043564307|Action Center for College Educational Svs & Scholarship Fdn|Boston|MA|United States|PC
+043580039|Gerard Health Foundation Llc|Dover|MA|United States|PF
+046002239|Springfield Library and Museums Association|Springfield|MA|United States|PC
+046040093|Society of St. John the Evangelist|Cambridge|MA|United States|PC
+046058373|Chester High School Alumni Association Inc.|Middlefield|MA|United States|PF
+046111655|Harvard Law School Record Corp|Cambridge|MA|United States|PC
+046131754|Saugus Historical Society Inc.|Saugus|MA|United States|PC
+046198022|Alan D and Judith Tobin Charitable Foundation|Chestnut Hill|MA|United States|PF
+046691599|Pat Darrigo Charitable Trust|Framingham|MA|United States|PF
+046881823|Paul W Cronin & Ellen S Raphael Char Tr|Needham|MA|United States|PF
+050629971|Insight Meditation Center of Newburyport Inc.|West Newbury|MA|United States|PC
+113658144|Wellesley Cable Access Corporation|Wellesley|MA|United States|PC
+135562226|Roosevelt Warm Springs Foundation|Boston|MA|United States|PC
+166035496|Thoreau Society Inc.|Concord|MA|United States|PC
+200796386|Youth Lead Inc.|Sharon|MA|United States|PC
+201560485|Friends of St. Albert the Great Parish|East Weymouth|MA|United States|PC
+202208697|Westford Initiative for Senior Housing Inc.|Lawrence|MA|United States|PC
+203158801|Tara Bean Foundation Inc.|Shrewsbury|MA|United States|PC
+203985261|Fuller Arts and Sciences Inc.|Brockton|MA|United States|PC
+204848782|Needham Cares Inc.|Needham|MA|United States|PC
+205660521|Rcap Solutions Financial Services Inc.|Gardner|MA|United States|SOUNK
+208039724|Killian Family Foundation|Boston|MA|United States|PF
+208950375|Renaissance Chinese Cultural Association Inc.|Everett|MA|United States|PC
+222515729|Andover Jewish Fellowship Inc.|Andover|MA|United States|PC
+222570218|Ron Burton Training Village Inc.|Hubbardston|MA|United States|PC
+222667403|Boston Plan for Excellence in the Public Schools Foundation|Boston|MA|United States|GROUP
+222810798|Samuel and Nina Frankenheim Foundation|Boston|MA|United States|PF
+222976112|Newton Child Care Fund Inc.|Newton|MA|United States|PC
+223078001|Westford Against Substance Abuse Inc.|Westford|MA|United States|PC
+223200283|Friends of the Falmouth Public Library Inc.|Falmouth|MA|United States|PC
+223492162|Cabot Parent Teacher Organization|Newton|MA|United States|PC
+237072768|Boys and Girls Clubs of Middlesex County Inc.|Somerville|MA|United States|PC
+237187416|New England Fire & History Museum Inc.|Harwich|MA|United States|PC
+237350846|Sons and Daughters of the First Settlers of Newbury Mass Inc.|Newburyport|MA|United States|PC
+260083405|Arts League of Lowell|Lowell|MA|United States|PC
+260898374|Barro Sin Plomo USA Inc.|Brookline|MA|United States|PC
+261757458|Is Films Inc.|Mansfield|MA|United States|PC
+262529845|Bosniaks Society of Boston Inc.|Revere|MA|United States|PC
+263216048|Foundation for Astronomy and Spirituality Inc.|Amherst|MA|United States|PC
+263839792|Opportunities for Communities Inc.|Belchertown|MA|United States|PC
+264540496|Musickitchen Inc.|Jamaica Plain|MA|United States|PC
+270346782|Erving Elementary School Pto|Erving|MA|United States|PC
+271076903|Promising Hope Animal Sanctuary Corporation|Middleboro|MA|United States|PC
+271651767|Fandemoneum Association|Shrewsbury|MA|United States|PC
+272282822|Robert Moulton Associates Foundation|North Adams|MA|United States|PF
+272997397|John Paul II Polish Language School|Boston|MA|United States|PC
+273715102|Sandwich Spirit Club|Sandwich|MA|United States|PC
+274835424|Ivy Child International|Worcester|MA|United States|PC
+300188678|Westford Education & Foundation|Westford|MA|United States|PC
+300709350|We D R E A M Inc.|Springfield|MA|United States|PC
+316672883|Ruby W and Lavon P Linn Foundation|Boston|MA|United States|PF
+352233708|New Light Korean Church|Waltham|MA|United States|PC
+381907981|Hy & Greta Berkowitz Foundation|Lexington|MA|United States|PF
+421727335|National Collegiate Inventors & Innovators Alliance Inc.|Hadley|MA|United States|PC
+452191046|Warwick Theater Foundation Inc.|Marblehead|MA|United States|PC
+453198387|Nipmuc Youth Softball|Mendon|MA|United States|PC
+454575127|Wildsides|Boston|MA|United States|PC
+510165811|Afro Asian Mission Society of Boston Inc.|Roxbury|MA|United States|PC
+521326217|Institute of Transportation Engineers New England Sect

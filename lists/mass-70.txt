@@ -1,0 +1,109 @@
+010621383|Menswork Inc.|Harvard|MA|United States|PC
+020581094|Sean McDonough Foundation Inc.|Quincy|MA|United States|PC
+040112426|Lexington Field & Garden Club Inc.|Lexington|MA|United States|PC
+042103727|Athol Young Mens Christian Association and Subsidiary|Athol|MA|United States|GROUP
+042104378|Merrimack Valley Young Mens Christian Association Inc.|Lawrence|MA|United States|PC
+042109852|Council of Churches of Greater Springfield Inc.|Springfield|MA|United States|PC
+042173421|Lee Regional Visiting Nurse Association Inc.|Lee|MA|United States|PC
+042304133|Action for Boston Community Development|Boston|MA|United States|PC
+042441041|South Boston Action Council Inc.|Boston|MA|United States|PC
+042503240|Devotion Primary Extended Day Program|Brookline|MA|United States|PC
+042571853|Bih Radiologic Foundation Inc.|Boston|MA|United States|SOUNK
+042604510|Calvary Baptist Church|Pittsfield|MA|United States|PC
+042628296|Friends of the Harvard Public Library|Harvard|MA|United States|PC
+042655428|Amherst Chinese Christian Church|Amherst|MA|United States|PC
+042680339|Northeast Center for Youth and Families Inc.|Easthampton|MA|United States|PC
+042703586|Joy and Gladness Pentecostal Church Inc.|Dorchester|MA|United States|PC
+042726193|Monson High School Athletic Booster Association Inc.|Monson|MA|United States|PC
+042743411|Zion Temple Holy Church Inc.|Dorchester|MA|United States|PC
+042764692|East Boston Harborside Community School Council Inc.|East Boston|MA|United States|PC
+042781874|Abundant Grace Church of Boston|Brighton|MA|United States|PC
+042823953|First Baptist Church of Leominster|Leominster|MA|United States|PC
+042898851|Hyman and Shirley Hill Foundation|Milford|MA|United States|PF
+042942784|Edward & Nancy Stavis Charitable Foundation|Brookline|MA|United States|PF
+042986067|Friends of Hayes Park Inc.|Boston|MA|United States|PC
+043030609|Greater Westfield Mass Committee|Westfield|MA|United States|PC
+043068072|New England Mountain Bike Association Inc.|Acton|MA|United States|PC
+043099468|Cape Cod Pipe Band Inc.|Plymouth|MA|United States|PC
+043123325|Biotechnology Center of Excellence Corporation|Waltham|MA|United States|PC
+043143852|Lee Community Tennis Association|Lee|MA|United States|PC
+043169856|Assawompset Parent Teacher Organization Inc.|Lakeville|MA|United States|PC
+043192159|Mullein Hill Christian Academy Inc.|Lakeville|MA|United States|PC
+043214962|Great Acoustics Inc.|Brookline|MA|United States|PC
+043237796|Council of Juvenile Correctional Administrators|Braintree|MA|United States|PC
+043254592|Joan Bentinck-Smith Charitable Foundation|Osterville|MA|United States|PF
+043274100|New Bedford Museum and Art Center Inc.|New Bedford|MA|United States|PC
+043290095|Berkley Historical Society Inc.|Berkley|MA|United States|PC
+043308833|Crann Tara Pipe Band Inc.|Rockport|MA|United States|PC
+043329757|Pine Oaks III Inc.|Harwich|MA|United States|PC
+043350462|Corcoran Charitable Foundation|Boston|MA|United States|PF
+043376227|Aspergers Association of New England Inc.|Watertown|MA|United States|PC
+043398836|Twin Rivers Community Church Inc.|N Attleboro|MA|United States|PC
+043415498|Hm Hutchings Family Life Center Inc.|Springfield|MA|United States|PC
+043433614|Bay State Vietnam Veterans Inc.|Somerset|MA|United States|PC
+043455541|Leominster Land Trust Inc.|Leominster|MA|United States|PC
+043477129|American Dental Partners Foundation Inc.|Wakefield|MA|United States|PF
+043492519|Jennifer D Sweatman Fund|Fitchburg|MA|United States|PC
+043510635|New Breeze Foundation|Hingham|MA|United States|PF
+043527065|Belchertown Emergency Medical Services Association|Belchertown|MA|United States|PC
+043540401|Children Are Angels From Heaven|Medford|MA|United States|PC
+043555909|Vuona Charitable Foundation Inc.|Worcester|MA|United States|PF
+043571213|Second Chance Fund for Animal Welfare Inc.|Bolton|MA|United States|PC
+043584637|Jewish Community Housing for the Elderly VI Inc.|Brighton|MA|United States|PF
+046017810|E J McCarthy Foundation|Osterville|MA|United States|PF
+046048360|General Charitable Fund Inc.|Leominster|MA|United States|PF
+046069958|Mildred H McEvoy Foundation|Worcester|MA|United States|PF
+046114854|Hillside Cemetery|Haverhill|MA|United States|EO
+046147209|Berrybrook School Inc.|Duxbury|MA|United States|PC
+046439980|Somerset Lions Club Scholarship Trust Fund|Swansea|MA|United States|SOUNK
+046795433|Smith Foundation|Cambridge|MA|United States|PF
+046932499|Kusko Charitable Family Trust 120800|Westwood|MA|United States|PF
+061684351|Nantucket Shellfish Association Inc.|Nantucket|MA|United States|PC
+133030252|Zen Peacemakers Inc.|Sunderland|MA|United States|PC
+141880935|Right Turn Biz Inc.|Arlington|MA|United States|PC
+200329677|Arts Resources for the Town of Swampscott Inc.|Swampscott|MA|United States|PC
+201180110|Assembly of God Church Vinde Ministry|Worcester|MA|United States|PC
+201876495|Moeller Foundation Inc.|Sudbury|MA|United States|PF
+202648166|Voices of Involved Citzens Encouraging Safety Inc.|Chelmsford|MA|United States|PC
+203510157|Boston Main Streets Foundation|Boston|MA|United States|PC
+204325824|Forty West Street Corporation|Southbridge|MA|United States|PC
+205204958|International Shakyamuni Buddha Vihara & Vipassana Center|Lynn|MA|United States|PC
+205944717|French River Connection Inc.|Webster|MA|United States|PC
+208408242|Norton Special Ed Parent Advisory Council|Norton|MA|United States|PC
+222482949|Developmental Disabilities Management Assistance Inc.|Marshfield|MA|United States|PC
+222539427|Greater Haverhill Chamber of Commerce Community Arts|Haverhill|MA|United States|PC
+222592996|Friends of Art and Music Education F A M E|Sharon|MA|United States|PC
+222734449|The Maudsley State Park Association Inc.|Newburyport|MA|United States|PC
+222876229|Parish Cupboard Inc.|W Springfield|MA|United States|PC
+223025290|Calvary Chapel of Boston|Rockland|MA|United States|PC
+223135129|Evangelical Church of Emmanuel Inc.|Cambridge|MA|United States|PC
+223254549|Essex Parent Teacher Organization Incorporated|Essex|MA|United States|PC
+226678640|Linden Foundation Inc.|Boston|MA|United States|PF
+237121158|La Alianza Hispana Inc.|Roxbury|MA|United States|PC
+237263442|Winthrop Playmakers Inc.|Winthrop|MA|United States|PC
+237410495|American Arabic Benevolent Association Inc.|West Roxbury|MA|United States|PC
+260413943|Honorable Tina Brozman Foundation Inc.|Boston|MA|United States|PC
+261385652|Friends of Starz Dance Centre|Oxford|MA|United States|PC
+262066566|Neutral Ground Initiative|Cambridge|MA|United States|PC
+262869115|Friends of the Catholic University of Korea Inc.|Wayland|MA|United States|PC
+263475247|Quabbin Education Foundation|Barre|MA|United States|PC
+264126985|Philadelphia International Assembly of God Inc.|Weymouth|MA|United States|PC
+266201470|Fleming Family Foundation 12132007|Weston|MA|United States|PF
+270602966|Friends of Newton Crystal Lake Inc.|Newton|MA|United States|PC
+271325546|Kingston Public Library Foundation Inc.|Kingston|MA|United States|PC
+271921690|Pioneer Valley History Network|Belchertown|MA|United States|PC
+272588270|Needham Bikes Inc.|Needham|MA|United States|PC
+273273763|Empowering Through Education Camp|Boston|MA|United States|PC
+274099544|Newport Festivals Foundation Inc.|Beverly|MA|United States|PC
+276385378|Sharon Fay and Maxine Schaffer Family Foundation|Boston|MA|United States|PF
+300400024|Global Deeds Foundation Inc.|Salem|MA|United States|PC
+311662913|Twelve Tribes|Brockton|MA|United States|PC
+330469663|Force Recon Association Inc.|Rowe|MA|United States|EO
+364545941|Greater Youth Resource Services Inc.|Randolph|MA|United States|PC
+412057326|Lake Quinsigamond Watershed Association Inc.|Shrewsbury|MA|United States|PC
+450499308|Newton Girls Basketball Association Inc.|Newton|MA|United States|PC
+452656977|Aacr Boston Inc.|Brookline|MA|United States|PC
+453751105|International Alliance for the Advancement of Scottish Roots Musi|West Newton|MA|United States|PC
+455587402|Devoted to Children Foundation|South Boston|MA|United States|PC
+510205816|Concord Band Association|Concord|MA|United States|PC
+522448025|Small Business Foundation Inc.|Wor

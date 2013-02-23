@@ -1,0 +1,110 @@
+010778722|Berkshire Psychoanalytic Institute Inc.|Stockbridge|MA|United States|PC
+020766436|The Scott E Chapman Foundation Inc.|Waltham|MA|United States|PC
+041693295|Education Fund of the Order of the Eastern Star of Mass|Newtonville|MA|United States|PC
+042103905|Boston Home Inc.|Dorchester|MA|United States|PC
+042104784|Noble and Greenough School|Dedham|MA|United States|PC
+042125014|Old Colony Y|Brockton|MA|United States|PC
+042214846|Springfield Hobby Club Inc.|Springfield|MA|United States|PC
+042326141|Hoisting & Portable Engineers Local No 4 Apprenticeship & Training Fnd|Canton|MA|United States|PC
+042457702|Barn of Winter Street Inc.|Concord|MA|United States|PC
+042519928|Penny Lane Day School Inc.|Harwich Port|MA|United States|PC
+042581853|Derby Park Center Inc.|Roxbury|MA|United States|PC
+042612225|Weston Metco Scholarship Fund Inc.|Weston|MA|United States|PC
+042636211|Valley Zendo Inc.|Charlemont|MA|United States|PC
+042662729|Home Outreach for Ministry and Evangelism Inc.|Clinton|MA|United States|PC
+042688113|Marblehead Youth Soccer Association|Marblehead|MA|United States|PC
+042709501|Sturdy Memorial Associates Inc.|Attleboro|MA|United States|SOUNK
+042733471|Northeast Foundation for Children|Turners Falls|MA|United States|PC
+042750985|Beacon City Church|Winchester|MA|United States|PC
+042768780|Taunton Brewins Youth Hockey Association Inc.|Bridgewater|MA|United States|PC
+042790753|Entropy Research Institute Inc.|Lincoln|MA|United States|PC
+042863685|Italian Cultural Center of Western Massachusetts Inc.|Springfield|MA|United States|PC
+042914498|The Friends of the Middlebord Public Library Inc.|Middleboro|MA|United States|PC
+042954622|Clinton Youth Soccer Association Inc.|Clinton|MA|United States|PC
+042999619|Boston Biostatistics Research Fdn Inc.|Framingham|MA|United States|PC
+043041428|Chicopee River Watershed Council Inc.|Chicopee|MA|United States|PC
+043078060|Perf Inc.|Plainville|MA|United States|PC
+043105397|Friends of the Milford Senior Center Inc.|Milford|MA|United States|PC
+043131458|Realtor Association of Pioneer Valley Charitable Education Fund|Springfield|MA|United States|PC
+043154480|Wakefield Warrior Club Inc.|Wakefield|MA|United States|PC
+043174493|Friends of Crosby Mansion Inc.|Brewster|MA|United States|PC
+043199553|Simmons College Graduate School of Management Alumnai Assoc Inc.|Boston|MA|United States|PC
+043223129|Friends of Parkerville Schoolhouse|Westford|MA|United States|PC
+043243059|Ohanian Family Foundation Inc.|Billerica|MA|United States|PF
+043261693|Boston Clavichord Society Inc.|Waltham|MA|United States|PC
+043279639|Friends of the Pearle L Crawford Memorial Library Inc.|Dudley|MA|United States|PC
+043294713|Worcester Womens History Project Inc.|Worcester|MA|United States|PC
+043315954|Pookies Pals Incorporated|Duxbury|MA|United States|PC
+043334634|Chinese Christian Internet Mission Inc.|Cambridge|MA|United States|PC
+043359362|Salem Arts Center Inc.|Salem|MA|United States|PC
+043385523|Hebrew Institute of Boston Inc.|Winchester|MA|United States|PC
+043402689|For Our Residents of Easton Inc.|North Easton|MA|United States|PC
+043423911|William R and Ruth D Cuming Char Foundation|Boston|MA|United States|PF
+043439192|Paw Prints Orphaned Wildlife Rehabilitation Center Inc.|Williamsburg|MA|United States|PC
+043463245|Sarah H Williams Treasure Hunt Farm Foundation|Rutland|MA|United States|POF
+043481920|Global Health Committee Inc.|Boston|MA|United States|PC
+043496080|Gregory Foundation Tr|Boston|MA|United States|PF
+043516389|Beacon Hill Seminars Inc.|Boston|MA|United States|PC
+043531925|Merrimack Valley Italian-American Scholarship Fund Incorporated|Methuen|MA|United States|PC
+043544102|Nancy S Druker Memorial Foundation|Boston|MA|United States|PF
+043560710|Cupboard of Kindness Inc.|Norton|MA|United States|PC
+043575807|Plymouth Regional Economic Development Foundation Inc.|Plymouth|MA|United States|PC
+043724454|William G Vinal School Pto|Norwell|MA|United States|PC
+046035572|Harriet M Faunce Trust UW Cape Cod Bank & Trust Co|Orleans|MA|United States|PF
+046053121|Salem Full Gospel Chapel Inc.|Salem|MA|United States|PC
+046086312|Abraham W Rizika Foundation|Brookline|MA|United States|PF
+046125643|Athol Historical Society Inc.|Athol|MA|United States|PC
+046183682|Spero Charitable Foundation|Chestnut Hill|MA|United States|PF
+046607784|John M Sawyer Memorial Trust|Boston|MA|United States|PF
+046855369|The Ted and Ruth Grossman Family Foundation|Sharon|MA|United States|PF
+050371565|Friends of the Rhode Island School for the Deaf|Rehoboth|MA|United States|PC
+100000853|Friends of the Wendell Meetinghouse Inc.|Wendell|MA|United States|PC
+134076259|Illyria Theatre Inc.|Provincetown|MA|United States|PC
+161641067|Boston Securities Traders Foundation Inc.|Boston|MA|United States|PF
+200525171|The Sharon Cooperative School Inc.|Sharon|MA|United States|PC
+201341281|Institute for Economic Policy Studies Inc.|Worcester|MA|United States|PC
+202028893|Alosa Foundation Inc.|Boston|MA|United States|PC
+202900398|Bookbuilders of Boston Education Fund Inc.|Scituate|MA|United States|PF
+203798655|Mountains for Miracles Inc.|Hingham|MA|United States|PC
+204643238|Ccbc Properties Inc.|Taunton|MA|United States|PC
+205445375|Technocation|Cambridge|MA|United States|PC
+206697725|Major David Scott Connolly Foundation Inc.|Newton|MA|United States|PF
+208682042|Nosa Inc.|Cambridge|MA|United States|PC
+222505816|Project Step Inc. Symphony Hall|Boston|MA|United States|PC
+222554127|Berkshire County Bar Advocates Inc.|Pittsfield|MA|United States|PC
+222621955|Brookline Council for the Arts & Humanities Inc.|Brookline|MA|United States|PC
+222778827|Friends of the Newburyport Public Library Inc.|Newburyport|MA|United States|PC
+222943679|Church of God|Dorchester|MA|United States|PC
+223051402|Common Capital Inc.|Holyoke|MA|United States|PC
+223174692|Norman A Fennell Memorial Scholarship Foundation Inc.|Harwich Port|MA|United States|PC
+223337776|Brick House Community Resource Center Inc.|Turners Falls|MA|United States|PC
+237025778|Camp Anderson Foundation Inc.|Shutesbury|MA|United States|PC
+237163452|Rutland Little League Inc.|Worcester|MA|United States|PC
+237306947|Brockton Symphony Orchestra|Brockton|MA|United States|PC
+237464797|Topsfield Athletic Association|Topsfield|MA|United States|PC
+260663000|Cambridge Energy Alliance Inc.|Cambridge|MA|United States|PC
+261570446|Turtle Lane Players II Inc.|Auburndale|MA|United States|PC
+262312323|Crafting Change Inc.|South Hadley|MA|United States|PC
+263064943|Staley Foundation Inc.|Charlestown|MA|United States|PC
+263691663|Igreja Evangelica Resgate|Leominster|MA|United States|PC
+264363808|Abekam|Roxbury|MA|United States|PC
+270152747|Cycle of Care|Boston|MA|United States|PC
+270851545|Mansfield Youth Basketball Association Inc.|Mansfield|MA|United States|PC
+271505576|Friends of Concord-Carlisle High School Boys Hockey Inc.|Concord|MA|United States|PC
+272110998|Shamada Gardens & Greenhouses|Pocasset|MA|United States|PC
+272836325|Teaching Equality Inc.|Brookline|MA|United States|PC
+273506203|J Peter and Marjorie L Noonan Foundation Inc.|N Falmouth|MA|United States|PF
+274442816|Taste of Heaven Ministry Inc.|Malden|MA|United States|PC
+300099060|Stoughton Historical Society|Stoughton|MA|United States|PC
+300565655|Ashburnham Westminster Foundation for Academic Excellance Inc.|Ashburnham|MA|United States|PC
+311748001|Ottoson Middle School Parent Advisory Council|Arlington|MA|United States|PC
+341543994|M Roger and Anne Melby Clapp Foundation|Arlington|MA|United States|PF
+367252958|Reamer Family Foundation|Boston|MA|United States|PF
+416173296|Teams of Our Lady|Westport|MA|United States|PC
+451490369|Americans Invested in Mental Health Inc.|Lynnfield|MA|United States|PC
+452947118|Friends of the Captains|Brewster|MA|United States|PC
+454100455|Schonfeldt Foundation Inc.|Cambridge|MA|United States|PF
+461087163|Indian Lake Community Church|Worcester|MA|United States|PC
+510572717|Somerville Youth and Recreation Foundation|Somerville|MA|United States|PC
+542158925|Little Children of Mary Inc.|Vineyard Hvn|MA|United States|PC
+562665325|American Friend

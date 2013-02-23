@@ -1,0 +1,112 @@
+010959428|Grow Food Northampton Inc.|Northampton|MA|United States|PC
+030425512|Harvard Dedicated Energy Limited|Cambridge|MA|United States|SOUNK
+042078801|Marblehead Arts Association|Marblehead|MA|United States|PC
+042104231|United Way of Tri County Inc.|Framingham|MA|United States|PC
+042105813|The Wayside Inn|Sudbury|MA|United States|PC
+042137310|Polish American Veterans of World War II Inc.|Charlton|MA|United States|EO,LODGE
+042260254|Medford Community Center Inc.|Medford|MA|United States|PC
+042391348|Quincy Community Action Programs Inc.|Quincy|MA|United States|PC
+042483221|Berkshire Fund Inc.|Pittsfield|MA|United States|PC
+042545712|Wilmington Family Counseling Service Inc.|Wilmington|MA|United States|PC
+042593966|Cattel Andriski Foundation Inc.|Petersham|MA|United States|PF
+042620706|Chargers Youth Program Inc.|Gloucester|MA|United States|PC
+042646695|Manet Community Health Center Inc.|North Quincy|MA|United States|PC
+042671354|Newton Art Association Inc.|Newton|MA|United States|PC
+042695253|Carlisle Elderly Housing Assn Inc.|Carlisle|MA|United States|PC
+042716738|Puckihuddle Preschool Inc.|Manchaug|MA|United States|PC
+042738797|Hull Lifesaving Museum Inc.|Hull|MA|United States|PC
+042759931|Bedford Schools Association|Bedford|MA|United States|PC
+042775508|Greater Boston Baptist Association Inc.|Needham|MA|United States|PC
+042798612|Village Pre-School Inc.|Roslindale|MA|United States|PC
+042880404|Museum Film Network Inc.|Boston|MA|United States|SOUNK
+042931104|The Margaret Fitzgerald Grogan Petersmeyer Foundation Inc.|Wellesley|MA|United States|PC
+042972675|Concord Review|Concord|MA|United States|PC
+043015339|Brandon Residential Treatment Center Inc.|Natick|MA|United States|PC
+043055099|Joy of Music Program Inc.|Worcester|MA|United States|PC
+043088163|First Association Properties Inc.|Springfield|MA|United States|PC
+043112929|Amherst Area Amateur Astronomers Association Incorporated|Amherst|MA|United States|PC
+043137119|Iglesia De Dios Pentecostal El Sinai|Springfield|MA|United States|PC
+043163180|Mother Caroline Academy and Education Center|Dorchester|MA|United States|PC
+043181404|F L A M E Inc.|Framingham|MA|United States|PC
+043207891|Daniel Webster Preservation Tr Inc.|Green Harbor|MA|United States|PC
+043230566|Northeast Disaster Recovery Information X-Change Inc.|Boston|MA|United States|PC
+043248656|Casa Verna Inc.|Berlin|MA|United States|PC
+043266789|Foundation for Metrowest Inc.|Natick|MA|United States|PC
+043284931|Kids Voting Massachusetts Inc.|Braintree|MA|United States|PC
+043300991|Victory Church Incorporated|Springfield|MA|United States|PC
+043322912|Roosevelt Avenue Parent Teacher Group|N Attleboro|MA|United States|PC
+043340270|Pemberton Family Foundation Inc.|Osterville|MA|United States|PF
+043368675|Red Lily Pond Project Association Inc.|Craigville|MA|United States|PC
+043393298|Katie West Memorial Scholarship|Haverhill|MA|United States|PC
+043408706|Baptist Church|Hanson|MA|United States|PC
+043428075|Tas-Cecl Inc.|Braintree|MA|United States|PC
+043446938|Marshall Family Foundation 12071998|Centerville|MA|United States|PF
+043469367|Danvers Youth Football Inc.|Danvers|MA|United States|PC
+043487611|Duxbury Recreation Foundation Inc.|Duxbury|MA|United States|PC
+043502682|True Jesus Church|Natick|MA|United States|PC
+043521293|Mile Tree School Pto|Wilbraham|MA|United States|PC
+043535601|Starlight Missionary Baptist Church Inc.|Dorchester|MA|United States|PC
+043549777|Pembroke Community Group|Pembroke|MA|United States|PC
+043565552|North Andover Youth Baseball Association|North Andover|MA|United States|PC
+043580730|Mass Chapter of American College of Healthcare Administrators Inc.|Framingham|MA|United States|PC
+046003002|Beth El Temple Center of Belmont Inc.|Belmont|MA|United States|PC
+046041992|Historical Society of Greenfield Mass|Greenfield|MA|United States|PC
+046059729|Whitinsville Social Library|Whitinsville|MA|United States|PC
+046111820|Joseph F and Clara Ford Foundation|Brookline|MA|United States|PF
+046134141|Hopedale High School Alumni Association|Hopedale|MA|United States|PC
+046243236|Kestrel Land Trust|Amherst|MA|United States|PC
+046710799|Copley Square Charitable Tr|Boston|MA|United States|SOUNK
+046896202|John and Judith Nelson Family Foundation|Boston|MA|United States|PF
+056022654|Robert Lloyd Corkin Charitable Foundation|Hudson|MA|United States|PF
+113687081|South Boston Arts Association Inc.|South Boston|MA|United States|PC
+136088678|George P McNear Jr Foundation|Manchester|MA|United States|PF
+200031316|West Chatham Association Inc.|West Chatham|MA|United States|PC
+200830131|Showtime Singers Inc.|Needham|MA|United States|PC
+201612098|Yerazart Inc.|Waltham|MA|United States|PC
+202281245|Campton Classic|Canton|MA|United States|PC
+203227346|Magnificat Academy Inc.|Clinton|MA|United States|PC
+204005085|Godshalk Family Char Fdn U Agr 12232005 Investment Advisory Acct|Boston|MA|United States|PF
+204923289|Westfield Homeless Cat Project|Westfield|MA|United States|PC
+205707353|Give Kids Music Inc.|Wakefield|MA|United States|PC
+208065915|826 Boston Inc.|Roxbury|MA|United States|PC
+210715121|The Shenandoah Foundation Inc.|Vineyard Hvn|MA|United States|PC
+222519197|North American Amateur Hockey Association Inc.|W Springfield|MA|United States|PC
+222571261|The Thomas Taylor and Charlotte Valetine Taylor Educational Founda|Boston|MA|United States|PF
+222674374|American Classics Inc.|Boston|MA|United States|PC
+222817713|Warren Hospital Fund|Bridgewater|MA|United States|PF
+222979908|Latino Health Institute Inc.|Boston|MA|United States|PC
+223084639|Friends of Mount Auburn Cemetery|Cambridge|MA|United States|PC
+223204728|North Suffolk Group Homes Inc.|Chelsea|MA|United States|PC
+223517160|Massachusetts Premier League Inc.|Natick|MA|United States|PC
+237080741|Freetown Historical Society Inc.|Assonet|MA|United States|PC
+237204498|Curtis and Patricia Blake Foundation|Boston|MA|United States|PF
+237361259|Harvard Management Company Inc.|Boston|MA|United States|PC
+260136746|Mattapoisett Youth Baseball Association|Mattapoisett|MA|United States|PC
+261100318|Green School Bali Inc.|Boston|MA|United States|PC
+261794761|Vital Cycles|Chelmsford|MA|United States|PC
+262610519|James and Stephanie Patrick Family Foundation Inc.|Ipswich|MA|United States|PF
+263273404|Theatre Guild of North Brookfield Inc.|New Braintree|MA|United States|PC
+263874093|Sustainable Braintree Inc.|Braintree|MA|United States|PC
+264593662|Boston Global Bridge Institute|Boston|MA|United States|PC
+270380394|Southeastern Massachusetts Thunder Baseball Club|Plymouth|MA|United States|PC
+271131520|Cold Noses Foundation Inc.|Ashland|MA|United States|PC
+271678009|Behavioral Ideas Lab Inc.|Boston|MA|United States|PC
+272331022|Massachusetts Land Trust Coalition|Lincoln|MA|United States|PC
+273029261|Taconic Conservation Foundation Inc.|Pittsfield|MA|United States|PC
+273753171|The Types Project Inc.|Somerville|MA|United States|PC
+274927759|Justin Onorato Scholarship Fund Inc.|Waltham|MA|United States|PC
+300209724|One Village at A Time|Boston|MA|United States|PC
+306038996|The William V Ellis Family Foundation|Gloucester|MA|United States|PF
+320038579|Communication Alliance to Network Throughbred Ex-Racehorses of N E|Reading|MA|United States|PC
+352302596|Saugus Community Television Inc.|Saugus|MA|United States|PC
+383688541|Bellingham Friends of Music Inc.|Bellingham|MA|United States|PC
+421763067|Manchester Essex Hornets Gridiron Club Inc.|Manchester|MA|United States|PC
+452324555|Learning by Giving Foundation Inc.|Boston|MA|United States|PF
+453245413|Israeli Complementary School of Brookline Inc.|Brookline|MA|United States|PC
+454696925|Hull Youth Center Inc.|Hull|MA|United States|PC
+510173049|Marthas Vineyard Hebrew Center|Vineyard Hvn|MA|United States|PC
+521650058|The Gary and Susan Dicamillo Foundation Inc.|Wellesley|MA|United States|PF
+550906594|Ammerman Family Foundation June 16 2005|Boston|MA|United States|PF
+582040413|Companion Animal Protection Society|Cohasset|MA|United States|PC
+680624084|Friends of Camp Kiwanee|Hanson|MA|United States|PC
+760701875|Open Door Commuity Tabernacle of 

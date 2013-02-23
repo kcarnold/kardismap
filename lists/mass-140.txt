@@ -1,0 +1,108 @@
+010803117|Healthone Care System Inc.|Newton|MA|United States|PC
+020809981|Glassbooth Corp|Cambridge|MA|United States|PC
+041802590|Proprietors of the Salem Athenaeum|Salem|MA|United States|PC
+042103924|Boys & Girls Club of Lynn|Lynn|MA|United States|PC
+042104806|Old South Association in Boston|Boston|MA|United States|PC
+042127023|Jewish Federation of Western Massachusetts Inc.|Springfield|MA|United States|PC
+042218596|Moseley Fund for Social Service in Newburyport|Newburyport|MA|United States|SOUNK
+042347902|Brookline I L Peretz School of the Workmens Circle Inc.|Brookline|MA|United States|PC
+042460988|Eliot Congregational Church of Roxbury Boston Massachusetts|Roxbury|MA|United States|PC
+042525059|Springfield Golden Age Club Inc.|Springfield|MA|United States|PC
+042582248|Friends of the South Shore Hospital|South Weymouth|MA|United States|PC
+042614456|Architectural Conservation Trust Act for Massachusetts Inc.|Boston|MA|United States|PC
+042636758|The Friends of the Marlborough Seniors Inc.|Marlborough|MA|United States|PC
+042664574|Southeastern Massachusetts Ser-Jobs for Progress Inc.|Fall River|MA|United States|PC
+042688640|Massachusetts International Trade Council Inc.|Boston|MA|United States|PC
+042710084|Metrowest Mediation Services Inc.|Framingham|MA|United States|PC
+042733990|Lyman School Housing Committee Inc.|Boston|MA|United States|PC
+042751297|Wayne Morgan Ministries|Salem|MA|United States|PC
+042770977|Emerson Health System Inc.|Concord|MA|United States|SOUNK
+042790948|Green Island Residents Group Inc.|Worcester|MA|United States|PC
+042864067|Friends of Wilbraham Seniors Inc.|Wilbraham|MA|United States|PC
+042914758|Friends of Agawam Senior Center Inc.|Agawam|MA|United States|PC
+042956339|Vna Foundation of Greater Lowell Inc.|Lowell|MA|United States|PC
+043001482|Sharon Friends of Conservation Inc.|Sharon|MA|United States|PC
+043043595|South Area Solomon Schechter Day School Inc.|Stoughton|MA|United States|PC
+043079087|Providers and Childrens Educational Services Inc.|Lawrence|MA|United States|PC
+043105708|Hellenic Womens Club Inc.|Weston|MA|United States|PC
+043132443|Merrimack Valley Project Inc.|Lawrence|MA|United States|PC
+043156366|Friends of the Truro Libaries Inc.|North Truro|MA|United States|PC
+043175266|Putnam Investments Foundation|Boston|MA|United States|PF
+043201180|Friends of Chevalier Auditorium & Gene Mack Gymnasium Inc.|Medford|MA|United States|PC
+043223831|Turner House Living Center for Veterans Inc.|Williamstown|MA|United States|PC
+043243527|Family Quarters Inc.|Dedham|MA|United States|PC
+043262058|Aviation Safety Group of Massachusetts Incorporated|Bradford|MA|United States|PC
+043280146|Sandwich Adventure Playground Committee|Sandwich|MA|United States|PC
+043295158|Longfellow Area Neighborhood Association Inc.|Boston|MA|United States|PC
+043316693|Pentucket Peoples Foundation Inc.|Haverhill|MA|United States|PC
+043335235|Ladd Family Foundation|Dover|MA|United States|PF
+043361420|Icp Information Newsletter Inc.|Hadley|MA|United States|PC
+043386429|Vietnamese Buddhist Association of Greater Springfield|Springfield|MA|United States|PC
+043403085|Marino Center for Intergrative Health Inc.|Wellesley|MA|United States|PC
+043424488|World Buddhist Society Yeong Chyuan Monastery|Boston|MA|United States|PC
+043439801|Hermitage of the Advent Inc.|Marshfield|MA|United States|PC
+043464280|Muslim Community Support Services Incorporated|Braintree|MA|United States|PC
+043483186|Light of Cambodian Children Inc.|Lowell|MA|United States|PC
+043496738|Linda Loring Nature Foundation Inc.|Nantucket|MA|United States|POF
+043517520|Seeds of Solidarity Education Center Inc.|Orange|MA|United States|PC
+043532342|Schley Family Foundation|Boston|MA|United States|PF
+043544834|Davenport Child Care Inc.|Chesterfield|MA|United States|PC
+043561589|Sand Pond Foundation|Harwich|MA|United States|PF
+043576423|Boston Public Housing Corporation|Boston|MA|United States|SOUNK
+043756900|Commonwealth Care Alliance Inc.|Boston|MA|United States|PC
+046036513|Annie F Ober Tr FBO First Baptist Bank C/O Berverly National Bank|Beverly|MA|United States|SOUNK
+046053896|Dover Historical Society Inc.|Dover|MA|United States|PC
+046088062|Variety Club of New England|Southborough|MA|United States|PC
+046126702|Dennis F Thomas Post No 2578|Hyannis|MA|United States|EO
+046185635|Hilltop Child & Adult Services Inc.|W Springfield|MA|United States|PC
+046625386|John E & Marie L Murphy Char Tr|Peabody|MA|United States|PF
+046861359|Alvan and Lois Finn Charitable Foundation|Brookline|MA|United States|PF
+050435206|International Conference on the Science of Hard Materials|Brookline|MA|United States|PC
+100003568|Willow Creek Charitable Foundation|Marion|MA|United States|PF
+134186806|The David and Mary Barros Foundation Inc.|Scituate|MA|United States|PF
+161661660|Baytrust Corporation|Maynard|MA|United States|PC
+200585630|Innovation Academy Community Association Incorporated|Tyngsboro|MA|United States|SOUNK
+201358397|Mental Health and Addiction Network Inc.|Salem|MA|United States|PC
+202045324|Tara Hills Charitable Foundation|Boston|MA|United States|PF
+202942960|Boston Area Sas Users Group Inc.|Boston|MA|United States|PC
+203828316|Friends of the Walpole Community Athletic Complex Inc.|East Walpole|MA|United States|PC
+204659593|Paul M Cleary Challenge for Kids Inc.|Milton|MA|United States|PF
+205465447|Greater Springfield Business Foundation Inc.|Springfield|MA|United States|SOUNK
+206780627|General Israel Putnam Homestead Tr|Danvers|MA|United States|PF
+208720262|Little Ones Rising Minds|Gloucester|MA|United States|PC
+222506543|Shrewsbury Youth and Family Services Inc.|Shrewsbury|MA|United States|PC
+222558129|Plymouth County Cemetery Inc.|Plymouth|MA|United States|EO
+222624136|Greyhound Friends Inc.|Hopkinton|MA|United States|PC
+222779695|The Lank Chanowski Gustin Charitable Trust|Southborough|MA|United States|PF
+222946805|K J Quinn Charitable Foundation Inc.|Boston|MA|United States|PF
+223056167|New Marlborough Friends of the Library Inc.|Mill River|MA|United States|PC
+223180570|Jumelage Inc.|Winchester|MA|United States|PC
+223351769|Marc Ernest Pallotta Foundation Inc.|Worcester|MA|United States|POF
+237037153|Clinton Hospital Guild|Clinton|MA|United States|PC
+237167763|Euclid Lodge|Braintree|MA|United States|EO,LODGE
+237313963|Harvard Club of Quincy Inc.|Winchester|MA|United States|PC
+244690816|Ganemeed Theatre Project Inc.|Greenfield|MA|United States|PC
+260699697|Greater Grove Hall Main Streets Corp|Dorchester|MA|United States|PC
+261595109|Grafton Foundation Inc.|North Grafton|MA|United States|PC
+262339499|Cape Ann Shakespeare Troupe|Rockport|MA|United States|PC
+263077123|Walk to the Sea Inc.|Boston|MA|United States|PC
+263713735|Irene E and George A Davis Foundation|Springfield|MA|United States|PF
+264389574|Ministries of the Great Commission Inc.|Everett|MA|United States|PC
+270190091|Biocitizen Inc.|Westhampton|MA|United States|PC
+270914013|Wild Hearts Therapeutic Equestrian Program|W Bridgewater|MA|United States|PC
+271519167|Bat for Kids Inc.|Weston|MA|United States|PC
+272134490|3-21 Foundation|Cambridge|MA|United States|PC
+272860089|Effortz Foundation Inc.|East Falmouth|MA|United States|PC
+273536963|Westborough Youth Lacrosse Association Inc.|Westborough|MA|United States|PC
+274509258|Comforters for Cancer Inc.|Lexington|MA|United States|PC
+300119012|Exit Dance Theatre|Newburyport|MA|United States|PC
+300582293|Source of Life Church of Holyoke Ma|Greenfield|MA|United States|PC
+311758843|Westland Community Housing Corporation|Chelsea|MA|United States|PC
+341976365|Iglesia Movadora De Sion Inc.|Holyoke|MA|United States|PC
+371438179|Babblingbrook Family Learning Center|East Boston|MA|United States|PF
+421543671|Rattlesnake Hill Open Space Association Inc.|Sharon|MA|United States|PC
+451584409|Blueskies Wellness Inc.|Methuen|MA|United States|PC
+452987836|Jafari Family Project Inc.|Woburn|MA|United States|PF
+454167522|Scotty Monteiro Jr Foundation Inc.|Wareham|MA|United States|PC
+470870772|Island Health Inc.|West Tisbury|MA|United States|PC
+510584425|Revival Miracle Center Evangelical Ministries|Waltham|

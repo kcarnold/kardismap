@@ -1,0 +1,111 @@
+010628197|High Plain Elementary Parent Teacher Organization Inc.|Andover|MA|United States|PC
+020588305|Billerica Public Library Foundation Inc.|Billerica|MA|United States|PC
+041032821|Ancient Accepted Scottish Rite of Free Masonry Nmj|Lexington|MA|United States|EO,GROUP,LODGE
+042103756|Behavioral Health Network Inc.|Springfield|MA|United States|PC
+042104398|Lowell Young Mens Christian Association|Lowell|MA|United States|PC
+042111203|Clark University|Worcester|MA|United States|PC
+042176769|Parmenter Vna and Community Care|Wayland|MA|United States|PC
+042307227|North Shore Nursery School Inc.|Beverly Farms|MA|United States|PC
+042443266|Paul Center for Learning and Recreation Inc.|Chelmsford|MA|United States|PC
+042504711|Norfolk Cooperative Primary Inc.|Norfolk|MA|United States|PC
+042573248|Communities for People|Boston|MA|United States|PC
+042605211|Search for Justice & Equality I N Palestine Israel|Framingham|MA|United States|PC
+042628384|Harvard Glee Club Inc.|Cambridge|MA|United States|PC
+042656267|Massachusetts Juvenile Police Officers Assoc|Concord|MA|United States|PC
+042680645|Billerica Historical Society|Billerica|MA|United States|PC
+042704470|Retired Mens Club of Arlington Inc.|Arlington|MA|United States|PC
+042730069|Schools for Children Inc.|Arlington|MA|United States|PC
+042743790|Scm Community Transportation Inc.|Somerville|MA|United States|PC
+042765361|The Literati Scene Inc.|Boston|MA|United States|PC
+042783515|Gray House Inc.|Springfield|MA|United States|PC
+042832441|The Johannine Daist Comm Union of Massachusetts Inc.|Natick|MA|United States|PC
+042899624|Merry-Go-Round Nursery School Inc.|Medford|MA|United States|PC
+042943385|Lubavitch Shul of Brighton Inc.|Brighton|MA|United States|PC
+042987534|Courageous Sailing Center of Boston Inc.|Boston|MA|United States|PC
+043031117|Townsend Conservation Land Trust Inc.|Townsend|MA|United States|PC
+043068730|Massachusetts Water Pollution|Groveland|MA|United States|PC
+043100129|Sung Kwang Presbyterian Church|Acton|MA|United States|PC
+043123999|Hatfield Foundation for the Enhancement of Education Inc.|Hatfield|MA|United States|PC
+043144786|Peter Faneuil Development Group Inc.|Boston|MA|United States|PC
+043170410|Greater Grace Community Church World Outreach|Pepperell|MA|United States|PC
+043192571|Manchester Summerstage Incorporated|Manchester|MA|United States|PC
+043215405|Sigel Family Foundation|Mashpee|MA|United States|PF
+043238501|Essex Art Center Inc.|Lawrence|MA|United States|PC
+043255322|Historic Marine Education Inc. Marine Detachment 1797|Charlestown|MA|United States|PC
+043274468|Pro-Life Alliance of Gays and Lesbians Inc.|Concord|MA|United States|PC
+043290689|On the Rise Inc.|Cambridge|MA|United States|PC
+043309714|Friends of the Boston Area Retired & Senior Volunteer Program Inc.|Brighton|MA|United States|PC
+043330098|Single Mothers Initiative Inc.|Needham|MA|United States|PC
+043351176|Andover Chamber Music Series Inc.|Andover|MA|United States|PC
+043377673|Nobscot Reading Council Inc.|Framingham|MA|United States|PC
+043399319|East Cambridge Savings Charitable Foundation Inc.|E Cambridge|MA|United States|PF
+043416171|New England Brass Band|Haverhill|MA|United States|PC
+043434079|Pond Home Community Inc.|Wrentham|MA|United States|PC
+043457051|Coastal Stars Inc.|Marshfield|MA|United States|PC
+043477836|Joseph R Levis Foundation Inc.|Andover|MA|United States|PF
+043492839|Savage Family Foundation|Needham|MA|United States|PF
+043511088|The National Trust for Scotland Foundation USA Inc.|Boston|MA|United States|PC
+043527417|Lunenburg Track & Athletic Fields Association|Lunenburg|MA|United States|PC
+043540766|Stephen & Elizabeth Sabounjian Foundation|Wilmington|MA|United States|PF
+043556692|Frantezi Kreyol Dance Company Inc.|Cambridge|MA|United States|PC
+043571773|Grace and Bill Peabody Foundation Inc.|Pittsfield|MA|United States|PF
+043585241|Full Life Association Inc.|Norfolk|MA|United States|PC
+046018946|Trust UW Leaffie B Curtis Miller|Hanover|MA|United States|PF
+046048917|Yarmouth Library Association|Yarmouth Port|MA|United States|PC
+046071147|Rockport Legion Band Inc.|Rockport|MA|United States|PC
+046115345|Worcester County Light Opera Club|Worcester|MA|United States|PC
+046149016|South End Historical Society Inc.|Boston|MA|United States|PC
+046469435|Ruach Foundation|Boston|MA|United States|PF
+046799734|Mary Field and Vincent Dep Goubeau Charitable Tr 1996|Boston|MA|United States|PF
+046934826|The Charles G Talanian Family Foundation|Winchester|MA|United States|PF
+061693858|Economic Education Fund Inc.|Brookline|MA|United States|PC
+133146988|Helping Hands Simian Aides for the Disabled Inc.|Allston|MA|United States|PC
+141892866|Science Club for Girls Inc.|Cambridge|MA|United States|PC
+200341286|Acton Community Housing Corporation|Acton|MA|United States|PC
+201208527|Venerini Academy Inc.|Worcester|MA|United States|PC
+201891037|Ocular Immunology and Uveitus Foundation Inc.|Weston|MA|United States|PC
+202668228|Saras Institute|West Newton|MA|United States|PC
+203530671|Eternal Life Radio Network Inc.|Medford|MA|United States|PC
+204343590|Korektho Inc.|Mattapan|MA|United States|PC
+205229116|Falmouth Public Library Foundation Inc.|Falmouth|MA|United States|PC
+205957683|Garden Neighborhood Charities Inc.|Boston|MA|United States|PC
+208442173|Farms Prides 4th of July Committee Inc.|Beverly Farms|MA|United States|PC
+222484239|Townsend Youth Soccer Association Inc.|Townsend|MA|United States|PC
+222540856|Citizens for Adequate Housing Inc.|Peabody|MA|United States|UNKWN
+222596205|In Season and Out of Season Inc.|East Boston|MA|United States|PC
+222745097|Fenway Community Trust|Boston|MA|United States|PC
+222881830|Mediation Services of North Central Massachusetts Inc.|Fitchburg|MA|United States|UNKWN
+223027059|Pro-Home Inc.|Taunton|MA|United States|PC
+223137765|Lao Buddhist Art and Culture of Lowell Massachusetts Inc.|Lowell|MA|United States|PC
+223260398|Brookline Soccer Club Inc.|Brookline|MA|United States|PC
+232210346|Project Love Inc.|Wareham|MA|United States|PC
+237121411|Chelmsford Hockey Association Inc.|Chelmsford|MA|United States|PC
+237267248|Arthur H Cort Family Foundation|Weston|MA|United States|PF
+237416890|Salvatore & Grace Rocco Charitable Trust|Nahant|MA|United States|PF
+260453205|Patricia Aslanis Foundation|Hingham|MA|United States|PF
+261404531|Uujmecorp|Cambridge|MA|United States|PC
+262085269|Hawkeye Campership Fund Inc.|West Newton|MA|United States|PC
+262893583|Stop Leukemia Inc.|South Boston|MA|United States|PC
+263494306|Education Francaise Greater Boston|Lexington|MA|United States|PC
+264153105|Carleton-Willard at Home Inc.|Bedford|MA|United States|PC
+266356357|Dr Charles J Homcy Charitable Foundation|Quincy|MA|United States|PF
+270626301|George H and Irene L Walker Trust|Boston|MA|United States|SOUNK
+271343909|Boston Beijing Opera Amateur Association Inc.|Somerville|MA|United States|PC
+271941096|Latino Stem Alliance|Revere|MA|United States|PC
+272618436|Faith Builders of New England Inc.|E Longmeadow|MA|United States|PC
+273290064|Gentlemens Round Table Inc.|Wareham|MA|United States|PC
+274111897|Halfway Home Cat Rescue|Chicopee|MA|United States|PC
+276535184|Bassick Family Foundation|Paxton|MA|United States|PF
+300417722|Sharing Resources|Dudley|MA|United States|PC
+311671667|Lawrence School Parent Teacher Organization|Brookline|MA|United States|PC
+330998957|Metrosouth Obstetrics & Gynecology Inc.|S Weymouth|MA|United States|SOUNK
+364562602|Ms Cure Fund Inc.|Boston|MA|United States|PC
+412086739|Worcester Polish School & Heritage Foundation Inc.|Sutton|MA|United States|PC
+450524297|North Shore Haitian American Association Inc.|Lynn|MA|United States|PC
+452684630|Woburn Wrestling Corporation|Woburn|MA|United States|PC
+453782754|Skiviegivie Incorporated|Falmouth|MA|United States|PC
+456118546|Eliot and June Tatelman Family Foundation|Boston|MA|United States|PF
+510284982|Sachs Foundation Inc.|Concord|MA|United States|PF
+527099484|Marian Hancock Burgess Scholarship Foundation|West Newton|MA|United States|PF
+562438298|Viking Pride Foundation|Winthrop|MA|United States|PC
+611595314|Middlesex Chi

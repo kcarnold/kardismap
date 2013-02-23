@@ -1,0 +1,109 @@
+010582906|Frederick S Thompson College Scholarship|South Hadley|MA|United States|PF
+020547496|Kids Karate|Newton|MA|United States|PC
+030606247|Dracut Access Television Inc.|Dracut|MA|United States|PC
+042103636|Walnut Hill School for the Arts|Natick|MA|United States|PC
+042104354|Jewish Big Brother-Sister Association of Boston|Newton Centre|MA|United States|PC
+042106771|William B Rice Eventide Home|Quincy|MA|United States|PC
+042167470|West End Day Nursery of New Bedford Inc.|Dartmouth|MA|United States|PC
+042300014|Horace Mann Educational Associates Inc.|Franklin|MA|United States|PC
+042437064|Hallmark Health Visiting Nurse Association and Hospice Inc.|Malden|MA|United States|PC
+042500591|Clapboardtree Nursery School Inc.|Westwood|MA|United States|PC
+042564849|Community Minority Cultural Center Inc.|Lynn|MA|United States|PC
+042602850|Comhaltas Ceoltoiri Eireann|Waltham|MA|United States|PC
+042626988|Boston College Alumni Association Cape Cod Chapter Inc.|Cotuit|MA|United States|PC
+042653345|Little League of Manomet Inc.|Plymouth|MA|United States|PC
+042679578|Word Inc. Child Development Center|Fall River|MA|United States|PC
+042702051|Emergency Medical Services Committee of Berkshire County Inc.|Pittsfield|MA|United States|PC
+042724935|Christ Chapel Inc.|Centerville|MA|United States|PC
+042743091|Friends of Hampden Senior Citizens Inc.|Hampden|MA|United States|PC
+042763932|Northeast Branch of the American Society of Microbiology Inc.|Dover|MA|United States|PC
+042780715|Massachusetts Sportsmens Junior Conservation Camp Inc.|Northboro|MA|United States|PF
+042815344|Concord-Carlisle Youth Baseball Inc.|Concord|MA|United States|PC
+042897736|Protestant Campus Ministry at Lowell|Pepperell|MA|United States|PC
+042939950|Center Redevelopmemt Corporation|South Hadley|MA|United States|SOUNK
+042983690|Fairlawn Foundation Inc.|Worcester|MA|United States|PC
+043029131|Eagle Santa Fund Inc.|Pittsfield|MA|United States|PC
+043065952|Quinsigamond Rowing Association Inc.|Worcester|MA|United States|UNKWN
+043098024|Veterans Inc.|Worcester|MA|United States|PC
+043122206|Dusky Foundation|Boston|MA|United States|PF
+043141919|Chestnut Hill Foundation Inc.|Chestnut Hill|MA|United States|PC
+043168805|M A S S F I L C Inc.|Arlington|MA|United States|PC
+043190716|Ecdc Nursery School of Walpole Inc.|Walpole|MA|United States|PC
+043213852|Norton Youth Baseball Inc.|Norton|MA|United States|PC
+043236868|Animal Shelter Inc.|Sterling|MA|United States|PC
+043254051|Friends of Lexington Music Art and|Lexington|MA|United States|PC
+043273013|Mansfield Elementary School Association|Mansfield|MA|United States|PC
+043289381|Faculty Practice Foundation Inc.|Boston|MA|United States|GROUP,SOUNK
+043307372|Friends of Spectrum Gymnastics Inc.|Brockton|MA|United States|PC
+043328276|Infusion Nurses Certification Corporation|Norwood|MA|United States|PC
+043348597|Chilmark Volunteer Firemans Association Inc.|Chilmark|MA|United States|PC
+043374658|Little Audrey Santo Foundation Inc.|Worcester|MA|United States|PC
+043397486|Partners for Community Inc.|Springfield|MA|United States|PC
+043413918|Marjot Foundation Inc.|Falmouth|MA|United States|PC
+043433070|Valley Players Inc.|Amesbury|MA|United States|PC
+043454186|John T Collins Foundation|Boston|MA|United States|PF
+043476541|Massachusetts Shellfish Officers Association Inc.|South Dennis|MA|United States|PC
+043491714|Dighton-Rehoboth Track & Field Boosters Inc.|Rehoboth|MA|United States|PC
+043509266|Metro South Chamber of Commerce Foundation Inc.|Brockton|MA|United States|PC
+043526152|Rotary Club of Haverhill Charitable Trust Inc.|Haverhill|MA|United States|PC
+043539486|Foundation for African Relief|Sharon|MA|United States|PC
+043554844|Thornton Family Foundation|Concord|MA|United States|PF
+043569947|Marblehead Conservancy Inc.|Marblehead|MA|United States|PC
+043583756|From the Top Inc.|Boston|MA|United States|PC
+046014352|Seamens Widow and Orphan Association of Salem|South Hamilton|MA|United States|PF
+046047193|John Greenleaf Whittier Homestead|Ward Hill|MA|United States|PF
+046067779|Ansin Foundation Rinet Company Llc|Boston|MA|United States|PF
+046113339|Ethical Society of Boston Inc.|Hyde Park|MA|United States|PC
+046144186|Greater Boston Chinese Cultural Association|West Newton|MA|United States|PC
+046403958|Helen E Elliot Tr FBO First Baptst Church & Centerville Chris Endvr|Beverly|MA|United States|SOUNK
+046774373|Rockland Trust Company Charitable Foundation|Hanover|MA|United States|PF
+046923387|Cogan Family Foundation Tr|Boston|MA|United States|PF
+061651176|Alford Land Trust Inc.|Alford|MA|United States|PC
+132514779|Society for Clinical & Experimental Hypnosis|Southborough|MA|United States|PC
+141857230|Framingham Girls Fastpitch Softball|Framingham|MA|United States|PC
+200281629|Boston Woodwind Society Inc.|Brookline|MA|United States|PC
+201134620|Turner Family Foundation|Boston|MA|United States|PF
+201834861|North Middlesex Savings Charitable Foundation Inc.|Ayer|MA|United States|PF
+202584028|Hopkinton & Ashland Pop Warner Football and Cheerleading Inc.|Ashland|MA|United States|PC
+203449191|Ravenwood Freedom Farm and Learning Center|Plainfield|MA|United States|PC
+204249704|North Attleboro Community Television Inc.|North Attleborough|MA|United States|PC
+205155381|Greater Springfield Eruv Corp|Longmeadow|MA|United States|PC
+205909330|An Orphans Dream Inc.|Quincy|MA|United States|PC
+208355694|Complex Systems Optimization Laboratory Inc.|Northampton|MA|United States|PC
+222481177|Tewksbury Youth Skating Association|Tewksbury|MA|United States|PC
+222535795|Easton Youth Soccer League Inc.|North Easton|MA|United States|PC
+222587073|Visiting Nurse Foundation Inc.|Somerville|MA|United States|PC
+222721692|Friends of Waltham Public Library Inc.|Waltham|MA|United States|PC
+222867362|International Consortium for Energy Development Inc.|Boston|MA|United States|PC
+223018051|New England Scholastic Band Association Inc.|Swansea|MA|United States|PC
+223121807|Framingham Education Foundation Inc.|Framingham|MA|United States|PC
+223241995|Old South Dennis Village Association Inc.|South Dennis|MA|United States|PC
+226374659|Chatham-Beech Charitable Foundation|Springfield|MA|United States|PF
+237105636|Mystic Valley Railway Society Inc.|Hyde Park|MA|United States|PC
+237249000|Temple Baptist Church|Brockton|MA|United States|PC
+237401209|Peabody Historical Society|Peabody|MA|United States|PC
+260380133|Westford Friends of East Boston Camps Inc.|Westford|MA|United States|PC
+261334743|Karuna School Inc.|Lincoln|MA|United States|PC
+262017043|Joe Andruzzi Foundation Inc.|Mansfield|MA|United States|PC
+262837129|Cheers for the Dream Makers Inc.|Oxford|MA|United States|PC
+263417944|Lombardi Paris Foundation|North Andover|MA|United States|PF
+264057090|Gianna S House|Buzzards Bay|MA|United States|PC
+266100532|J P Warner Charitable Tr|Weston|MA|United States|PF
+270575355|Ucal McKenzie Breakaway Foundation|Dorchester|MA|United States|PC
+271294809|Jennifer McLaughlin Memorial Scholarship and Endowment Inc.|Spencer|MA|United States|PC
+271883667|Green Angel Foundation|Cambridge|MA|United States|PF
+272528093|Andover Football Boosters Association Inc.|Andover|MA|United States|PC
+273235208|Pure Land Buddhism Inc.|Malden|MA|United States|PC
+274024484|Eternal Life Ministries|Hanson|MA|United States|PC
+276155005|Donald B Tobin Fund|Westwood|MA|United States|PF
+300350754|Medford Arts Center Inc.|Medford|MA|United States|PC
+311645296|Nonquit Street Neighborhood Association and Land Trust Inc.|Uphams Corner|MA|United States|PC
+320330980|Southcoast Childrens Chorus|Marion|MA|United States|PC
+364314614|Electronic Literature Organization|Cambridge|MA|United States|PC
+411322686|Infact|Boston|MA|United States|PC
+432115314|Brewster Meeting House Preservation Project Inc.|Brewster|MA|United States|PC
+452599736|Ministry Place Inc.|Pittsfield|MA|United States|PC
+453681266|Friends of the Cheshire Council on Aging|Cheshire|MA|United States|PC
+455456291|Brockton Foundation Inc.|S Easton|MA|United States|PC
+510201171|Harvard-Radcliffe Orchestra Inc. Pierian Sodality of 1808|Cambridge|MA|United States|PC
+522381764|Everyb

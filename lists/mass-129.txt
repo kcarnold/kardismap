@@ -1,0 +1,110 @@
+010750953|Genuine Voices Inc.|Dedham|MA|United States|PC
+020757029|Friends of Modern Architecture Inc.|Lincoln|MA|United States|PC
+041679310|North Weymouth Cemetery Association|N Weymouth|MA|United States|EO
+042103886|Beverly School for the Deaf|Beverly|MA|United States|PC
+042104778|Nichols College of Business Administration|Dudley|MA|United States|PC
+042125009|Young Womens Christian Association of Malden|Malden|MA|United States|PC
+042213301|Cuttyhunk Yacht Club Inc.|Medfield|MA|United States|PC
+042325603|Family Cooperative Preschool Inc.|North Andover|MA|United States|PC
+042457298|Robert F Kennedy Childrens Action Corps|Boston|MA|United States|PC
+042519279|Homeowners Rehab Inc.|Cambridge|MA|United States|PC
+042581620|Mission Hill Health Movement Inc.|Roxbury|MA|United States|PC
+042611603|Deerfield Valley Art Association Inc.|Greenfield|MA|United States|PC
+042635175|Church of Christ of Greater Lowell|Tyngsboro|MA|United States|PC
+042662134|The Gosnold Foundation Inc.|Falmouth|MA|United States|PC
+042687928|Fitch Home Association|Melrose|MA|United States|PC
+042708878|National Yiddish Book Center Inc.|Amherst|MA|United States|PC
+042732725|Worthington Senior Housing Inc.|Worthington|MA|United States|PC
+042750448|Reading Boosters Club Inc.|Reading|MA|United States|PC
+042768252|Sturdy Memorial Hospital Inc.|Attleboro|MA|United States|PC
+042790732|Longmeadow Chamber Music Society Inc.|Longmeadow|MA|United States|PC
+042862421|First Baptist Church|E Long Meadow|MA|United States|PC
+042912620|The Vine and Branches Fellowship Full Gospel Ministries Inc.|Fitchburg|MA|United States|PC
+042954003|West Springfield Church of Christ|W Springfield|MA|United States|PC
+042999238|Quincy After School Child Care Inc.|Wollaston|MA|United States|PC
+043041027|East-West Intercultural Association Inc.|Lexington|MA|United States|PC
+043076212|Global Routes Inc.|Northampton|MA|United States|PC
+043105107|United Church of Clinton|Clinton|MA|United States|PC
+043131293|Or Atid Conservative Jewish Association|Wayland|MA|United States|PC
+043154410|New England Electrophyisology Scoiety Inc.|Boston|MA|United States|PC
+043174475|Fifth Association Properties Inc.|Springfield|MA|United States|PC
+043198957|Home Savers Council of Greenfield Gardens Inc.|Greenfield|MA|United States|PC
+043222962|St. Columbkille Alumni Association Inc.|Brighton|MA|United States|PC
+043243004|Proteus Fund Inc.|Amherst|MA|United States|PC
+043261186|Community Farms Outreach|Waltham|MA|United States|PC
+043279485|One to Four Rehabilitation Corporation|Jamaica Plain|MA|United States|PC
+043294570|South Shore Skating Club Inc.|West Hanover|MA|United States|PC
+043315793|Advoguard Inc.|Rockland|MA|United States|PC
+043334498|Anna Myer and Dancers Inc.|Cambridge|MA|United States|PC
+043358630|Wareham Village Association Inc.|Wareham|MA|United States|PC
+043384704|Under Mountain Elementary Pto|Gt Barrington|MA|United States|PC
+043402516|Centro Cristiano Emanuel|Marlborough|MA|United States|PC
+043423462|Dedham Institution for Savings Foundationa|Boston|MA|United States|PF
+043439037|Universal Health Care Education Fund|Boston|MA|United States|PC
+043462996|Cary Memorial Library Foundation Inc.|Lexington|MA|United States|SOUNK
+043481558|Mission Main Resident Services Corporation|Boston|MA|United States|PC
+043495623|Nancy Conger Weldon Charitable Foundation Inc.|Hopkinton|MA|United States|PF
+043515853|Leeds Elementary School Parent Teacher Oraganization|Leeds|MA|United States|PC
+043531328|Railroad Street Youth Project|Gt Barrington|MA|United States|PC
+043543803|Steven M and Barbara Garfinkle Foundation Inc.|Boston|MA|United States|PF
+043560389|Joan K Sexton Foundation|Foxbrorough|MA|United States|PF
+043575722|American Gymnastics Parents Associaton|Burlington|MA|United States|PC
+043718347|Southeast Regional Network Inc.|New Bedford|MA|United States|PC
+046035387|Boston Rotary Trust|Boston|MA|United States|PC
+046052751|Smith Students Aid Society Inc.|Northampton|MA|United States|PC
+046079930|Littleton Scholarship Trust|Littleton|MA|United States|PC
+046125554|Salt Pond Areas Bird Sanctuaries Inc.|W Falmouth|MA|United States|PC
+046183540|Christian Mission Holiness Church of Cambridge|Cambridge|MA|United States|PC
+046605802|Lederman Family Foundation|Marblehead|MA|United States|PF
+046850495|Thomas H Pope Scholarship Fund|Beverly|MA|United States|PF
+050270473|Co of Military Historians Treasurers Office|Worcester|MA|United States|PC
+066531988|Weld Family Foundation|Boston|MA|United States|PF
+134025978|Clay Mathematics Institute Inc.|Cambridge|MA|United States|POF
+161628987|South Mountain Company Foundation|West Tisbury|MA|United States|PF
+200522081|Willing Shepherds of Jesus Christ Incorporated|Lawrence|MA|United States|PC
+201332310|Amazing Things Center for the Artz|Framingham|MA|United States|PC
+202020071|Forgotten Cat Inc.|North Quincy|MA|United States|PC
+202895803|Patten Family Foundation|Williamstown|MA|United States|PF
+203788629|Greek Orthodox Metropolis of Boston|Brookline|MA|United States|PC
+204616218|Berkshire Association for Behavior Analysis and Therapy Inc.|Gloucester|MA|United States|PC
+205428765|Friends of West Boylston Ma Bicentennial Committee Inc.|West Boylston|MA|United States|PC
+206537290|Gretchen Stone Cook Charitable Foundation|Boston|MA|United States|PF
+208668708|Dale Foundation Inc.|Seekonk|MA|United States|PF
+222505016|Massachusetts Health Sciences Library Network Incorporated|Boston|MA|United States|PC
+222553978|Friends of the Mashpee Council on Aging Inc.|Mashpee|MA|United States|PC
+222619953|Magnolia Historical Society Inc.|Magnolia|MA|United States|PC
+222778156|William F Connell Charitable Trust|Boston|MA|United States|PF
+222939566|Eldercare Alliance Inc.|Boston|MA|United States|SOUNK
+223051367|Family Life Support Center Inc.|Adams|MA|United States|PC
+223172923|Greater Attleboro Area Council for Children Inc.|Attleboro|MA|United States|PC
+223332169|Moreland Affordable Housing Corporation|Dorchester|MA|United States|PC
+237024479|New England Organ Bank Inc.|Waltham|MA|United States|PC
+237161662|John Mirak Foundation|Arlington|MA|United States|PF
+237305180|Plymouth Youth Hockey Inc.|Plymouth|MA|United States|PC
+237454766|Law and Society Association|Amherst|MA|United States|PC
+260652092|International Diabetes Organization Inc.|Sharon|MA|United States|PC
+261552859|Pittsfield Junior Football|Pittsfield|MA|United States|PC
+262303622|E Ethel Little School Parents Teachers Organization|Reading|MA|United States|PC
+263060995|Renewable Earth Inc.|Salem|MA|United States|PC
+263677899|Dedham Youth Baseball|Dedham|MA|United States|PC
+264355857|Douglas Youth Baseball|Douglas|MA|United States|PC
+270134065|Ain Family Foundation Inc.|Chelmsford|MA|United States|PF
+270842151|Papas Pet Project Inc.|Sagamore Bch|MA|United States|PC
+271503224|Nantucket Disc Golf Inc.|Nantucket|MA|United States|PC
+272104286|Troop One Stow Alumni Incorporated|Stow|MA|United States|PC
+272826218|Global Connection & Collaboration Inc.|Newton|MA|United States|PC
+273495087|Massachusetts Iraq and Afghanistan Fallen Heroes Memorial Fund Inc.|Dorchester|MA|United States|PC
+274426469|One Ball Two Strikes Inc.|Rutland|MA|United States|PC
+300094637|Richdale Inc.|Somerville|MA|United States|PF
+300559920|Hyper Alumni Association|Quincy|MA|United States|PC
+311745074|The Chaminade Club|Norton|MA|United States|PC
+341373054|King Georges Medical College Alumni in America|Longmeadow|MA|United States|PC
+366109048|Polish Legion of American Veterans National Dept Ladies Auxiliary|Ipswich|MA|United States|EO,GROUP
+412277668|Webster Education Foundation Inc.|Webster|MA|United States|PC
+451436366|Wilbraham 250th Celebration Inc.|Wilbraham|MA|United States|PC
+452923541|Climate Change Action Brookline Inc.|Brookline|MA|United States|PC
+454083884|Pentucket Bank Charitable Foundation Inc.|Haverhill|MA|United States|PF
+460939820|Mpc - Movimiento Pro Cultura Inc.|Methuen|MA|United States|PC
+510561211|Cape Cod Immigrant Center Inc.|Hyannis|MA|United States|PC
+542145161|Westfield Youth Football Inc.|Westfield|MA|United States|PC
+562647851|Friends of the Salisbury Public
