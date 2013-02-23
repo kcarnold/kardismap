@@ -14,17 +14,10 @@
 
   </head>
   <body>
-    <div style="position: absolute; margin: 0 auto; left: 0; top:0; width: 15%; height: 100%; padding: 3px;">
-      <form class="form-search">
-	<input style="text-align: center;" type="text" class="input-medium search-query">
-	<button type="submit" class="btn btn-success">Go!</button>
-      </form>
+    <div style="position: absolute; left: 0; top:0; width: 15%; height: 100%; padding: 3px;">
+      <input type="text" id="search" placeholder="Search">
       <p><b>Nonprofits</b></p>
-      <ul>
-        <li>Environment</li>
-        <li>Homeless</li>
-        <li>Animals</li>
-        <li>Health</li>
+      <ul id="nonprofits">
       </ul>
       <p><b>Needs</b></p>
       <ul>
@@ -33,8 +26,8 @@
     </div>
     <div id="map_canvas" style="position: absolute; right: 0; width:85%; height:100%"></div>
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script type="text/javascript">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
+  <script>
 var mapOptions = {
   center: new google.maps.LatLng(42.346365,-71.037598),
   zoom: 8,
@@ -55,12 +48,29 @@ var opt = {
   }, {
     where: 'Name STARTS WITH \'A\'',
     markerOptions: {
-      iconName: 'small_green'
+      iconName: 'small_red'
     }
   }]
 };
 var layer = new google.maps.FusionTablesLayer(opt);
 layer.setMap(map);
+
+var nonprofitCats = [
+  ['Environment', "Name STARTS WITH 'A'"],
+  ['Homeless', "Name STARTS WITH 'B'"],
+  ['Animals', "Name STARTS WITH 'C'"],
+  ['Health', "Name STARTS WITH 'D'"],
+  ];
+
+$.each(nonprofitCats, function(i, x) {
+  var lbl = x[0], where = x[1];
+  $('<li>').append($('<a>').text(lbl).click(function(){setNonprofitMode(where);})).appendTo('#nonprofits');
+});
+
+function setNonprofitMode(where) {
+  opt.styles[1].where = where;
+  layer.setOptions(opt);
+}
     </script>
 
   </body>
