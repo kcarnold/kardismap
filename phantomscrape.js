@@ -29,9 +29,12 @@ page.open('http://www.guidestar.org/AdvancedSearch.aspx', function (status) {
 
 server.listen(12345, function(request, response) {
     var ein = request.post.request;
+    console.log("got request");
     getDetailUrlforEin(ein, function(url) {
+        console.log("done looking up URL");
         response.statusCode = 200;
         response.write(url);
         response.close();
+        console.log("Sent response");
     });
 });
