@@ -5,6 +5,8 @@ ghost = Ghost(download_images=False)
 print 'initial'
 page, resources = ghost.open('http://www.guidestar.org/AdvancedSearch.aspx')
 
+selectors = dict(name='h1.org-name')
+
 
 def getDetailUrlForEIN(ein):
     print 'search'
@@ -16,5 +18,7 @@ def getDetailUrlForEIN(ein):
 def scrape(href):
     r = requests.get('http://www.guidestar.org/'+href)
     root = fromstring(r.text)
-    return dict(name=root.cssselect('h1.org-name')[0].text)
-
+    res = {}
+    for name, selector in selectors.iteritems():
+        res[name] = root.cssselect(selector)[0].text
+    return res
