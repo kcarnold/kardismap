@@ -29,6 +29,9 @@
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.js"></script>
   <script>
+if (!window.console)
+  window.console = {log: function() {}};
+
 var mapOptions = {
   center: new google.maps.LatLng(42.346365,-71.037598),
   zoom: 8,
